@@ -1,0 +1,2 @@
+
+You have some amount of sharp spines, usually used for aggressive defense. ==You may choose to activate your spines to damage those who would try and touch you. When someone touches your activated spines, they take the "Pierced" **[Minor Physical Harm](Harm)**. You may launch these spines if you desire. This ability can be affected by venom==. What do your spines look like? What do they feel like when they are inactive? How hard is it to clean them?

@@ -1,0 +1,2 @@
+
+You have a beak as a mouth (probably). ==You may use your beak to peck people, distracting and dealing the "Pecked" **[Minor Physical Harm](Harm)** when successful==. What does your beak look like? What does your body look like around it? How do you take care of it?

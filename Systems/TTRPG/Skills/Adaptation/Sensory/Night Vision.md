@@ -1,0 +1,2 @@
+
+You have exceptional vision, even in darkness. ==When in darkness, you see everything around you as if wearing sunglasses==. Does your darkvision have any colored tint? Why do you think you developed this sense? Would you be able to go an extended period of time without it?

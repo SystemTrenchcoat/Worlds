@@ -1,0 +1,2 @@
+
+There is some energy, some aesthetic, some spark that fuels your very being. Those around you are subconsciously influencing those around you, making them more and more like your energy in some way. You also feed on another energy, opposite or complimentary. When you do, gain +1 die.

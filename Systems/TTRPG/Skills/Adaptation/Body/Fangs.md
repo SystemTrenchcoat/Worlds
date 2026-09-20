@@ -1,0 +1,2 @@
+
+You have a particularly toothy grin. ==You may attack by biting, dealing the "Bitten" **[Minor Physical Harm](Harm)**. This can be affected by [[venom]]==. What do your fangs look like? Have you ever accidentally bitten yourself with them? Do you flash them to people as a threat?

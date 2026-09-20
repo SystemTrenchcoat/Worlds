@@ -1,0 +1,2 @@
+
+You have an additional set of limbs. ==You may use these limbs the same way you would normally use your arms. They may benefit from [[claws]], [[talons]], [[wings]], [[hooves]], [[pseudopod]], or any other [[Adaptation.canvas]] or ability that affect your limbs==. Do you have a dominant set of limbs? Do they appear different? How would your life change if your lost them?

@@ -1,0 +1,2 @@
+
+You have enough control over your tail to manipulate the world with it in a meaningful way. ==You may grab and move around objects with your tail the same way you would with your hand==. How often do you utilize this ability? What do you use it for? How have people responded to you using it (if at all)?

@@ -1,0 +1,2 @@
+
+You are half mortal, half beast. ==Your lower half if that of an animal and gains traits appropriate for it. You may carry a passenger unburrdened, assuming your lower half is large enough to carry them (no making small bunny taurs try and carry a literal giant)==.

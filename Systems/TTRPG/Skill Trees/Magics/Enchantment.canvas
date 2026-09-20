@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"94ebfbf8fe12772a","type":"text","text":"**Prepared Enchantments.** Prepared enchantments roll one **Spellcraft** die higher. Prepared enchantments have a **Spellcraft Roll** charges and regain a **Spellcraft Roll** charges to a max of your **Spellcraft [[Die Max]]** \nCreatures can attempt to use the item past that, but it uses their stats (usually **Spellcraft**) as appropriate.","x":-140,"y":-420,"width":440,"height":200},
+		{"id":"b6b45caeddd8762e","type":"text","text":"**Complex Enchantments.** Casters can create more complex enchantments (Something that would take multiple spells). These enchantments cost more than one enchantment slot, but can not exceed half the max **Spellcraft** die. Additionally, the caster has enchantment slots equal to their **Spellcraft [[Die Max]]**","x":-140,"y":-700,"width":440,"height":180},
+		{"id":"d4dc155d8db2b0bd","type":"text","text":"**Incomprehensible Enchantments.** Casters can make most any enchantment, now able to spend as many enchantment slots as the can access for it. Additionally, these slots are now double their **Spellcraft [[Die Max]]**","x":-140,"y":-960,"width":440,"height":160},
+		{"id":"7e47a6a84b8f97de","type":"text","text":"**Explosive Disenchantment.** Caster can remove one enchantment of theirs within line of sight to cause an explosion. This explosion goes out for 5' per enchantment slot, dealing **[Minor Phyisical Harm](Harm)** per enchantment slot","x":-140,"y":-1700,"width":440,"height":160,"color":"#000000"},
+		{"id":"5148f3411906a9c6","type":"text","text":"**Harness.** Caster can remove one enchantment of theirs within line of sight to add a die to a roll","x":360,"y":-910,"width":440,"height":60},
+		{"id":"3cdb4598618de244","type":"text","text":"**Transfer Enchantment.** Caster can remove one enchantment of theirs within line of sight and place it on a non-magical item. The original item acts as described for removing enchantments. If the enchantment is removed from the non-magical item, the item will return to being non-magical (and does not behave as described for removing enchantments)","x":-660,"y":-1000,"width":440,"height":240},
+		{"id":"e23600a5869383a1","type":"text","text":"**Enchantment Thief.** Caster can affect other enchantments as if their own. If they are a different magic or higher level, they must make a **Spellcraft** check to do so","x":-720,"y":-1222,"width":440,"height":125},
+		{"id":"30559a700f23c848","type":"text","text":"**Orchestrator.** Caster can affect their enchantmented items at once using **Spellcraft**","x":360,"y":-1203,"width":440,"height":87},
+		{"id":"a544e4f4386e6e16","type":"text","text":"**Master Enchanter.** Add double the points invested in **Spellcraft** and **Enchantment** when determining max enchantment slots","x":-140,"y":-1209,"width":440,"height":100},
+		{"id":"e3773d8bafc9d9fb","type":"text","text":"**Enchantment.** Spells cast on items, cast using the caster's ability. Can be done in free time for potent long-term effect or quick for weak temp. effect\n==You can make temporary magic items. These items have 1 charge and have **Spellcraft** dice equal to the number of skills obtained in this branch. You may make an amount of Enchantments equal to half your **Spellcraft** die. If you would exceed this, you may choose to remove the magic from an enchantment you have made. You, or another creature may utilize it by rolling spellcraft==","x":-140,"y":-120,"width":440,"height":312}
+	],
+	"edges":[
+		{"id":"72866f6c4cdd5c67","fromNode":"e3773d8bafc9d9fb","fromSide":"top","toNode":"94ebfbf8fe12772a","toSide":"bottom"},
+		{"id":"ed4117af2cc35b62","fromNode":"94ebfbf8fe12772a","fromSide":"top","toNode":"b6b45caeddd8762e","toSide":"bottom"},
+		{"id":"5456c46f8d83a0d4","fromNode":"b6b45caeddd8762e","fromSide":"top","toNode":"d4dc155d8db2b0bd","toSide":"bottom"},
+		{"id":"9b2cf4aa2d25a96c","fromNode":"b6b45caeddd8762e","fromSide":"left","toNode":"3cdb4598618de244","toSide":"bottom"},
+		{"id":"e1f25a70e5fbb998","fromNode":"d4dc155d8db2b0bd","fromSide":"top","toNode":"e23600a5869383a1","toSide":"bottom"},
+		{"id":"e6eb2fdba3be5c7b","fromNode":"d4dc155d8db2b0bd","fromSide":"top","toNode":"a544e4f4386e6e16","toSide":"bottom"},
+		{"id":"a861a34241346f4c","fromNode":"d4dc155d8db2b0bd","fromSide":"top","toNode":"30559a700f23c848","toSide":"bottom"},
+		{"id":"d14d282668f1fda0","fromNode":"b6b45caeddd8762e","fromSide":"right","toNode":"5148f3411906a9c6","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

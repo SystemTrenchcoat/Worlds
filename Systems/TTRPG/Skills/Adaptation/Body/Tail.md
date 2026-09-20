@@ -1,0 +1,2 @@
+
+You have a tail. ==You have +1 die on rolls to remain balanced==. What does your tail look like? How does it move or change with your mental/emotional state? Is this a thing you can suppress? Would you want to? How does it feel if you can?

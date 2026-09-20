@@ -1,0 +1,2 @@
+
+You have a natural resistance to something, be it fire, poison, or the weather. ==You suffer 1 less level of **[[Harm]]** from your resistance==. How does it affect your body? What does it look like? Does it alter your insides in any way? All of these are things to consider and should be discussed between you and your GM

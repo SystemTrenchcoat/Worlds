@@ -1,0 +1,2 @@
+
+You have at least one jelly limb. ==You may change the form of and control this limb as you see fit (though it always has approximately the mass of a mortal arm and must obey physics (no black hole arms) ). This can be affected by [[slime]]==. What does your pseudopod look like? How does it use it? Does it have any notable traits?

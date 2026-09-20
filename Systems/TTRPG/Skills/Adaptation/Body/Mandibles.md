@@ -1,0 +1,2 @@
+
+You have insectoid mandibles on your face (probably). ==You may use them to grapple an opponent. While grappling in this way, deal the "Pinched" **[Minor Physical Harm](Harm)**==. What do your mandibles look like? How do you usually use them? Do they have any significant effect on your life away from your own people (assuming you are from a people that passed them down to you)?

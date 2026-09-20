@@ -1,0 +1,2 @@
+
+You have hooves instead of feet (probably). ==You can attack by stomping on a target, dealing the "Trampled" **[Minor Physical Harm](Harm)**==. What type of hoof do you have? Do you wear some sort of shoe? How do you feel travelling through rough and cold terrain?

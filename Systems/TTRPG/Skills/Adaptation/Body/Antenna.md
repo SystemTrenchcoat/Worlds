@@ -1,0 +1,2 @@
+
+You have a set of antenna to enhance your senses. ==When you pick this adaptation, decide what sense it is enhancing. You gain +1 **[[Result]]** when making checks utilizing it==. What do they look like? How do they respond to stimulus? Is that effect one you can suppress? If it does, how does that affect their senses? How does it feel? Would you even want to?

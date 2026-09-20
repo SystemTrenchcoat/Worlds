@@ -1,0 +1,46 @@
+{
+	"nodes":[
+		{"id":"ac1eaf0ab5f887cd","type":"text","text":"Social","x":-60,"y":-160,"width":109,"height":60,"color":"5"},
+		{"id":"c6b87c330e68b656","type":"text","text":"Convey","x":-63,"y":-320,"width":115,"height":60,"color":"4"},
+		{"id":"62f93456d7e5880a","type":"text","text":"Discern","x":-60,"y":0,"width":110,"height":60,"color":"4"},
+		{"id":"7e7f752bf2fd3f4f","type":"text","text":"Emotion","x":-340,"y":-440,"width":111,"height":60,"color":"3"},
+		{"id":"88eb796370be6486","type":"text","text":"Thought","x":191,"y":-440,"width":112,"height":60,"color":"3"},
+		{"id":"dbbe1dacf1ba9291","type":"text","text":"Message","x":200,"y":130,"width":120,"height":60,"color":"3"},
+		{"id":"7feb8872ebd45200","type":"text","text":"Lip-Reading","x":440,"y":250,"width":139,"height":60},
+		{"id":"c68204b3768f1524","type":"text","text":"Intent","x":-328,"y":130,"width":99,"height":60,"color":"3"},
+		{"id":"f30c425d165406b5","type":"text","text":"Non-Verbal Cues","x":-600,"y":250,"width":180,"height":60},
+		{"id":"4a376fe4b080253b","type":"text","text":"Norms","x":-57,"y":460,"width":105,"height":60},
+		{"id":"296d46cde6c7b529","type":"text","text":"History","x":141,"y":378,"width":119,"height":60},
+		{"id":"77f33308a94bb895","type":"text","text":"Taboos","x":-278,"y":378,"width":103,"height":60},
+		{"id":"2dad90ba3cedb487","type":"text","text":"Customs","x":-62,"y":280,"width":116,"height":60,"color":"3"},
+		{"id":"62d3f1b45806128d","type":"text","text":"Interpretation","x":-86,"y":130,"width":163,"height":60},
+		{"id":"21c5169872fa93c4","type":"text","text":"Manipulation","x":-573,"y":-560,"width":153,"height":60},
+		{"id":"d58cf06e98a786bc","type":"text","text":"Deception","x":400,"y":-560,"width":148,"height":60},
+		{"id":"115d7530041e6342","type":"text","text":"Performance","x":-81,"y":-750,"width":152,"height":60},
+		{"id":"3fe3430b02996a09","type":"text","text":"Experience","x":-73,"y":-590,"width":135,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"9b664d6dcd84f03f","fromNode":"ac1eaf0ab5f887cd","fromSide":"top","toNode":"c6b87c330e68b656","toSide":"bottom"},
+		{"id":"624e9043e81deb75","fromNode":"ac1eaf0ab5f887cd","fromSide":"bottom","toNode":"62f93456d7e5880a","toSide":"top"},
+		{"id":"171419139664fac4","fromNode":"c6b87c330e68b656","fromSide":"right","toNode":"88eb796370be6486","toSide":"bottom"},
+		{"id":"61f1859e20b39b26","fromNode":"c6b87c330e68b656","fromSide":"left","toNode":"7e7f752bf2fd3f4f","toSide":"bottom"},
+		{"id":"a6970b254e15a406","fromNode":"c6b87c330e68b656","fromSide":"top","toNode":"3fe3430b02996a09","toSide":"bottom"},
+		{"id":"f2f424a5d7944c06","fromNode":"3fe3430b02996a09","fromSide":"top","toNode":"115d7530041e6342","toSide":"bottom"},
+		{"id":"5d9e6d4f90068bbe","fromNode":"62f93456d7e5880a","fromSide":"bottom","toNode":"2dad90ba3cedb487","toSide":"top"},
+		{"id":"4799fd4b8c64fb75","fromNode":"62f93456d7e5880a","fromSide":"left","toNode":"c68204b3768f1524","toSide":"top"},
+		{"id":"7da138b88885f6ab","fromNode":"62f93456d7e5880a","fromSide":"right","toNode":"dbbe1dacf1ba9291","toSide":"top"},
+		{"id":"0302be7cb7c6680e","fromNode":"dbbe1dacf1ba9291","fromSide":"right","toNode":"7feb8872ebd45200","toSide":"top"},
+		{"id":"02f7a8d794be1834","fromNode":"c68204b3768f1524","fromSide":"left","toNode":"f30c425d165406b5","toSide":"top"},
+		{"id":"07397f5022076a61","fromNode":"2dad90ba3cedb487","fromSide":"left","toNode":"77f33308a94bb895","toSide":"top"},
+		{"id":"5e2f443522d31cb5","fromNode":"2dad90ba3cedb487","fromSide":"right","toNode":"296d46cde6c7b529","toSide":"top"},
+		{"id":"7d7034a90b10699f","fromNode":"2dad90ba3cedb487","fromSide":"bottom","toNode":"4a376fe4b080253b","toSide":"top"},
+		{"id":"5afaa9d05095ea1e","fromNode":"dbbe1dacf1ba9291","fromSide":"left","toNode":"62d3f1b45806128d","toSide":"right"},
+		{"id":"c6d6c5407cc09901","fromNode":"c68204b3768f1524","fromSide":"right","toNode":"62d3f1b45806128d","toSide":"left"},
+		{"id":"0ec25a9a969905c2","fromNode":"88eb796370be6486","fromSide":"right","toNode":"d58cf06e98a786bc","toSide":"bottom"},
+		{"id":"5bda20a400f3ead6","fromNode":"7e7f752bf2fd3f4f","fromSide":"left","toNode":"21c5169872fa93c4","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

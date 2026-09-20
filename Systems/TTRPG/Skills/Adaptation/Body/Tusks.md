@@ -1,0 +1,2 @@
+
+You have tusks that stick out of your mouth. ==You may impale those unfortunate enough to be close to your mouth, dealing the "Impaled" **[Minor Physical Harm](Harm)**==. How big are your tusks? How curvy? How eager are you to use them at any given moment?

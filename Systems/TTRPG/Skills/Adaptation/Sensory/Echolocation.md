@@ -1,0 +1,2 @@
+
+You have the ability to find your way through sound and hearing. ==You can tell where you are through sound alone. You may struggle to do so if there is too much noise==. How do you feel about this ability? How do you feel about being around people (especially loud people)? Have you lived in more enclosed or open spaces?

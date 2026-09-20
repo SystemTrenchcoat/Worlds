@@ -1,0 +1,2 @@
+
+You are poisonous and inflict pain on those foolish enough to bite you. ==When you are bitten or otherwise have your flesh ingested, deal the "Poisoned" **[Moderate Physical Harm](Harm)**==. What does your poison do? How did you discover your poisonous nature? Do you have some sort of tell that you are poisonous (like tree frogs or certain bugs)?

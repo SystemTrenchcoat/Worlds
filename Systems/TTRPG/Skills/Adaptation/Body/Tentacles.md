@@ -1,0 +1,2 @@
+
+You have a tentacles for arms (probably). ==When you grapple, you have +1 die to keep creatures grappled. Additionally, they are affected by [[slime]]==. Where are your tentacles located? Do they have any defining features (like suction cups or patterns)? Do your tentacles have any notable reactions with any material or the like?

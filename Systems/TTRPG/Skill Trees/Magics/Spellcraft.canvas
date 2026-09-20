@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"6ac9905b95998162","type":"text","text":"Spellcraft","x":-154,"y":-133,"width":119,"height":60,"color":"4"},
+		{"id":"2141966200542189","type":"text","text":"[Psionics](Psionics.canvas)","x":-133,"y":-300,"width":112,"height":60,"color":"3"},
+		{"id":"d04682eb452d7120","type":"text","text":"[Clockwork](Clockwork.canvas)","x":-329,"y":-37,"width":130,"height":60,"color":"3"},
+		{"id":"a6e494707c230132","type":"text","text":"[Formula](Formula.canvas)","x":-213,"y":62,"width":111,"height":60,"color":"3"},
+		{"id":"992d3f2bc0ee6515","type":"text","text":"[Ritual](Ritual.canvas)","x":-278,"y":-224,"width":103,"height":60,"color":"3"},
+		{"id":"5eba0bf5bc95ed11","type":"text","text":"Unless otherwise specified, casters can utilize spellcraft an amount of times equal to half  their **Spellcraft** die (3 for a d6, etc.). This increases to their **Spellcraft [[Die Max]]** in the third middle, then twice their **Spellcraft [[Die Max]]** on the fourth. Attempting to cast more results in the \"Drained\" **[Minor Metaphysical Harm](Harm)**. The same thing happens if they attempt to utilize a spell they have 0 dice in (increasing in **[[Harm]]** level ~every 2 levels of success.","x":-382,"y":191,"width":610,"height":209},
+		{"id":"a3bc8ccb5f9759a9","type":"text","text":"[Oracy](Oracy.canvas)","x":-13,"y":-224,"width":104,"height":60,"color":"3"},
+		{"id":"674f66dff3567ecd","type":"text","text":"[Alchemy](Alchemy.canvas)","x":-76,"y":62,"width":127,"height":60,"color":"3"},
+		{"id":"8cd6043906a3ae78","type":"text","text":"[Enchantment](Enchantment.canvas)","x":39,"y":-37,"width":164,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"6eeb2f386b34819e","toFloating":false,"fromNode":"6ac9905b95998162","fromSide":"bottom","toNode":"a6e494707c230132","toSide":"top"},
+		{"id":"cea017f5c754daa8","fromNode":"6ac9905b95998162","fromSide":"bottom","toNode":"674f66dff3567ecd","toSide":"top"},
+		{"id":"9540bb2d6651e3b4","fromNode":"6ac9905b95998162","fromSide":"top","toNode":"2141966200542189","toSide":"bottom"},
+		{"id":"5cc0f2828c1b8395","fromNode":"6ac9905b95998162","fromSide":"right","toNode":"8cd6043906a3ae78","toSide":"left"},
+		{"id":"7cbcddc3562a91e7","fromNode":"6ac9905b95998162","fromSide":"left","toNode":"d04682eb452d7120","toSide":"right"},
+		{"id":"f05562f9bac7e2b8","fromNode":"6ac9905b95998162","fromSide":"left","toNode":"992d3f2bc0ee6515","toSide":"right"},
+		{
+			"id":"fd923f6b5c9a6103",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6ac9905b95998162",
+			"fromSide":"right",
+			"toNode":"a3bc8ccb5f9759a9",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

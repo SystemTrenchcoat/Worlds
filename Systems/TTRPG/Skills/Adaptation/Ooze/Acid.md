@@ -1,0 +1,2 @@
+
+You excrete (probably spit) a potent acid. ==You may utilize this to attack, dealing the "Burn" Minor Physical Damage==. How do you use your acid (spitting is an option, but you can do whatever really)? What does your acid look like? Does it have any interesting effects?

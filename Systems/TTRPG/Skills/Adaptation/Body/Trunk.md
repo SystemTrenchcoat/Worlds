@@ -1,0 +1,2 @@
+
+You have a trunk. ==You have +1 die to checks involving smell. Furthermore, if you choose to have a long trunk, you may use it like a hand, more or less==. What does your trunk look like? Do you ever use it to move things? How does it feel if you can? How do you feel about your trunk?

@@ -1,0 +1,2 @@
+
+You create a fine, sticky silk through spinerettes somewhere on your body. ==You can utilize this silk to trap enemies. Additionally, you can use it in Crafts==. Where are your spinerettes? How often do you use your thread? Is there anything special about your threads?

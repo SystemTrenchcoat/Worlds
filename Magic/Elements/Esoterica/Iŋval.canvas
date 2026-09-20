@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"a78143c6b661de9d","x":-800,"y":-680,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Remora.md"},
+		{"id":"c21de3edb33994b1","x":-800,"y":-51,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Seir.md"},
+		{"id":"d089aaa7af1a99fd","x":400,"y":-487,"width":400,"height":415,"type":"file","file":"Magic/Elements/Esoterica/Dia.md"},
+		{"id":"9ba1b883143c05a8","x":-193,"y":-960,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Mondo.md"},
+		{"id":"2af580c2b692ae76","x":-193,"y":400,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Kata.md"},
+		{"id":"6fc5fec818ef4a97","x":400,"y":120,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Esera.md"}
+	],
+	"edges":[
+		{"id":"19a3fba9e1dea818","fromNode":"9ba1b883143c05a8","fromSide":"bottom","toNode":"2af580c2b692ae76","toSide":"top"},
+		{"id":"8fe0b8504e26f452","fromNode":"6fc5fec818ef4a97","fromSide":"left","toNode":"a78143c6b661de9d","toSide":"right"},
+		{"id":"acfdd541d9f141bf","fromNode":"c21de3edb33994b1","fromSide":"right","toNode":"d089aaa7af1a99fd","toSide":"left"},
+		{"id":"3643c1e4808f8e08","fromNode":"d089aaa7af1a99fd","fromSide":"left","toNode":"c21de3edb33994b1","toSide":"right"},
+		{"id":"a23a737c36841ce1","fromNode":"a78143c6b661de9d","fromSide":"right","toNode":"6fc5fec818ef4a97","toSide":"left"},
+		{"id":"4bc9f4a7b6221a7e","fromNode":"2af580c2b692ae76","fromSide":"top","toNode":"9ba1b883143c05a8","toSide":"bottom"}
+	]
+}

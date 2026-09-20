@@ -1,0 +1,2 @@
+
+You secrete some sort of pheromone. ==When you release your pheromones, gain +1 die to social rolls against creatures that can smell==. Do the pheromones do something interesting? Do they have a smell? If so, what? Do you have any interesting stories that came from your use of pheromones?

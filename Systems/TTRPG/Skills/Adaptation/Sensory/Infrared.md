@@ -1,0 +1,2 @@
+
+You can see light in the infrared spectrum. ==You see the heat of everything around you. As such, you can see through basic invisibility (that which only affects the visible light spectrum)==. How do you utilize this skill? Why do you think you developed it? Do you have any interesting stories relating to it?

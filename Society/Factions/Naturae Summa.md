@@ -1,0 +1,4 @@
+
+This guild is a strange one. They desire to fuse magic, technology, society, and nature. This guild's action are considered taboo by most; they experiment on fusing living organisms and making major physical augments to humanoids with technology. Most people steer clear of the guild for fear of becoming a test subject.
+
+A strange guild started by a strange clan of elves. The guild hopes to combine magic, nature, thecnology, and people via unholy abomonations. The elves were obsessed with creating the perfect lifeform an attempted to create many from scratch. Eventually, they came up with the idea of fusing people with animals, plants, tech, anything they could get their hands on. This lead to unnatural, "unholy" creatures hated by the [[Children of Nature|Children]], [[Ambassadors of Nature|Ambassadors]], and the [[Grim Reapers|Reapers]]. The [[Naturae Summa]] is known for its questionable ethics and experiments.

@@ -1,0 +1,2 @@
+
+You bare a dangerous venom inside you. ==When your venom affects an attack, deal the "Poisoned" **[Minor Physical Harm](Harm)**==. How do you apply your venom (biting and certain other Adaptions work, but you can do something else, like secreting it through your skin and onto a weapon)? Does your venom do something unique? Have you ever accidentally poisoned someone?

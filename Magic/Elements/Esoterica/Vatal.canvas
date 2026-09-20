@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"d5804bf7c7607639","x":-240,"y":-400,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Mondo.md"},
+		{"id":"5a1c367869ceb7fe","x":-800,"y":0,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Oaurva.md"},
+		{"id":"baa74b44d2d1023f","x":-720,"y":520,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Uuŋvl.md"},
+		{"id":"4352366da8c4a598","x":-200,"y":880,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Kata.md"},
+		{"id":"58aeb4fc261fd593","x":360,"y":480,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Nyŋvar.md"},
+		{"id":"4fa8231b29223e9f","x":320,"y":-80,"width":400,"height":400,"type":"file","file":"Magic/Elements/Esoterica/Iirminviir.md"}
+	],
+	"edges":[
+		{"id":"1fea101451668759","fromNode":"4352366da8c4a598","fromSide":"top","toNode":"d5804bf7c7607639","toSide":"bottom"},
+		{"id":"3d67cab393cc2e13","fromNode":"d5804bf7c7607639","fromSide":"bottom","toNode":"4352366da8c4a598","toSide":"top"},
+		{"id":"d3dc85105602ee3b","fromNode":"4fa8231b29223e9f","fromSide":"left","toNode":"baa74b44d2d1023f","toSide":"right"},
+		{"id":"3b511b2c5efed3af","fromNode":"baa74b44d2d1023f","fromSide":"right","toNode":"4fa8231b29223e9f","toSide":"left"},
+		{"id":"cd2e0ee269540149","fromNode":"58aeb4fc261fd593","fromSide":"left","toNode":"5a1c367869ceb7fe","toSide":"right"},
+		{"id":"7cf2d0b6b864b336","fromNode":"5a1c367869ceb7fe","fromSide":"right","toNode":"58aeb4fc261fd593","toSide":"left"}
+	]
+}

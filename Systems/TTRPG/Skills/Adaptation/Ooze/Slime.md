@@ -1,0 +1,2 @@
+
+You excrete... something. This is mostly a placeholder ability. Discuss with your GM what you would like it to do. Some examples include lesser mind reading (surface thoughts and/or emotions), potential paralysis, or just being slippery.

@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"7d7b415ae219d6c8","type":"text","text":"**Ritual.** Spells are cast as long performances, from chanting to dance, to anything else really, gaining strength as they are performed.\n==You perform rituals that produce magical effects as long as they are being performed. It's effectiveness is determined by a number of spellcraft die equal to the number of points invested into this branch and its is rolled as necessary (if you're generating a field of light or protection, your GM may have you roll **Spellcraft** or **Endurance** to see if you are able to keep it up/how well)==","x":-280,"y":-220,"width":500,"height":280},
+		{"id":"bf90c35ee89bd56c","type":"text","text":"**Involved Performance.** Rituals can be delayed to be made stronger. Gain 1 **Spellcraft** die per minute spent performing it to a max of haf your **Spellcraft [[Die Max]]**","x":-280,"y":-400,"width":500,"height":98},
+		{"id":"90b9489408b61e52","type":"text","text":"**Engaging Performance.** Rituals have a secondary effect as it builds, each \"turn\" producing a 1 **Spellcraft Die** effect. Your ritual pool max is now equal to your **Spellcraft [[Die Max]]** ","x":-280,"y":-620,"width":500,"height":102},
+		{"id":"cc1910f36619c70e","type":"text","text":"**Rousing Performace.** Gain one additional die each \"turn\" you build your ritual. This is added to your secondary effect. Your ritual pool max is now equal to twice your **Spellcraft [[Die Max]]**","x":-280,"y":-820,"width":500,"height":120},
+		{"id":"67e5dcf42fb1d38e","type":"text","text":"**Multitasking.** Caster can take other actions while performing rituals.","x":320,"y":-980,"width":500,"height":60},
+		{"id":"9bc2fbf4eae19dfa","type":"text","text":"**Powerful Ritual.** Rituals increase by an additional **Spellcraft Die** for each point in **Spellcraft**","x":-880,"y":-803,"width":500,"height":60},
+		{"id":"989b1dd36ec2c246","type":"text","text":"**Compound Ritual.** Caster can cast 2 rituals at once, both triggering secondary effects","x":-880,"y":-980,"width":500,"height":60},
+		{"id":"2ca7cf7785202815","type":"text","text":"**Explosive Ritual.** Ritual dice **[[Explode]]**.","x":-280,"y":-980,"width":500,"height":50}
+	],
+	"edges":[
+		{"id":"3fae72f2a3e04de6","fromNode":"90b9489408b61e52","fromSide":"left","toNode":"9bc2fbf4eae19dfa","toSide":"bottom"},
+		{"id":"6f8aa165500baea7","fromNode":"7d7b415ae219d6c8","fromSide":"top","toNode":"bf90c35ee89bd56c","toSide":"bottom"},
+		{"id":"fb89838d5fe75ab7","fromNode":"bf90c35ee89bd56c","fromSide":"top","toNode":"90b9489408b61e52","toSide":"bottom"},
+		{"id":"db72d363c59e2ccf","fromNode":"90b9489408b61e52","fromSide":"top","toNode":"cc1910f36619c70e","toSide":"bottom"},
+		{"id":"e943b8a63af818ae","fromNode":"cc1910f36619c70e","fromSide":"top","toNode":"989b1dd36ec2c246","toSide":"bottom"},
+		{"id":"4e06d41ae9f5641d","fromNode":"cc1910f36619c70e","fromSide":"top","toNode":"2ca7cf7785202815","toSide":"bottom"},
+		{"id":"59a19eb97b2b4cc5","fromNode":"cc1910f36619c70e","fromSide":"top","toNode":"67e5dcf42fb1d38e","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,14 @@
+---
+tags:
+  - overview
+  - divine
+  - creator
+---
+
+To think of [[The Original 4]] creation gods as humanoid would be remiss of all the complexity of their true essence. [[Chryorous]] was the space of [[The Void]], a thought echoing through the nothingness (with his other half being the more stable/solid land where the [[void-walkers]], near formless echoes of [[Chryorous]], called home). [[Xydranous]] emanated as a flame with scales orbiting it in a chaotic angular arrangement, its energy causing chaos wherever it went. [[Sidraous]] was comparable to a biblical angel, a sphere of light surrounded by feathers spreading law and order in every direction. [[Kyarus]] was the closest thing to "humanoid" he had a flesh body that grew and changed, that seemed to draw in the energy of a place, siphoning power from the creation god of that realm. Not only did this result in a very... curious physical emanation, but in the denizens being less of their creator deities and more "themselves." In [[The Void]], this meant inspiring change of thoughts and individually autonomy, in [[Infernis|The Hells]], this led to ideas of suffocating structure, while in [[Ceylium|The Heavens]], this led to notions of free will, but in every case, it led to more physical beings. It was these upheavals that left Kyarous banished from his brethren's realms, leading him to create his own after travelling theirs as much as he could.
+
+As an aside, when thinking about any [[Eotal|Eotalian]] gods, but especially [[The Original 4]], it is important to remember that they are energies with a physical manifestation, meaning they exist beyond physicality and have unique forms to fuel/aid in their purpose. They also have elemental correspondences:
+- [[Chryorous]]: [[Gia]] and [[Ani]] - Being the source of all reality and connecting it all through the consciousness of all things, it only makes sense that [[Chryorous|The God of the Void]] gets these two.
+- [[Sidraous]]: [[Tos]] and [[Eo]] - Structure and idealism/positivity drive [[Sidraous]] and his domain. The altruistic and law driven nature of him makes them perfect for him, the [[Sidraous|The God of the Heavens]].
+- [[Xydranous]]: [[Pyr]] and [[Ner]] - The ultimate duality, passion and emotion merging to create anything that meets one's whim, giving in to every temptation and desire to the extreme, a true bringer of chaos and hedonism for the [[Xydranous|The God of the Hells]].
+- [[Kyarus]]: [[Brio]] and [[Aer]] - Life is all about change and air is all about ideas. [[Kyarus]] and [his realm](Aun Materia) are all about change and while he travelled, he embraced every idea through his very being. This all makes these a perfect fit for him, [[Kyarus|The God of the Material Plane]].

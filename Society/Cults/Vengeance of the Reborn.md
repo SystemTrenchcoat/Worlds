@@ -1,0 +1,4 @@
+---
+aliases:
+  - Cult of Necrotori
+---

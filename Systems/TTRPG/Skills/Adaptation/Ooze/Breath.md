@@ -1,0 +1,2 @@
+
+Like a dragon, you have some sort of breath weapon. ==You may use this to deal **[Minor Harm](Harm)** appropriate to your particular breath over an area in front of you==. What is your breath weapon (This is vital, likely the most important question on the list)? How did you first start using this ability? How often do you use it? Have you ever used it on accident? What were the circumstances if you have?

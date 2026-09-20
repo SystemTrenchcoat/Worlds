@@ -1,0 +1,2 @@
+
+One of your senses are stronger than the average mortal. ==When you make a roll based around this sense, gain +1 die. This adaptation can be gained multiple times==. What sense is amplified? How does that affect your every day life? How does it change from how you, the player. percieves the world?

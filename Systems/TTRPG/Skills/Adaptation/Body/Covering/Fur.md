@@ -1,0 +1,2 @@
+
+Your body is coated in a layer of fur. ==You are slightly resistant to the cold. Furthermore, you gain +1 die to rolls involving detecting touch, especially subtle movements. Additionally, you may use them in Crafts==. What does your fur look like? Does it change with the season? Does it have any notable qualities (such as softness, waterproofing, or color)?

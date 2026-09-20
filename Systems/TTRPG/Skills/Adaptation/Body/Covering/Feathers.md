@@ -1,0 +1,2 @@
+
+Your body is covered in soft feathers. ==You are slightly resistant to the cold weather. Furthermore, you may use your feathers in Crafts==. What do your feathers look like? How often do you molt? How do you take care of them?

@@ -1,0 +1,2 @@
+
+Horns, Antlers, etc., you have a bone or bone adjacent structure that comes out of your head. ==You may use them to cause the "Pierced" **[Minor Physical Harm](Harm)** if desired, dealing the "Pierced" **[Moderate Physical Harm](Harm) when you give yourself a running start. Additionally, you may use them in Crafts==. What do your horns look like? How do you take care of them? Do you have any special rituals or anything special you do with them?

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"6af04c71d96b6e5f","type":"text","text":"**Stable Recipe.** Potions use an extra die per purchase in **Spellcraft**","x":-150,"y":-420,"width":340,"height":83},
+		{"id":"ff1a3005f53a19fc","type":"text","text":"**Improved Recipe.** Potions gain a bonus equal to your points in alchemy + your purchases in **Spellcraft**","x":-150,"y":-580,"width":340,"height":89},
+		{"id":"d5c5c2305d768165","type":"text","text":"**Potent Recipe.** Potions have an increased die for **[[Result]]**","x":-150,"y":-717,"width":340,"height":60},
+		{"id":"17c9caafd999e7c6","type":"text","text":"Potions use an extra die per point in alchemy (double the number of dice in your potion)","x":-120,"y":-1400,"width":340,"height":100,"color":"#000000"},
+		{"id":"f02a342640aeb017","type":"text","text":"**Prima Materia.** Caster can make up to 3 potions that automatically roll max dice for effect. These potions are rendered inert when the would degrade","x":-150,"y":-980,"width":340,"height":160},
+		{"id":"a0a6f397b7e3b2b9","type":"text","text":"**Alchemy.** Prepared potions made as potent as the practitioner can manage, but decay over time.\n==You cast spells through brewing potions. They start off with a number of **Alchemy Dice** equal to the number of nodes bought into this branch and decrease by 1 every day at dawn. When a potion reaches dawn with 0 dice, it becomes inert==","x":-210,"y":-260,"width":460,"height":220},
+		{"id":"0718f8f62ffc150f","type":"text","text":"**Enduring Brew.** Caster can make potions that no longer degrade, but die is always 2 levels lower (min. d2)","x":-550,"y":-737,"width":340,"height":100},
+		{"id":"6fc8f8af03500e01","type":"text","text":"**Explosive Brew.** Caster can make potions that are much more potent, but degrades faster. Max rolls **[[Explode]]**, but potions degrade twice as fast","x":250,"y":-747,"width":360,"height":120}
+	],
+	"edges":[
+		{"id":"58a8c0fab53d2c0d","toFloating":false,"fromNode":"a0a6f397b7e3b2b9","fromSide":"top","toNode":"6af04c71d96b6e5f","toSide":"bottom"},
+		{"id":"77e3a717ff6505a3","fromNode":"6af04c71d96b6e5f","fromSide":"top","toNode":"ff1a3005f53a19fc","toSide":"bottom"},
+		{"id":"237b376d1958ae33","fromNode":"ff1a3005f53a19fc","fromSide":"top","toNode":"d5c5c2305d768165","toSide":"bottom"},
+		{"id":"1aed8fcfa0dc7474","fromNode":"ff1a3005f53a19fc","fromSide":"left","toNode":"0718f8f62ffc150f","toSide":"right"},
+		{"id":"f231890dd2b6e536","fromNode":"ff1a3005f53a19fc","fromSide":"right","toNode":"6fc8f8af03500e01","toSide":"left"},
+		{"id":"735f850347657650","fromNode":"d5c5c2305d768165","fromSide":"top","toNode":"f02a342640aeb017","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,2 @@
+
+You have talons, like a bird. ==You may lock your talons in place when you grab something. When you do this, it is stuck in your grasp unless you let it go or are otherwise out-maneuvered. If you are grabbing a mortal or other target, gain +2 dice to keeping them grappled. Additionally, they take the "Ripped" **[Minor Physical Harm](Harm)**==. What do your talons look like? How are they maintained? What does your body look like around it?

@@ -1,0 +1,2 @@
+
+Planes exist as a "layer" of existence (as if on a 3D digital canvas) with most things on the plane having an analog on every other, especially with the elemental planes (there is always a 1 to 1 if the thing has that elemental signature. As an example, an ordinary rock would exist on the [[Eo]] plane, but not on the [[Ani]] plane). That said, every plane has native beings created solely from and to that plane (though most can travel between).

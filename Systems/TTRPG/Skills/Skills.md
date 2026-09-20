@@ -1,0 +1,12 @@
+
+- Deftness - The ability to make precise movements, generally, specifically, with your hands
+- Diligence - The ability to closely analyze and tackle a situation
+- Agility - The ability to move around in a general sense
+- Recall - The ability to remember information from the past and how to use it
+- Convey - The ability to relay information to another person
+- Discern - The ability to recieve information from another person
+- Power - The ability to apply the body's strength
+- Prowess - The ability to understand and move about the battlefield
+- Will - The ability to see one's ambition through, their strength of self
+- Fortitude - The ability to tolerate the physical dangers around oneself
+- Spellcraft - The ability of one to cast magic

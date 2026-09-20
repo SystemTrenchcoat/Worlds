@@ -1,0 +1,2 @@
+
+You have some variety of claw on your hads and or feet. There are many different varieties of claw, but they are usually used for digging or attacking. ==When you select this adaptation, you may choose "digging" or "slashing" and gain +1 **[[Result]]** to using your claws for that purpose. When used to attack, they deal the "Slashed" **[Minor Physical Harm](Harm)**==. What do your claws look like? How do you take care of them? Are they retractable, or always out? 

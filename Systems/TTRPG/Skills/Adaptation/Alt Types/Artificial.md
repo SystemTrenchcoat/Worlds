@@ -1,0 +1,2 @@
+
+You are some sort of artificial being. Be it a clockwork machine or an enchanted doll, you are another's creation. ==You do not need to eat or breathe to survive. You do still need to rest and recharge in some fashion.== How were you made? Why? By who? Was it on purpose? 

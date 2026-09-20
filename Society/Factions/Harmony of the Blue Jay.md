@@ -1,0 +1,4 @@
+
+This guild is less a guild than a troupe of wandering entertainers. They exist purely to entertain and inspire the heats of the land. It is made up of all sorts of entertainers around the continent. The members of the troupe are like a family, they'd do anything for each other.
+
+Less of a guild rather than a performance troupe, [[Harmony of the Blue Jay]] was orginally a band that travelled across the [land](Mythica). The interesting thing about their shows is they would often invite other performers to join in, splitting any money they made with the impromptu performers. Sometimes, these performers would ask to join the band's travels. Slowly the band became more of a troupe with how many people joined them. The troop is always happy to welcome a new face to their mids; "the bonds of blood are thick, but the bods we forge in the troupe are stronger".

@@ -1,0 +1,2 @@
+
+You are able to change your form more or less at will. ==If you wish, you can use this to alter your body to utilize the abilities of another node of the [[Adaptation.canvas]]. If you do so, take the "Strained" **[Moderate Physical Harm](Harm)**. This ability can not be used to gain the abilities of any Alternative Type leaves.== What does your "natural" form look like? On what occassions do you shapeshift? What does it look like when you shapeshift? How private of an experience is it for you?

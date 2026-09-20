@@ -1,0 +1,77 @@
+{
+	"nodes":[
+		{
+			"id":"1dab1776ee3a320f",
+			"type":"text",
+			"text":"**Psionics.** You have a strong connection to the fabric of the world. Your thoughts and intentions echo from your very soul into the world around you, but it comes at a cost. ==When you cast a spell, suffer the \"Drained\" **[Minor Metaphysical Harm](Harm)**==",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-80,
+			"width":520,
+			"height":120
+		},
+		{
+			"id":"0ea4b48c8e3d3c8b",
+			"type":"text",
+			"text":"**Potent Manifestation.** You have gotten used to your psionic power and have the ability to push it even further. ==You no longer suffer **[[Harm]]** when casting spells, however, but you may choose to take the \"Drained\" **[Minor Metaphysical Harm](Harm)** to increase your dice pool by 1 per skill obtained in psionics==",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-400,
+			"width":520,
+			"height":160
+		},
+		{
+			"id":"649fde0818d68e34",
+			"type":"text",
+			"text":"**Dangerous Manifestation.** You can increase your dice pool as described in **** an amount of times equal to half of your **Spellcraft [[Die Max]]** times",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-700,
+			"width":520,
+			"height":100
+		},
+		{
+			"id":"4fc600b13b8c75ec",
+			"type":"text",
+			"text":"**Controlled Manifestation.** When you utilize **Dangerous Manifestation**, roll **Fortitude** or **Will**. On a success, you do not take harm. This must be rolled for each instance of harm",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-980,
+			"width":520,
+			"height":100
+		}
+	],
+	"edges":[
+		{
+			"id":"12b1cff2ba46f915",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1dab1776ee3a320f",
+			"fromSide":"top",
+			"toNode":"0ea4b48c8e3d3c8b",
+			"toSide":"bottom"
+		},
+		{
+			"id":"afaee4203c9c53af",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0ea4b48c8e3d3c8b",
+			"fromSide":"top",
+			"toNode":"649fde0818d68e34",
+			"toSide":"bottom"
+		},
+		{
+			"id":"f85e617ae20da7b3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"649fde0818d68e34",
+			"fromSide":"top",
+			"toNode":"4fc600b13b8c75ec",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

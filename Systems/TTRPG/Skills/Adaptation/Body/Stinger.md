@@ -1,0 +1,2 @@
+
+You have a stinger on the end of your tail. ==You may utilize it to deal the "Pierced" **[Minor Physical Harm](Harm)** to others. This is affected by [[venom]]==. What does your stinger look like? Do you ever accidentally sting people? How do others respond to it (if at all)?

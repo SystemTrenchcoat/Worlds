@@ -1,0 +1,2 @@
+
+You have some amount of fins on your body. ==You have an extra die when rolling to move through a fluid==. What do your fins look like? Where are they on your body? Are you able to consciously move them?
