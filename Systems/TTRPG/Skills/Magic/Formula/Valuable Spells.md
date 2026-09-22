@@ -1,0 +1,2 @@
+
+You have realized that some materials are mroe valuable than others for a reason. ==You may use more valuable ingredients or focuses to cast stronger spells. When you do this, gain 2 die for the spell==

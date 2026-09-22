@@ -1,0 +1,2 @@
+
+Prepared potions made as potent as the practitioner can manage, but decay over time. ==You cast spells through brewing potions. They start off with a number of **Alchemy Dice** equal to the number of nodes bought into this branch and decrease by 1 every day at dawn. When a potion reaches dawn with 0 dice, it becomes inert==

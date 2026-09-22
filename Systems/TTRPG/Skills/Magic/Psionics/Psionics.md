@@ -1,0 +1,2 @@
+
+You have a strong connection to the fabric of the world. Your thoughts and intentions echo from your very soul into the world around you, but it comes at a cost. ==When you cast a spell, suffer the "Drained" **[Minor Metaphysical Harm](Harm)**==

@@ -1,0 +1,3 @@
+
+Spells are cast as long performances, from chanting to dance, to anything else really, gaining strength as they are performed.
+==You perform rituals that produce magical effects as long as they are being performed. It's effectiveness is determined by a number of spellcraft die equal to the number of points invested into this branch and its is rolled as necessary (if you're generating a field of light or protection, your GM may have you roll **Spellcraft** or **Endurance** to see if you are able to keep it up/how well)==

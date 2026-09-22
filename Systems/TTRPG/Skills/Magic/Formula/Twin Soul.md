@@ -1,0 +1,2 @@
+
+You know an incantation to spilt yourself in two. Your two selves act independently of each other, but share a health pool. Each time you take damage, roll a **Fortitude Check** or drop the effect. This may only be  activated once per day due to the strain on the soul. Trying to further will result in the "Split" **[Major Metaphysical Harm](Harm)**

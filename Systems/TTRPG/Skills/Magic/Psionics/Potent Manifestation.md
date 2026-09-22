@@ -1,0 +1,2 @@
+
+You have gotten used to your psionic power and have the ability to push it even further. ==You no longer suffer **[[Harm]]** when casting spells, however, but you may choose to take the "Drained" **[Minor Metaphysical Harm](Harm)** to increase your dice pool by 1 per skill obtained in psionics==

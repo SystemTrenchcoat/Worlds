@@ -1,0 +1,2 @@
+
+Through trial and error, you have learned work arounds for certain aspects of your formula. Perhaps it is a simple substitution of movements or materials. Perhaps an abridged incantation. Regardless, ==you can cast spells as a **Response**==.

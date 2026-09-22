@@ -1,0 +1,2 @@
+
+Caster can create contraptions capable of casting spells given proper time and materials. They take up one slot each, drawing on the user's magic to remain operable. Creating above max disables the last, rendering it reusable scrap as the machines seize up for good
