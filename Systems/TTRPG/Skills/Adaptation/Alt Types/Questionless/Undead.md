@@ -1,0 +1,2 @@
+
+==You have an alternatie food source to be decided between you and the GM (be it living flesh, blood, dreams, fears, etc.) Additionally, choose between corporeal and incoporeal. If you are corporeal, even if you lose a limb, it can be reattached as though nothing happened. If you are incorporeal, you may choose to stop interacting with the physical world. While becoming non-physical, you may float==
