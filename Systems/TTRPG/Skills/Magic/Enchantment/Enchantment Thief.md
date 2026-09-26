@@ -1,2 +1,2 @@
-Drawing 2026-09-21 15.07.51.excalidrawDrawing 2026-09-21 15.07.51.excalidraw
+
 Caster can affect other enchantments as if their own. If they are a different magic or higher level, they must make a **Spellcraft** check to do so
