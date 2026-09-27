@@ -38,7 +38,7 @@ tags:
 
 * [[Magma]] - Land Control, Foundation ==*Influence*==/==**Manipulation**==
 
-- Solidifying Magic/Energy, Mineral Alchemy
+- [[Mineral]] - Solidifying Magic/Energy, Mineral Alchemy
 
 * [[Ooze]] - Liquid Manipulation (Specifically of properties), Alchemy
 

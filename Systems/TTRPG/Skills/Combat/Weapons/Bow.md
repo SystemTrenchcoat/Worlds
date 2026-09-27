@@ -12,4 +12,4 @@ One of the original ranged weapons. Simple enough to use, somewhat less simple t
 ## Stances
 
 - **Sharpshooter**. ==Gain +2 dice on called shots==
-- **Rapid Shooting**. ==When you land a  with your bow using **Fire**, you may immediately shoot again==
+- **Rapid Shooting**. ==When you land a shot with your bow using **Fire**, you may immediately shoot again==

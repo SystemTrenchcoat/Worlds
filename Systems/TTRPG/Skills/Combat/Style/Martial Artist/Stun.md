@@ -1,0 +1,2 @@
+
+You strike the opponent in such a way, they are unable to move for but a moment. ==Deal the "Stunned" Light Physical Harm to the opponent. They are unable to move until the end of their next turn. A creature may only suffer this effect every other round==

@@ -23,7 +23,7 @@ Any and all manners of hand to hand combat, many of which revolving around strik
 
 ### Styles
 
-- **Flying Warrior**. Prereq. **Wings**. Your feathers are hardened for offense and defense. ==You may use you may perform the **Fire**, **Attack**, and **Parry** actions with your wings.==
+- **Flying Warrior**. Prereq. **Wings**. Your feathers are hardened for offense and defense. ==You may use you may perform the **Fire**, **Attack**, and **Parry** actions with your wings==.
 
 ### Stances
 
