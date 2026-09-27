@@ -1,2 +1,2 @@
 
-You are practiced in the art of the bow. ==You may create your own ammunition, simple and unique==
+You are practiced in the art of the bow. ==You may create your own ammunition, simple and unique. When you do so, use the number of pips marked to determine your dice pool. This goes for making arrows and any additional effects that go with them==

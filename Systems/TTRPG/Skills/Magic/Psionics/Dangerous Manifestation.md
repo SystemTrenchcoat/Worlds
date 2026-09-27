@@ -1,2 +1,2 @@
 
-You can increase your dice pool as described in **** an amount of times equal to half of your **Spellcraft [[Die Max]]** times
+==You can increase your dice pool as described in **[[Potent Manifestation]]** an amount of times equal to half of your **Spellcraft [[Die Max]]**. Additionally, the number of spells you can cast increases to your **Spellcraft [[Die Max]]**==

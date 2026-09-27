@@ -1,2 +1,2 @@
 
-Caster can activate multiple enchantmented items at once using **Spellcraft**
+==You can activate multiple enchantmented items at once using **Spellcraft**==

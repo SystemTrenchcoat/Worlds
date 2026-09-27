@@ -1,2 +1,2 @@
 
-Caster can combine a variety of contraptions together, combining spell effects. Each part consumes a contraption slot. If the caster exceeds their alotted slots with this as the oldest, the caster can choose one part of this contraption to disable, spending time to remove it if they wish
+==You can combine a variety of contraptions together, combining spell effects. Each part consumes a contraption slot. If the caster exceeds their alotted slots with this as the oldest, the caster can choose one part of this contraption to disable, spending time to remove it if they wish==

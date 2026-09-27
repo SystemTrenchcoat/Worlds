@@ -1,2 +1,2 @@
 
-Spells are cast through specially designed clockwork contraptions
+You can create contraptions capable of casting spells given proper time and materials. They take up one slot each, drawing on your magic to remain operable. Creating above max disables the last, rendering it reusable scrap as the machines seize up for good. ==You may spend 1 hour (or GM approved time interval) to create a clockwork machine that can cast a spell. You may have 1 machine active at a time. When you go beyond this, the oldest one is deactivated.==

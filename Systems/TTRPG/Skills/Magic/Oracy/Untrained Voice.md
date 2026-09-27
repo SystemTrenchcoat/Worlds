@@ -1,2 +1,2 @@
 
-You have *mostly* mastered utilizing your magical voice. ==You no longer need to roll prior to casting a spell==
+You have *mostly* mastered utilizing your magical voice. ==You no longer need to roll prior to casting a spell. Additionally, you may cast a number of spells equal to half of your **Spellcraft [[Die Max]]**==

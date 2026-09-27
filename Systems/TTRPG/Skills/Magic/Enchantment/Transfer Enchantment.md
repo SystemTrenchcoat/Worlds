@@ -1,2 +1,2 @@
 
-Caster can remove one enchantment of theirs within line of sight and place it on a non-magical item. The original item acts as described for removing enchantments. If the enchantment is removed from the non-magical item, the item will return to being non-magical (and does not behave as described for removing enchantments)
+==You can remove one enchantment of theirs within line of sight and place it on a non-magical item. The original item acts as described for removing enchantments. If the enchantment is removed from the non-magical item, the item will return to being non-magical (and does not behave as described for removing enchantments)==

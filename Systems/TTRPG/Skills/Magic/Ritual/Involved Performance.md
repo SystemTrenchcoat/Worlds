@@ -1,2 +1,2 @@
 
-Rituals can be delayed to be made stronger. Gain 1 **Spellcraft** die per minute spent performing it to a max of half your **Spellcraft [[Die Max]]**
+==Rituals can be delayed to be made stronger. Gain 1 **Spellcraft** die per minute spent performing it to a max of half your **Spellcraft [[Die Max]]**.  Additionally, the number of spells you can cast increases to half your **Spellcraft [[Die Max]]**==

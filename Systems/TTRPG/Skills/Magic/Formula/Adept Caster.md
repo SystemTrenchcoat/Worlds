@@ -1,2 +1,2 @@
 
-Your formula pool is equal to twice your **Spellcraft [[Die Max]]**
+==Your formula pool is equal to twice your **Spellcraft [[Die Max]]**==

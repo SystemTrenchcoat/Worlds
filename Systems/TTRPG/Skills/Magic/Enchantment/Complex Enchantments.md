@@ -1,2 +1,2 @@
 
-Casters can create more complex enchantments (Something that would take multiple spells). These enchantments cost more than one enchantment slot, but can not exceed half the max **Spellcraft** die. Additionally, the caster has enchantment slots equal to their **Spellcraft [[Die Max]]**
+==You can create more complex enchantments (Something that would take multiple spells). These enchantments cost more than one enchantment slot, but can not exceed half the max **Spellcraft** die. Additionally, the caster has enchantment slots equal to their **Spellcraft [[Die Max]]**==
