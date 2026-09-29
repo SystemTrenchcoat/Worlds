@@ -1,0 +1,2 @@
+
+==You may temporarily create an object you are familiar with from thought alone. To do so, succeed a Difficulty 20 **Spellcraft** or **Will**. You may perform this act once per pip in **[[Systems/TTRPG/Skill Trees/Powers/Elemental/Secondary/Planary/Aether|Aether]]**. If you push beyond this, suffer the "Drained" **Moderate Physical [[Harm]]**. It must be a non-magical item that can fit within a 5' cube==

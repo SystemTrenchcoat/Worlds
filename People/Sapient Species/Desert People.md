@@ -65,7 +65,7 @@ Thought by some to be sent by Caparicus ([[Eido]] and [[Animus]]) to usher spiri
 
 ## [[Vyeir]]
 
-Lizardfolk with a powerful [[Pyr|pyr]] and [[Ner|ner]] elements. While lizardfolk traditionally have no emotion to speak of, [[Vyeir]] have potent emotions that change on a dime. They tend to be conquerors, taking over more lands to chase their passions. They are a lot like demons, seeing only a need to satisfy their desire, led by passion and emotion
+Lizardfolk with a powerful [[Magic/Elements/Primary/Pyr|pyr]] and [[Magic/Elements/Primary/Ner|ner]] elements. While lizardfolk traditionally have no emotion to speak of, [[Vyeir]] have potent emotions that change on a dime. They tend to be conquerors, taking over more lands to chase their passions. They are a lot like demons, seeing only a need to satisfy their desire, led by passion and emotion
 
 
 ## [[Qua]]

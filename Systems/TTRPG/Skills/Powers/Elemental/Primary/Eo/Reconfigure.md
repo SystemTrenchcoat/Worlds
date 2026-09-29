@@ -1,0 +1,2 @@
+
+==If you know the composition of something, you may roll a **Craft**, **Recall**, **Diligence**, **Will**, or **Spellcraft** check to attempt to alter it (removing parts, adding some from elsewhere, etc.). This only works on non-living things==

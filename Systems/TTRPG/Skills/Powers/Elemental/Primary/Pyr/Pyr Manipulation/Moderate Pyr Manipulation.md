@@ -1,0 +1,2 @@
+
+Your connection to [[Pyr]] has grown, granting further ability to control it. ==You may create and control campfire sized flame. You may also alter the way flames appear and behave (including stickiness and ability to burn underwater)==.

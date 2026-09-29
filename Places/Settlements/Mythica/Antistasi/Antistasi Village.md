@@ -27,7 +27,7 @@ tags:
 
 - [[Aluwyn]] - A lover of small animals and a hunter a hunter of those that defy nature (Female [[Gnome]])
 
-- [[Malachite]] - A warrior and defender of the forest (Male [[Eo]] [[Eleokara]])
+- [[Malachite]] - A warrior and defender of the forest (Male [[Magic/Elements/Primary/Eo]] [[Eleokara]])
 
 - [[Aleel]] - The single best archer in the land (Male [[Birdfolk]])
 

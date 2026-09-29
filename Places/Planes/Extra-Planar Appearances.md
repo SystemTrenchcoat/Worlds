@@ -69,13 +69,13 @@ The purest form of an element, often impacted by the neigh
 
 ### Primary
 
-* [[Eo]] - A physical structure embodying a law/code
+* [[Magic/Elements/Primary/Eo]] - A physical structure embodying a law/code
 
 * [[Aer]] - Clouds/Wisps varying in size and color representing thought
 
-* [[Ner]] - A flowy depiction of energy (usually waves)
+* [[Magic/Elements/Primary/Ner]] - A flowy depiction of energy (usually waves)
 
-* [[Pyr]] - A fiery emanation of a will differing in color and intensity
+* [[Magic/Elements/Primary/Pyr]] - A fiery emanation of a will differing in color and intensity
 
 * [[Tos]] - A light varying in color, brightness, and segments representing self determination
 
@@ -89,15 +89,15 @@ The purest form of an element, often impacted by the neigh
 
 Paraelementals (including planary included) oft looks like a venn-diagram of their component parts at the intersection
 
-* [[Order]] - A glowing web forming a spiritual self conception
+* [[Magic/Elements/Secondary/Order]] - A glowing web forming a spiritual self conception
 
-* [[Chaos]] - Nexus of a synaptic web burning in varying colors
+* [[Magic/Elements/Secondary/Chaos]] - Nexus of a synaptic web burning in varying colors
 
 * [[Magma]] - The molten form of how will alters a foundation
 
-- [[Mineral]] - The physical, organized accumulation of a creative process
+- [[Magic/Elements/Secondary/Mineral]] - The physical, organized accumulation of a creative process
 
-* [[Ooze]] - A messy interpretation of creative influence(s)
+* [[Magic/Elements/Secondary/Ooze]] - A messy interpretation of creative influence(s)
 
 * [[Emotion]] - A radiant depiction of a complete state of being
 
@@ -115,11 +115,11 @@ Paraelementals (including planary included) oft looks like a venn-diagram of the
 
 #### Planary
 
-* [[Aether]] - An interpretation of boundless potential
+* [[Magic/Elements/Secondary/Planary/Aether]] - An interpretation of boundless potential
 
 - [[Plasma]] - An energetic interpretation of a will
 
-- [[Glyph]] - Symbol(s) that encompass a way of being
+- [[Magic/Elements/Secondary/Planary/Glyph]] - Symbol(s) that encompass a way of being
 
 - [[Spore]] - A cloud of small organic structures, each varying but related
 

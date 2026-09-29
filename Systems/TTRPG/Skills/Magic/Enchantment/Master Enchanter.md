@@ -1,2 +1,2 @@
 
-==Add double the nodes obtained in **Spellcraft** and **Enchantment** when determining max enchantment slots==
+==Your enchantment slot capacity increases by double **Spellcraft** and **Enchantment** levels==

@@ -1,0 +1,2 @@
+
+Your connection to [[Magic/Elements/Primary/Eo|Eo]] has grown, granting further ability to control it. ==Your [[Eo]] Manipulation extends to gravel, rocks, and clay, adding the ability to break medium rocks into gravel, gravel into sand or dust, or compact them back==

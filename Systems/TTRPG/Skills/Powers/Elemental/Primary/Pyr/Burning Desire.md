@@ -1,0 +1,2 @@
+
+Your fire burns brighter with tasks relating to the passion that sets your heart ablaze. ==Gain +1 die to **Spellcraft** and **Will** rolls relating to passion and desire. Additionally, your Flames of Passion can interact with the world, but not deal **[Physical Harm](Harm)**==

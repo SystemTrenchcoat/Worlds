@@ -10,7 +10,7 @@ Across Eotal, different people developed varying kinds of engineering, influence
 [[Chemical Engineering]] - A branch of alchemy specifically about creating reactive reagents. Often used to create semi-stable artificial power sources, but also used to make various explosives
 
 ## [[Epithesi]]
-[[Clockwork Engineering]] - The process of utilizing [refined elemental minerals](Mineral) to create complex gearwork structures capable of producing a variety of magical effects.
+[[Clockwork Engineering]] - The process of utilizing [refined elemental minerals](Magic/Elements/Secondary/Mineral.md) to create complex gearwork structures capable of producing a variety of magical effects.
 
 ## [[Prostasia]]
 [Arcanics (Rune Engineering)](Rune%20Engineering.md) - A complex kind of glyph magic that is capable of utilizing external magic as power, transmuting various types of energy, and producing innumerable magic effects

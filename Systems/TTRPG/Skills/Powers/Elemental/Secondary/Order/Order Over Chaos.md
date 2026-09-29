@@ -1,0 +1,2 @@
+
+==You may roll a Difficulty 38 **Spellcraft** or **Will** check when you would instead roll on a random table. On a success, you choose the result. On a fail, the GM chooses the result however they see fit==.

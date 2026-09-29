@@ -1,0 +1,2 @@
+
+==You and the GM may change the chaos table between sessions. Sample entries are shown in "Chaos Entries", each with 1 of 4 categories. You must have equal parts (or as close to equal as the die will allow). The table should prioritize chaos over all else==

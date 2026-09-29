@@ -1,0 +1,2 @@
+
+==You may roll on one of the "chaos tables" at your disgression. The GM may force you to roll at theirs. If a roll occurs more than once in a row, a chaotic surge occurs setting off a GM determined effect and dealing the **[Minor Metaphysical Harm](Harm)** "Chaos-Touched"==.

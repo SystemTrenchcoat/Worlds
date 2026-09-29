@@ -33,7 +33,7 @@ Passion, chaos, strength, revelry, the finest things the domain of fire has to o
 
 #### [[Pyra]]
 
-The aspect of organized will is [[Pyra]], Goddess of [[Pyr|Fire]], Strength, and Passion. She encompasses all that one can do with dedication and passion, the power of discipline, and the power of the element of fire. She is worshiped by those seeking strength, and those seeking the light and warmth of flame to fuel them.
+The aspect of organized will is [[Pyra]], Goddess of [[Magic/Elements/Primary/Pyr|Fire]], Strength, and Passion. She encompasses all that one can do with dedication and passion, the power of discipline, and the power of the element of fire. She is worshiped by those seeking strength, and those seeking the light and warmth of flame to fuel them.
 
 #### [[Aproveleous]]
 

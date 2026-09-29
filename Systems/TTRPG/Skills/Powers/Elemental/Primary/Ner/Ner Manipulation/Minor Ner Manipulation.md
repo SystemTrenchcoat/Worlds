@@ -1,0 +1,2 @@
+
+You have a connection to [[Magic/Elements/Primary/Ner|New]], the element of water and energy. ==You can control about a liter of water you can see. Water controlled in this waty will move as you will it (movement and shapes), but still otherwise obey reality==.

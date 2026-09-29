@@ -1,2 +1,2 @@
 
-==You can remove one enchantment of theirs within line of sight to add a die to a roll==
+==You can remove one enchantment of yours within line of sight to add a die to a roll. Follow the rules listed in **[Removing Enchantments](Systems/TTRPG/Skills/Magic/Enchantment/Enchantment#Removing Enchantments|Enchantment)**==

@@ -1,60 +1,33 @@
-Generally, the structure of StS should go in this rough pattern:
 
-1. GM lays out the scenario for the players
-2. Players respond to the scenario with roleplay or moves
-	* 
-3. GM responds to players using moves as appropriate (as deemed by the GM)
-	* Request a roll (this should always further the story in some way, success or fail)
-	* 
+## Collaborative Storytelling
 
-Moves should usually be accompanied by a roll
+**STStm is a narrative based system**. The players and GM are working together to create a story. It is vital for the GM to communicate with the players, but equally important for the players to communicate with each other. While interparty conflict can happen and can add to the story, it is important that everyone is on the same page about what is and is not welcome in the game. Having a session 0 to discuss safety rules, expectations, and even creating characters is quite vital to ensuring all of these things get addressed.
 
-## Rolls
+## Character Advancement
 
-| Die | Rank         | Avg. | Simple (1) | Moderate (2) | Challenging (4) | Difficult (6) | Impossible (8+) | LoST (2) |
-| --- | ------------ | ---- | ---------- | ------------ | --------------- | ------------- | --------------- | -------- |
-| d4  | Leyperson    | 2.5  | 2          | 5            | 10              | 15            | 20              | 5        |
-| d6  | Novice       | 3.5  | 3          | 7            | 14              | 21            | 28              | 7        |
-| d8  | Intermediate | 4.5  | 4          | 9            | 18              | 27            | 36              | 9        |
-| d10 | Advanced     | 5.5  | 5          | 11           | 22              | 33            | 44              | 11       |
-| d12 | Master       | 6.5  | 6          | 13           | 26              | 39            | 52              | 13       |
-| d20 | Sage         | 10.5 | 10         | 21           | 42              | 63            | 84              | 21       |
+Players can buy more skills using skill points at any time, or, be granted skills and abilities by the GM at their disgression. Skill points are granted through one of 4 means: Suffering from **[[Harm]]**, Collaborative Roleplaying, Personal Roleplaying, and Goal Progression. A GM may grant skill points as often as they see fit, but a minimum of about 4 points per session per player is suggested. That said, a player should earn these points by engaging with the game as their character. The GM will judge this by asking questions found in [[Character Advancement]]. They may choose as many questions as they want, and grant as many points for each as they want, however, it is recommended that they ask at least 2 per section and grant no more than 3 points for a given question.
 
-LoST - Level of Success Threshold
-Formula - Avg * Difficulty Threshold (number of dice) rounded down when applicable
+## Rolls and Actions
 
-### Stance
+A player should roll when there is uncertainty about what may happen. Creating a tool from the forge, trying to convince an NPC, trying to find someone or something. A list of times this should happen can be found in **[[Actions]]**.
 
-| Stance          | Effect               | Example                       |
-| --------------- | -------------------- | ----------------------------- |
-| Beneficial      | Major reward         |                               |
-| Adventageous    | Minor reward         | Negotiations with friends     |
-| Neutral         | Nothing              |                               |
-| Disadventageous | Consequence          | Negotiations with strangerers |
-| Dangerous       | Danger (likely harm) | Combat                        |
-Stance is the situation you are walking into and the dangers/rewards associated
+Actions can be rolled with a simple **Ability Check** (rolling one of the dice described) or by choosing a skill (such as **Weaving**) to roll a **Skill Check**. When you roll a **Skill Check**, add a number of dice equal to the number of "pips" you have bought in the skill (for instance, if you have 2 pips in **Weaving**, you would roll 3 dice). All **Skill Checks** work like this, from the **Maneuvers** under the **[[Combat]]** skill tree, to [[Spellcraft]].
 
-### Result
+## Contested Rolls
 
-| Result   | Effect                                    |
-| -------- | ----------------------------------------- |
-| Maximal  | The absolute best case scenario           |
-| Major    | What you wanted and something extra       |
-| Moderate | What you wanted                           |
-| Minor    | Something, but not all of what you wanted |
-| Minimal  | Next to nothing                           |
-Result is what you can expect from a success
+Contested rolls are something of a rarity in STStm. The GM narrates what happens and asks the players to respond, in some cases, especially combat, with rolls. As such, these usually come up as a result of interparty conflict. When this happens, the players will roll as they normally would in the situation with the higher roll winning the contest. This will usually be done in reference to magic or combat. Players may choose to fail if they desire.
 
-## 
+## Long Actions
+
+Almost any action can be done quickly (in the span of minutes) or long term (an hour or longer). A list of actions can be found in [[Actions]], each applicable action with information for quick and long effects.
 
 ## Combat
 
-In broad strokes, combat should follow the same formula as any other scenario, however, players should usually roll at Disadventageous or Dangerous. The turn order should be roughly as follows:
+Combat is run similarly to the rest of the game, if with more action.
 
-1. Scenario: Lay out what is happening on the battlefield and foreshadow what's important for the players to acknowledge
-   
-2. Players: Go around the table and allow each player to respond to the scenario. (Bear in mind that some enemies may directly respond to the players' actions)
-   
-3. Enemies: The opposition responds to the players' actions. (Some may respond immediately following a player's action, while others may be guaranteed a certain outcome or something of the sort as a result instead)
+1. The GM will set the scene
+2. Each player will have a turn to **Respond**, using a skill to do so
+3. The GM will narrate the actions of the enemies and NPCs, giving any applicable players the opportunity to respond
+4. Repeat
 
-4. Environment: This includes raging storms, melting down [[Rune Engineering|arcanics]] reactors, and on occassion, NPC allies. While this step may not always exist, it can be a helpful way to keep battles dynamic, so take advantage of it when possible
+The biggest way this differs from the rest of the game is with **Responses**. The first time a player responds to an action, nothing changes. However, each subsequent time they respond, they suffer -1 die from their dice pool (minimum of 1).

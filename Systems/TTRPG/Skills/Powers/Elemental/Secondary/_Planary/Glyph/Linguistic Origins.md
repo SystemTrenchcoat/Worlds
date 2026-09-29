@@ -1,0 +1,2 @@
+
+Your familiarity with glyphs allows further insight when reading. ==You can determine scripts at a glance and may roll a **Recall**, **Diligence**, **Discern** or **Will** roll to determine more info on the writer. Additionally, you may read planar languages' intention with **[[Glyph Basics]]**==.

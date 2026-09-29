@@ -33,7 +33,7 @@ The structure and malleability of a world is important to the sustainability and
 
 #### [[Eoterra]]
 
-The physical aspect of this is dominantly embodied by [[Eoterra]], Goddess of [[Eo|Earth]], Stability, and Sustainability. She keeps the realm stable, but still able to sustain itself, allowing room for change. She is worshiped by those who seek stability and sustainability in their lives and settlements.
+The physical aspect of this is dominantly embodied by [[Eoterra]], Goddess of [[Magic/Elements/Primary/Eo|Earth]], Stability, and Sustainability. She keeps the realm stable, but still able to sustain itself, allowing room for change. She is worshiped by those who seek stability and sustainability in their lives and settlements.
 
 #### [[Kyasonri]]
 

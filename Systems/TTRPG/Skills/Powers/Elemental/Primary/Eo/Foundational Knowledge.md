@@ -1,0 +1,2 @@
+
+==You have grown accustomed to the nature of things and can often determine something's foundation. Make a **Recall**, **Diligence**, or **Will** roll. On a success, you determine a foundational piece of info on a target, be it an origin or weakness==

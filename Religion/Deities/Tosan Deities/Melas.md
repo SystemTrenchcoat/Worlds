@@ -16,7 +16,7 @@ tags:
 ## TTRPG Abilities
 
 1. **Impulsive Decisions**. +2d6 on rolls that give in to your darkest impulses, but there is always a consequence
-2. **Risky Maneuvers**. You may suffer -1 **[[Stance]]** to gain +2 **[[Result]]**
+2. **Risky Maneuvers**. You may suffer -2 dice to gain +1 **[[Level of Success|Levels of Success]]**
 3. **Bad Reputation**. As you gain a worse reputation, you gain power to all rolls
     +1 - A few people
     +2 - An organization/village

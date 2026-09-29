@@ -32,7 +32,7 @@ The water is a lot like emotion: flowing, collecting to overflowing when damned 
 
 #### [[Nera]]
 
-The personal aspect is known as [[Nera]], Goddess of Cold, [[Ner|Water]], and Intuition. When one detaches and allows, they can grow somewhat cold, though it is believed that this coldness comes with a strengthened intuition, a stronger connection with inner knowledge. They are worshiped by certain mystics that wish to strengthen their intuition.
+The personal aspect is known as [[Nera]], Goddess of Cold, [[Magic/Elements/Primary/Ner|Water]], and Intuition. When one detaches and allows, they can grow somewhat cold, though it is believed that this coldness comes with a strengthened intuition, a stronger connection with inner knowledge. They are worshiped by certain mystics that wish to strengthen their intuition.
 
 #### [[Aeoqor]]
 

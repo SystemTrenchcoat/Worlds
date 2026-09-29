@@ -1,0 +1,2 @@
+
+Your connection to [[Pyr]] grows stronger, granting significant control of it. ==You can create and control roughly a bonfire worth of flame. You may attempt to surpass this limit with a Magic roll. Additionally, you may control this element in non-living things==.

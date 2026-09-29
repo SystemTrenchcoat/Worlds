@@ -1,0 +1,2 @@
+
+You have a connection to [[Magic/Elements/Primary/Eo|Eo]], the element of stability and malleability. ==You can slightly alter dirt, sand, and dust through magical means, dispersing, packing, or molding them==

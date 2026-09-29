@@ -1,2 +1,2 @@
 
-==You can make most any enchantment, now able to spend as many enchantment slots as the can access for it. Additionally, these slots are now double your **Spellcraft [[Die Max]]**==
+==Your enchantments are now limited only by your creativity. You can invest any amount of your slots into your enchantments. Additionally, these slots are now double your **Spellcraft [[Die Max]]**==

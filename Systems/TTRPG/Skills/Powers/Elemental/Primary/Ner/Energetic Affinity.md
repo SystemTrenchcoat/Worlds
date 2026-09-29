@@ -1,0 +1,2 @@
+
+You have the ability to sense the powers affecting something. ==At a glance, you can determine one power affecting a person, object, etc. You may roll a Difficulty [TBD] **Recall**, **Diligence**, or **Will** roll to determine another affinity, the level of its influence (number of prints allocated), or a specific capability of it (one of the power granted abilities). The difficulty increases by 5 with each additional use on a given target==.

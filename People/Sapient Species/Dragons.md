@@ -13,13 +13,13 @@ In [[Eotal]], the dragons have many different forms and hordes, often aligning w
 **Metallic** - Schools of art and science, owns libraries and such to draw in creatives, often in love with the creative process
 **Crystalline** - Schools of magic, the most comprehensive libraries, almost always looking to know more powerful magic
 
-## [[Pyr|Fire]]
+## [[Magic/Elements/Primary/Pyr|Fire]]
 
 **Chromatic** - Warriors and Tactitians, obsessed with war, some for the bloody beauty, some for the sheer violence
 **Metallic** - Passion projects and passionate people, they love things that are full of energy
 **Crystalline** - Restaurants and Inns, they love having a homey atmosophere, horde is the workers and establishment
 
-## [[Ner|Water]]
+## [[Magic/Elements/Primary/Ner|Water]]
 
 **Chromatic** - Rivers and waterways, either declares war with local mortals or makes them the horde
 **Metallic** - Intuitive people, whatever strikes their fancy is "divinely calling them"
@@ -31,7 +31,7 @@ In [[Eotal]], the dragons have many different forms and hordes, often aligning w
 **Metallic** - Most are leaders of some sort thriving on intelligent civilization, their hordes consist of cities and leaders of all kinds
 **Crystalline** - Very polar creatures tending towards positivity and beauty or negaticity and destruction; their horde reflects their polarity.
 
-## [[Eo|Earth]]
+## [[Magic/Elements/Primary/Eo|Earth]]
 
 **Chromatic** - Builders of grand structures made during the age of intelligent beasts. Hordes consist of other buidlers and their creations and quarries
 **Metallic** - Engineering types, they make exquisite, complex, large-scale contraptions. Their hordes consist of artificers, engineers, and their creations, and are filled with complex traps

@@ -1,0 +1,2 @@
+
+You may enter a state where the outside world seems to fade away. ==When you do so, gain **[[Fate's Favor]]** on **Craft**, **Adaptability**, and **Recall** checks, but suffer **[[Fortune's Bane]]** on **Social**, **Agility**, and any other checks that deal with your surroundings==
