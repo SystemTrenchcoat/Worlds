@@ -1,0 +1,2 @@
+
+==Increase "Autocrat Die" to 1d12 and increase "Democracy Pool" to 3d4. Additionally gain +1 **[[Level of Success]]** on these rolls with "Autocrat" rolls having a more quick and pragmatic resolution, but the "Democracy" rolls being more role play based and "interesting"==

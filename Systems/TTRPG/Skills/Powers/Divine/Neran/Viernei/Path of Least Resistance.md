@@ -1,0 +1,2 @@
+
+When you empower others, even if you have never done the thing before, your bodies move as though you've done it time and again. ==When you spend a bolster die to help a roll that has no additional help, gain +2 die or +2d6 (whichever is higher)==

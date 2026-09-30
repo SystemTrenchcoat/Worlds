@@ -46,9 +46,9 @@ The second face of this is known as [[Hemerrah]], Goddess of Blood, Knowledge, a
 
 The face of one's next life. There is more than one path for what happens when we die. There is, of course, the standard afterlife, a realm of memories, or a rebirth in another plane, but there is also reincarnation and undeath. Some believe there is such a thing as immortality, especially seeing as many of [[The Initiates]] are still around from the beginning of mortal civilization, though few have a clue where to start beyond rebirth and undeath.
 
-#### [[Metageasi]]
+#### [[Religion/Deities/Anian Deities/Metageasi]]
 
-The domain of the former is ruled by [[Metageasi]], God of Reincarnation, Rebirth, and god-touched. The first two are self explanatory, but the last refers to those favored by gods and granted the gift of immortality, as well as demigods. It is written in lowercase because it is only known to a select few mortals. He is worshiped by those seeking to live again in the physical plane in a new flesh, sometimes in dying breaths, but often long before.
+The domain of the former is ruled by [[Religion/Deities/Anian Deities/Metageasi]], God of Reincarnation, Rebirth, and god-touched. The first two are self explanatory, but the last refers to those favored by gods and granted the gift of immortality, as well as demigods. It is written in lowercase because it is only known to a select few mortals. He is worshiped by those seeking to live again in the physical plane in a new flesh, sometimes in dying breaths, but often long before.
 
 #### [[Necrotori]]
 

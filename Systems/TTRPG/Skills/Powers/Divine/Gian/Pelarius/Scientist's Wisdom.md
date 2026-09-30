@@ -1,0 +1,2 @@
+
+==You may attempt to research any subject through meditation. Decrease the **[[Level of Success]]** by 2, but on a success, you learn of a useful source, the contents of such source, or witness a useful experiment during your meditation (GM's disgression which) (must last at least 10 minutes)==

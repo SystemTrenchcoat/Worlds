@@ -1,0 +1,2 @@
+
+==You may choose to bless items you create with immutability locking their form, preventing any alteration ( including wear). You may choose to remove this blessing, but it may only be applied to one item at a time==

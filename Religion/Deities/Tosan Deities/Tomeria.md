@@ -31,9 +31,9 @@ At nighttime on the other hand, her stars guide the explorers of the night, and 
 
 The aspect of [[Tomeria]] that exists throughout the minds and hearts of most [[Eotal]]'s  inhabitants, the positivity, hope, and inner light of the world. Permecia is the embodiment of the energies of kindness, mercy, and positivity. Her energies are an unseen one, but they hold much of the aspects most associated with light as element. Permescia may have less consistent followers than Lamaria, but her influence is felt by many and her essence is inboked in every wishful thought and positive moment.
 
-#### [[Tosera]]
+#### [[Religion/Deities/Tosan Deities/Tosera]]
 
-The embodiment of her this light is [[Tosera]], Goddess of [[Tos|Light]], Truth and Presence. Her followers tend to have a strong [[Tos|light]] element as she is the holder of it. She is often called on to use this power to illuminate a truth or lighten a situation. She is most worshiped by truth-tellers, beloved leaders, and those with a strong force of personality.
+The embodiment of her this light is [[Religion/Deities/Tosan Deities/Tosera]], Goddess of [[Tos|Light]], Truth and Presence. Her followers tend to have a strong [[Tos|light]] element as she is the holder of it. She is often called on to use this power to illuminate a truth or lighten a situation. She is most worshiped by truth-tellers, beloved leaders, and those with a strong force of personality.
 
 #### [[Selpida]]
 
@@ -46,13 +46,13 @@ Permercia's other aspect is known as [[Selpida]], Goddess of Postivity, Hope and
 
 There can be no light without darkness and Tyosera encompasses this darkest form. Without the light of positivity, the shadows and darkness can drive one to insanity and fanatic obsession. Tyosera has two faces to encompass the more physical aspect and the more psychological affects.
 
-#### [[Melas]]
+#### [[Religion/Deities/Tosan Deities/Melas]]
 
-[[Melas]] is the face of the former embodying darkness, shadow, and absorption. This embraces both the physical absence of light as well as the obscuring of truth, the domination or decouring of a place or thing, and the  darkest parts of one's self. She brings power to the powerless, thrown to the shadows of society, those seeking strength through the darkness, and those looking to absorb light in any form, making themselves the only thing of attention. [[Melas]] is followed by the self-centered, discarded, and power-hungry, at least those relatively in control of themselves.
+[[Religion/Deities/Tosan Deities/Melas]] is the face of the former embodying darkness, shadow, and absorption. This embraces both the physical absence of light as well as the obscuring of truth, the domination or decouring of a place or thing, and the  darkest parts of one's self. She brings power to the powerless, thrown to the shadows of society, those seeking strength through the darkness, and those looking to absorb light in any form, making themselves the only thing of attention. [[Religion/Deities/Tosan Deities/Melas]] is followed by the self-centered, discarded, and power-hungry, at least those relatively in control of themselves.
 
-#### [[Skotadi]]
+#### [[Religion/Deities/Tosan Deities/Skotadi]]
 
-[[Skotadi]] is the psychological aspect embracing darkness, embodying insanity, obsessesion, and negativity. Those who seek [[Skotadi]] tend to be seekers of forbidden truths, fantics, and purbeyors of darkness, dread, and fear. [[Skotadi]] is the darkness's affect on the psyche made manifest, driving people to insanity, to obsession, to chasing what they ought not, purveying all manor of negativity. Her beguiling influence is rarely sought out by the "civilized", but those who are all alone or unhealthily driven completely consumed by darkness and dread.
+[[Religion/Deities/Tosan Deities/Skotadi]] is the psychological aspect embracing darkness, embodying insanity, obsessesion, and negativity. Those who seek [[Religion/Deities/Tosan Deities/Skotadi]] tend to be seekers of forbidden truths, fantics, and purbeyors of darkness, dread, and fear. [[Religion/Deities/Tosan Deities/Skotadi]] is the darkness's affect on the psyche made manifest, driving people to insanity, to obsession, to chasing what they ought not, purveying all manor of negativity. Her beguiling influence is rarely sought out by the "civilized", but those who are all alone or unhealthily driven completely consumed by darkness and dread.
 
 ### [[Amaorel]]
 

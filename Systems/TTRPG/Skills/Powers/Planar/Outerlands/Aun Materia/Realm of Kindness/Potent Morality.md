@@ -1,0 +1,2 @@
+
+Your sense of right and wrong is strong enough to have a palppible impact on your life. ==Gain +2d4 to rolls involving acts relating to what you consider good and righteous. Suffer -2d4 from rolls that run counter to these ideals==

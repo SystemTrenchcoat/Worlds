@@ -46,9 +46,9 @@ Her more metaphysical counterpart is [[Kyasonri]], Deity of Flexibility, Forgive
 
 The energies of primal creation, the enrgies that [[Arcaos]] innovates upon, Sayorasha holds the energies of the oldest technologies. She also holds the oldest forms of destruction in volcanoes and similar disasters. Whereas one aspect of her heralds building, the other heralds destruction.
 
-#### [[Tisactor]]
+#### [[Religion/Deities/Eoan Deities/Tisactor]]
 
-The former is ruled by [[Tisactor]], God of Technology, Smithing, and Construction. Ancient technologies are said to have been inspired by [[Tisactor]] and it is believed he has a sort of chronicle of all the additions and innovations that have come after. He is worshiped by smiths, artificers, engineers, and other artisans throughout the world seeking his knowledge, that they may learn the old ways and perhaps carve their own path.
+The former is ruled by [[Religion/Deities/Eoan Deities/Tisactor]], God of Technology, Smithing, and Construction. Ancient technologies are said to have been inspired by [[Religion/Deities/Eoan Deities/Tisactor]] and it is believed he has a sort of chronicle of all the additions and innovations that have come after. He is worshiped by smiths, artificers, engineers, and other artisans throughout the world seeking his knowledge, that they may learn the old ways and perhaps carve their own path.
 
 #### [[Volcune]]
 

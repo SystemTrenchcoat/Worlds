@@ -1,0 +1,2 @@
+
+Your game habits have granted you special abilities. ==Choose dice, cards, or some other tool/game of chance. Each card, roll, etc. has a different effect and calling the effect enhances its efficacy. You can summon this tool/game any time. You may use a provided game set or make your own with the "**Games of Chance Effects**" table, each with 1 of 4 categories. Your table should have as close to equal parts each category as possible==.

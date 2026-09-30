@@ -1,0 +1,2 @@
+
+Reality twists further around your art. ==During a performance, you may create a number of incoporeal actors that can assist you through the performance. They can manipulate light objects and move within your line of sight. They can also inhabit physical objects no larger than a doll==

@@ -1,0 +1,2 @@
+
+In certain moments, it is as if a voice beyond speaks to you, guiding your path. ==You may expend 3 dice to ask a question from the perspective of your character. The GM must give truthful advice, but specifics are up to them==.

@@ -1,0 +1,2 @@
+
+Your sense of morality now spreads to those around you. ==Creatures that run counter (or commit acts counter) to your vicinity suffer -2d4 to rolls. If this includes you, you may not utilize abilities from this tree==.

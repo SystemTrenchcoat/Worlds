@@ -1,0 +1,2 @@
+
+Your **Games of Chance** skill has gotten stronger. ==Upgrade the effects to match the provided list or create a new list utilizing the "**Enhanced Effects**" Table and the same rules as **[[Games of Chance]]**==

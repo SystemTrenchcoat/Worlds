@@ -1,0 +1,2 @@
+
+==Increase "Democracy Pool" to 5d4 and gain 1 "Good Will" when you succeed a task which can be used to improve NPC's view of the party (must explain how it relates). Increase "Autocrat Die" to 1d20 and gain "Good Will", same as above, except it can only be used by you and needn't be "good"==

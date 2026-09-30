@@ -15,9 +15,9 @@ The energies of emotion and fluidity are quite powerful in their own right. Emot
 
 The realm of emotions is one heavily dictated by flow. Move with the emotions, the events, the present, lice a tranquil life. Pull against what is true inside and face only misery and strife. While some circumstances can influence the result, ultimately, the resistance to the flow is what brings about the pain.
 
-#### [[Viernei]]
+#### [[Religion/Deities/Neran Deities/Viernei]]
 
-The flow is governed by [[Viernei]], God of Tranquility, Flow, and Appreciation. He heralds the benefits of allowing, of flowing, of being present and adaptive to life. Tranquility comes from knowing that releasing anything painful is a matter of feeling and releasing, and from this, an appreciation for the present can be born. He is most worshiped by some monks and those seeking more of this release in their lives.
+The flow is governed by [[Religion/Deities/Neran Deities/Viernei]], God of Tranquility, Flow, and Appreciation. He heralds the benefits of allowing, of flowing, of being present and adaptive to life. Tranquility comes from knowing that releasing anything painful is a matter of feeling and releasing, and from this, an appreciation for the present can be born. He is most worshiped by some monks and those seeking more of this release in their lives.
 
 #### [[Trisella]]
 
@@ -32,9 +32,15 @@ The water is a lot like emotion: flowing, collecting to overflowing when damned 
 
 #### [[Nera]]
 
+**Symbol**: A Snowflake Within a Water Droplet
+**Domains**: Coldness and Intuition
+
 The personal aspect is known as [[Nera]], Goddess of Cold, [[Magic/Elements/Primary/Ner|Water]], and Intuition. When one detaches and allows, they can grow somewhat cold, though it is believed that this coldness comes with a strengthened intuition, a stronger connection with inner knowledge. They are worshiped by certain mystics that wish to strengthen their intuition.
 
 #### [[Aeoqor]]
+
+**Symbol**: A Wave Reaching Up to the Moon
+**Domains**: Waterways and Revealed Secrets
 
 The physical aspect is known as [[Aeoqor]], God of [[Lorae|the Moon]], Waterways, and Revealed Secrets. [[Lorae|The moon]]'s affect on the tide is well known in most of [[Eotal]], as is its ability to reveal the true forms of shape-changers. [[Lorae|The moon]] is known to reveal truths in secrets and guide not only the waters, but the people who call to it for guidance. [[Aeoqor]] is mostly worshiped by seafaring folk, lycanthropes, and those seeking to see beyond illusion.
 

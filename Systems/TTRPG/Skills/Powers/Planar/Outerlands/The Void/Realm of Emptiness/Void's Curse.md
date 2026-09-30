@@ -1,0 +1,7 @@
+
+The voice beyond has gotten too loud to ignore. ==Choose one effect from the "**Void's Curse**" table==
+
+| Curse                     | Effect                                                                                                                                                                                                                                                                                                              |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Curse of Ultimate Empathy | You hear the souls of those around you in the voices. ==When you look at a creature, succeed a **Will** check or take on their emotion and suffer the "Dissolution **[Minor Metaphysical Harm](Harm)**"==.                                                                                                          |
+| Curse of Disembodied Soul | You feel a powerful distance between you and your body. ==You may leave your body and possess another vessel. If it is occupied, roll a contested check. On a success, or if it is empty, you may pilot the body as through Possession. Suffer the "Dissolution" **[Minor Metaphysical Harm](Harm)** when you do==. |

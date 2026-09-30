@@ -16,13 +16,13 @@ What is magic but the truest creation? Be it through the arcane arts, performanc
 
 The aspect of all manor of creation common to the people, of Eotal, and of our world. He heralds art and science alike, teaching that they are merely two sides of the same coin.
 
-#### [[Arias]]
+#### [[Religion/Deities/Gian Deities/Arias]]
 
-The former is represented by [[Arias]], Goddess of Creativity, Music, and the Arts. She brings forth creativity, blessing some of the most famous creators with beautiful ideas. She is petitioned most by artists, musicians, etc. for inspiration, recognition, and simply as a courtesy, a thank you for their talent.
+The former is represented by [[Religion/Deities/Gian Deities/Arias]], Goddess of Creativity, Music, and the Arts. She brings forth creativity, blessing some of the most famous creators with beautiful ideas. She is petitioned most by artists, musicians, etc. for inspiration, recognition, and simply as a courtesy, a thank you for their talent.
 
-#### [[Pelarius]]
+#### [[Religion/Deities/Gian Deities/Pelarius]]
 
-Her logical brained counterpart and the opposite side of this coin is [[Pelarius]], God of Science, Medicine, and Research. [[Pelarius]] is rooted in logic and exploration. He teaches the most skilled surgeons, scientists, researchers, and doctors how to best do whatever they seek. He is often worshiped by researchers, scientists, and medical practitioners, most often for luck in a project or for insight on a matter causing them confusion.
+Her logical brained counterpart and the opposite side of this coin is [[Religion/Deities/Gian Deities/Pelarius]], God of Science, Medicine, and Research. [[Religion/Deities/Gian Deities/Pelarius]] is rooted in logic and exploration. He teaches the most skilled surgeons, scientists, researchers, and doctors how to best do whatever they seek. He is often worshiped by researchers, scientists, and medical practitioners, most often for luck in a project or for insight on a matter causing them confusion.
 
 ### Mynicend
 
@@ -50,9 +50,9 @@ Domain of all things luck, fortune, and fate, Risophero has a wide variety of de
 
 The aspect of key events would be [[Moira]], Goddess of Fate, Foresight, and Calamity. She rules over that over that which is "set in stone", though even destiny can be rewritten with guidance and skill. She is not always able to prevent the calamities that can befall the land. She is worshiped by fortune tellers, divination wizards, and those seeking to escape a tragic fate (to varying avail).
 
-#### [[Tylea]]
+#### [[Religion/Deities/Gian Deities/Tylea]]
 
-Her less intense counterpart is [[Tylea]], Goddess of Luck, Gambling, and Fortune. She loves a good game and treats life like one. She is worshiped by gamblers and game masters alike, as well as the occasional person seeking luck in a certain event, most often sports and games.
+Her less intense counterpart is [[Religion/Deities/Gian Deities/Tylea]], Goddess of Luck, Gambling, and Fortune. She loves a good game and treats life like one. She is worshiped by gamblers and game masters alike, as well as the occasional person seeking luck in a certain event, most often sports and games.
 
 ### [[Amaisis]]
 

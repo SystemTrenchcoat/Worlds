@@ -1,0 +1,2 @@
+
+When you would utilize your past research, the information flows through you, guiding your actions, appearing as a visual overlay or something similar. ==Gain +1 **[[Level of Success]]** when utilizing resarch.==

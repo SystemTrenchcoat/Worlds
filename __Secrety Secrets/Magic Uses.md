@@ -69,11 +69,11 @@ tags:
 ## Planar
 ### [Voidal](The%20Void.md)
 
-- [[Mynixaceli]] - Mental Energy Manipulation, Reality Manipulation
+- [[Places/Planes/Borderlands/Iyon Trey/Mynixaceli]] - Mental Energy Manipulation, Reality Manipulation
 
-- [[Realm of Emptiness]] - Dissolution, Imposing Nothingness
+- [[Places/Planes/Outerlands/The Void/Realm of Emptiness]] - Dissolution, Imposing Nothingness
 
-- [[Pandemonium]] - Unpredictable Transmutation, Incredible Disruption
+- [[Places/Planes/Outerlands/The Void/Pandemonium]] - Unpredictable Transmutation, Incredible Disruption
 
 - [[Limbo]] - Mental Fortification, Crippling Uncertainty
 
@@ -105,15 +105,15 @@ tags:
 
 ### [Material](Aun%20Materia.md)
 
-- [[Realm of the Stars]] - Planar Transport, Balance
+- [[Places/Planes/Borderlands/Realm of the Stars]] - Planar Transport, Balance
 
 - [[The True Wilds]] - Feral Aura, Plant/Animal ==*Summoning*==/==**Creation**==
 
-- [[Realm of Machines]] - Technomancy, Machine Summoning
+- [[Places/Planes/Outerlands/Aun Materia/Realm of Machines]] - Technomancy, Machine Summoning
 
 - [[Realm of Warriors]] - Bloodlust Aura, Undying Battle
 
-- [[Realm of Kindness]] - Purification, Benevolence
+- [[Places/Planes/Outerlands/Aun Materia/Realm of Kindness]] - Purification, Benevolence
 
 ## Divine
 
@@ -127,7 +127,7 @@ tags:
 
 - [[Hemerrah]] - ==**Lineage**== and ==*Soul*== Knowledge, Blood Purification
 
-- [[Metageasi]] - Adaptations, Reincarnation, Potential Transcendence
+- [[Religion/Deities/Anian Deities/Metageasi]] - Adaptations, Reincarnation, Potential Transcendence
 
 - [[Necrotori]] - Necromancy, Vengeance Mindset
 
@@ -136,9 +136,9 @@ tags:
 
 ### [Gian Deities](Gia.md)
 
-- [[Arias]] - Bardic Magic, Creative Inspiration
+- [[Religion/Deities/Gian Deities/Arias]] - Bardic Magic, Creative Inspiration
 
-- [[Pelarius]] - Science (Applied - Known Study Manipulation/Theoretical - Experimental Research Execution)
+- [[Religion/Deities/Gian Deities/Pelarius]] - Science (Applied - Known Study Manipulation/Theoretical - Experimental Research Execution)
 
 - [[Zendiceo]] - Primordial Magic, Temporal Manipulation
 
@@ -146,7 +146,7 @@ tags:
 
 - [[Moira]] - Divination (Simple and Short Term)/Prophecy (Complex, Vague, and Long Term) *Acquisition*/**Manipulation**
 
-- [[Tylea]] - Random Effects (Like crazy slots), Gambling Magic
+- [[Religion/Deities/Gian Deities/Tylea]] - Random Effects (Like crazy slots), Gambling Magic
 
 ### [Pyran Deities](Magic/Elements/Primary/Pyr.md)
 
@@ -154,7 +154,7 @@ tags:
 
 - [[Loresemei]] - Easing Pain, Hospitality/Comfort
 
-- [[Pyra]] - Invigoration, Indomitable Magic
+- [[Religion/Deities/Pyran Deities/Pyra]] - Invigoration, Indomitable Magic
 
 - [[Aproveleous]] - Party Magic, Recreational "Creation"
 
@@ -164,7 +164,7 @@ tags:
 
 ### [Neran Deities](Magic/Elements/Primary/Ner.md)
 
-- [[Viernei]] - Flow Magic (Choosing a path), Neutralization
+- [[Religion/Deities/Neran Deities/Viernei]] - Flow Magic (Choosing a path), Neutralization
 
 - [[Trisella]] - **Dredge up/Heal Heartache**, *Share/Neutralize Misery*
 
@@ -186,7 +186,7 @@ tags:
 
 - [[Kyasonri]] - Restoration, ==**Enhancement**==/==*Stabilization*==
 
-- [[Tisactor]] - Smithing Magic, Crafting/Construction - The master smith and father of crafts grants the ability to craft with ease and magically alter completed works already touched by one's own power.
+- [[Religion/Deities/Eoan Deities/Tisactor]] - Smithing Magic, Crafting/Construction - The master smith and father of crafts grants the ability to craft with ease and magically alter completed works already touched by one's own power.
 
 - [[Volcune]] - Natural ==**Disaster**==/==*Formation*== *Warning* and **Manipulation**
 
@@ -196,19 +196,19 @@ tags:
 
 - [[Stolurin]] - Stellar Divination and Storytelling
 
-- [[Tosera]] - Truth Detection, Promoting Agency
+- [[Religion/Deities/Tosan Deities/Tosera]] - Truth Detection, Promoting Agency
 
 - [[Selpida]] - Calming/Neutralization, Inspiration/Hope
 
-- [[Melas]] - ==**Unstable**==/==*Selfish*== Power, *Darkness*/**Light Absorption**
+- [[Religion/Deities/Tosan Deities/Melas]] - ==**Unstable**==/==*Selfish*== Power, *Darkness*/**Light Absorption**
 
-- [[Skotadi]] - Obsession/Insanity Magic, Forbidden Knowledge Acquisition
+- [[Religion/Deities/Tosan Deities/Skotadi]] - Obsession/Insanity Magic, Forbidden Knowledge Acquisition
 
 ### [Aeran Deities](Aer)
 
 - [[Tazo]] - Deal Magic, Protection Magic
 
-- [[Isagrei]] - Bureaucratic Magic, Guidance Magic
+- [[Religion/Deities/Aeran Deities/Isagrei]] - Bureaucratic Magic, Guidance Magic
 
 - [[Aeris]] - Idea, Conveying, Thought Manipulation - The bearer of the element of [[Aer]], her power grants thought communication and even memory alteration
 

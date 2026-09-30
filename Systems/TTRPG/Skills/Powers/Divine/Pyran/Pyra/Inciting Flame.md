@@ -1,0 +1,2 @@
+
+==You may use a die from **[[Bolster]]** to incite an NPC to take action. The action must align with the character's beliefs and must be within their ability (this is spurring a character on, not mind control)==

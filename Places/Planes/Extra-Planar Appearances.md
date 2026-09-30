@@ -10,11 +10,11 @@ tags:
 
 - [[The Void]] - Fractals, occasionally radial, places associations of similar organs/traits
 
-- [[Mynixaceli]] - Fractal Body Parts, Realms, Vaguely Material occasionally
+- [[Places/Planes/Borderlands/Iyon Trey/Mynixaceli]] - Fractal Body Parts, Realms, Vaguely Material occasionally
 
-- [[Realm of Emptiness]] - Fractal, Twisting, Dark Shapes 
+- [[Places/Planes/Outerlands/The Void/Realm of Emptiness]] - Fractal, Twisting, Dark Shapes 
 
-- [[Pandemonium]] - Irregular, Colorful, Twisting Energies
+- [[Places/Planes/Outerlands/The Void/Pandemonium]] - Irregular, Colorful, Twisting Energies
 
 - [[Limbo]] - Perfect, Geometric, Fractals/Mandalas
 
@@ -53,15 +53,15 @@ tags:
 
 - [[Aun Materia]] - What we, as humans, expect based on our world, if a bit weirder, kinda a combo of the [[Iyon Trey]]
 
-- [[Realm of the Stars]] - The stars and planets themselves (they are alive)
+- [[Places/Planes/Borderlands/Realm of the Stars]] - The stars and planets themselves (they are alive)
 
 - [[The True Wilds]] - Creatures with their prominent features accentuated
 
-- [[Realm of Machines]] - Fractal machines unlike any material lifeform/ Machines resembling material creatures/law angels
+- [[Places/Planes/Outerlands/Aun Materia/Realm of Machines]] - Fractal machines unlike any material lifeform/ Machines resembling material creatures/law angels
 
 - [[Realm of Warriors]] - Creatures with their combat trait accentuated (bigger muscles/weapons, marks of expertise)
 
-- [[Realm of Kindness]] - Creatures look perfect to the observer
+- [[Places/Planes/Outerlands/Aun Materia/Realm of Kindness]] - Creatures look perfect to the observer
 
 ## Elemental
 

@@ -1,0 +1,2 @@
+
+The world around you shifts slightly, allowing you to make your stage anywhere. ==No matter the medium, you are able to perform any art form you have experience with, the world shifting around you to make any accommodations, including amplifying speed or creating equipment. All equipment and supplies created this way disappear. Increased speed drains all the energy required to perform the task nornally. Pushing past your natural limits causes the "Exhaustion" **[Minor Metaphysical Harm](Harm)**==

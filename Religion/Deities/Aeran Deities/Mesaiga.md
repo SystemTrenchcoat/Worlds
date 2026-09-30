@@ -20,9 +20,9 @@ The society and its promises of protection are the corner stones to all races of
 
 [[Tazo]] is the face of the foundation, God of Promises, Language, and Protection, some of the tenets of a poweful civilization. To promise is to bind protection is one of the biggest promises of living in a group. He is most worshiped by guardians, writers, linguists, and some diplomats.
 
-#### [[Isagrei]]
+#### [[Religion/Deities/Aeran Deities/Isagrei]]
 
-His counterpart is the benefits these promises and foundation can make, [[Isagrei]], God of Society, Information, and Communication. Arguably, communication is equally essential as promise, especially considering one can be seen as a subsection of the other. However, while the promises lay the ground work, communication and information are the vital fluid, keeping a society together. He is often worshiped by law makers, teachers, and communicators, as well as those seeking guidance, be it to forge their own society or for a certain piece of information. The [[Lyceum]] quite favors this god
+His counterpart is the benefits these promises and foundation can make, [[Religion/Deities/Aeran Deities/Isagrei]], God of Society, Information, and Communication. Arguably, communication is equally essential as promise, especially considering one can be seen as a subsection of the other. However, while the promises lay the ground work, communication and information are the vital fluid, keeping a society together. He is often worshiped by law makers, teachers, and communicators, as well as those seeking guidance, be it to forge their own society or for a certain piece of information. The [[Lyceum]] quite favors this god
 
 ### Pyer
 

@@ -31,9 +31,9 @@ The latter is ruled by [[Loresemei]], Goddess of Hearth, Home, and Prosperity. H
 
 Passion, chaos, strength, revelry, the finest things the domain of fire has to offer encompass Eosimei. Her warmth fuels and excites the souls of [[Aun Materia|The Material Plane]].
 
-#### [[Pyra]]
+#### [[Religion/Deities/Pyran Deities/Pyra]]
 
-The aspect of organized will is [[Pyra]], Goddess of [[Magic/Elements/Primary/Pyr|Fire]], Strength, and Passion. She encompasses all that one can do with dedication and passion, the power of discipline, and the power of the element of fire. She is worshiped by those seeking strength, and those seeking the light and warmth of flame to fuel them.
+The aspect of organized will is [[Religion/Deities/Pyran Deities/Pyra]], Goddess of [[Magic/Elements/Primary/Pyr|Fire]], Strength, and Passion. She encompasses all that one can do with dedication and passion, the power of discipline, and the power of the element of fire. She is worshiped by those seeking strength, and those seeking the light and warmth of flame to fuel them.
 
 #### [[Aproveleous]]
 

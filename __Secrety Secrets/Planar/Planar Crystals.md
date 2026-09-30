@@ -1,25 +1,25 @@
 
 [[Faelryn]] - Glimmering, shimmering purple-pink, smooth stone
 [[Tyorsel]] - A shadowy grey with a glimmer of red
-[[Mynixaceli]] - Iridescent, mind bending to look at
-[[Realm of the Stars]] - Like a galaxy held in a small gem
+[[Places/Planes/Borderlands/Iyon Trey/Mynixaceli]] - Iridescent, mind bending to look at
+[[Places/Planes/Borderlands/Realm of the Stars]] - Like a galaxy held in a small gem
 Unconscious - A hypnotic spiral covers the gem, enthralling all who look
 [[Realm of Champions]] - Golden edges with a bright pale light shining in the middle
 [[Realm of Exaltation]] - A soft sunbeam shines through this beautiful diamond
 [[Realm of Structure]] - Nearly opaquely white with perfect geometric patterns
-[[Realm of Kindness]] - A soft emerald green with a welcoming glow around it
+[[Places/Planes/Outerlands/Aun Materia/Realm of Kindness]] - A soft emerald green with a welcoming glow around it
 [[Realm of Devils]] - Dark red with a dark crimson swirl in the middle
 [[Realm of Storms]] - Stormy grey with yellow, blue, and purple lightning
 [[Realm of Demons]] - Dark red with an inky black core moving around inside
 [[Realm of Greed]] - Absorptive green crystal with a glimmering golden light in the middle
 [[Limbo]] - Clear, faintly yellow crystal (like parchment)
-[[Pandemonium]] - Shifting and changing inside. Sometimes, it feels like it'll turn completely liquid
+[[Places/Planes/Outerlands/The Void/Pandemonium]] - Shifting and changing inside. Sometimes, it feels like it'll turn completely liquid
 [[Realm of Imprisonment]] - Metallic chains binding a bright pink light spiraling out of the center
-[[Realm of Emptiness]] - Completely transparent
+[[Places/Planes/Outerlands/The Void/Realm of Emptiness]] - Completely transparent
 [[Realm of Law]] - Translucent with celestial script running through the inside
 [[Realm of Warriors]] - Iron grey on one end, leathery brown on the other, crimson ooze flowing between
 [[The True Wilds]] - Spectral flower and vines made of magic and light
-[[Realm of Machines]] - Copper/brass crystal with internal clockwork gears
+[[Places/Planes/Outerlands/Aun Materia/Realm of Machines]] - Copper/brass crystal with internal clockwork gears
 
 [[Magic/Elements/Primary/Pyr]] - Amber orange with a faint flame
 [[Magic/Elements/Primary/Ner]] - Sapphire blue with flowing liquid inside

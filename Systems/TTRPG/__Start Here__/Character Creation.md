@@ -19,7 +19,7 @@ The main skill trees are:
 - [[Combat]]
 - [[Crafting]]
 - [[Exploration]]
-- [[Social]]
+- [[Social-d]]
 - [[Spellcraft]]
 
 The remaining skill trees each correspond to a power that makes up the world of Eotal. They will be listed below. <If you are a part of the playtests I am running, I will send the trees I believe are most appropriate for your build> <I will add all of the trees over time, this will remain until they are all noted>

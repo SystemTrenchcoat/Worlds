@@ -1,0 +1,2 @@
+
+Your connection to the [[Places/Planes/Borderlands/Realm of the Stars]] has evolved, making you more than a mere terrestrial traveller. ==You may roll a **Will** or **Spellcraft** check to walk to adjacent realms you can see with or without a weak point==

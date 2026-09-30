@@ -1,0 +1,2 @@
+
+==You may attempt to alter a work you have completed to be of high quality or have some ability that makes sense (pending GM approbal). However, you must roll for it as if you were making it for the first time (potentially lowering the quality). Additionally, you no longer suffer the -1 die or additional time for **[[Who Needs Tools?]]**==
