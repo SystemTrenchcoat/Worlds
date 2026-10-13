@@ -1,0 +1,2 @@
+
+You have been initiated in the ways of Hemarrah's divination. ==Gain **Blood** for spell types. When you use blood for divining, it can then be consumed to grant one ability the subject had for a full day==

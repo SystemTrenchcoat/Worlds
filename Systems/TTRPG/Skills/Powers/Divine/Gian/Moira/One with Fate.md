@@ -1,0 +1,2 @@
+
+Whole scenes play out in your head before they occur. ==Once a day, after the **[[Narrator]]** lays out a scene, you may take over for a short time. Your continuation must make sense in canon. The **[[Narrator]]** should only intervene if it doesn't==

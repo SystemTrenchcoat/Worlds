@@ -1,2 +1,2 @@
 
-You're getting closer, much closer, to finding the apex of your research. ==Increase the bonus from "Forbidden Knowledge" to 3d4, but suffer -1 **[[Level of Success]]** on **Recall**, **Diligence**, or **Will** rolls not relating to your "muse"==.
+You're getting closer, much closer, to finding the apex of your research. ==Increase the bonus from "Forbidden Knowledge" to 3d4, but suffer -1 **[[Level of Success]]** on **[[Search]]** or **Recall** rolls not relating to your "muse". If you would fail a **[[Search]]** roll in this way, you find nothing==.

@@ -1,0 +1,2 @@
+
+==You can read the intention of any material written language. You may attempt to read planar languages with a **Recall**, **Diligence**, **Discern**, or **Will** roll. Additionally, you may take a **[[Search]]** action to determine more info on the writer==

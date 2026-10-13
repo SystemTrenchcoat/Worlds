@@ -41,7 +41,7 @@ Often a part of either a fire or spirit dragon's horde. Regardless, they fight t
 
 ## [[Birdfolk]]
 
-A group of them that followed [[Caliel]] to make their way in the wastes. Through lies and deceit, they got some land and power, but it costed them their flight and voice.
+A group of them that followed [[Religion/Deities/Aeran Deities/Caliel]] to make their way in the wastes. Through lies and deceit, they got some land and power, but it costed them their flight and voice.
 
 
 ## [[Catfolk]]
@@ -56,7 +56,7 @@ Solitary creatures who embody survivability. Modeled after scorpions, they seek 
 
 ## [[Kharn]]
 
-Thought by some to be sent by Caparicus ([[Eido]] and [[Animus]]) to usher spirits across to the afterlife and thought by others to be sent by Kyrono ([[Sapienta]] and [[Pagamarous]]) to herald war. Regardless of the interpretation, it is certain that they are divinely sent. Coming in twins, they stay at and protect their holy lands, only leaving on divine quests.
+Thought by some to be sent by Caparicus ([[Religion/Deities/Anian Deities/Eido]] and [[Animus]]) to usher spirits across to the afterlife and thought by others to be sent by Kyrono ([[Religion/Deities/Pyran Deities/Sapienta]] and [[Religion/Deities/Pyran Deities/Pagamarous]]) to herald war. Regardless of the interpretation, it is certain that they are divinely sent. Coming in twins, they stay at and protect their holy lands, only leaving on divine quests.
 
 
 ## [[Irwi]]

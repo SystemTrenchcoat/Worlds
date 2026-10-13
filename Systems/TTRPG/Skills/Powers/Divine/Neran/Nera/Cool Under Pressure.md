@@ -1,0 +1,2 @@
+
+You can take on stressful tasks with a calm certainty. ==Roll **Difficult** and **Impossible** checks with **Fortune's Favor**. You may pass this trait to others temporarily, making them as cold as you==

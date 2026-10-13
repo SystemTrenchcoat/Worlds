@@ -1,5 +1,5 @@
 
-==You may share above effects with a sapient creature you can see (consciously or not). When you do, roll 1d4. 
+==You may share your **[[Disrupting Monotony]]** with a sapient creature you can see (consciously or not). When you do, roll 1d4. 
     1 - Nothing happens
     2 - They feel inclined to act opposite their usual self
     3 - They feel like they have been hollowed out

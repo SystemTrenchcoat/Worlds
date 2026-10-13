@@ -1,0 +1,2 @@
+
+Your body moves and molds to your whim. ==You may alter your form slightly to better achieve tasks gaining +1d4 when you do so. You must maintain the same general configuration of limbs about the same height/size==

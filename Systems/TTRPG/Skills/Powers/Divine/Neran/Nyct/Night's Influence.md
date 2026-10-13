@@ -1,0 +1,2 @@
+
+The aura of night grows with power. ==You may now remove a sense from a target (including yourself) when you utilizing **[[Night's Guidance]]** or **[[Night's Essence]]**. If this significantly affects their ability to engage the world, increase the die size by 2 for rolls relating to your inner world==

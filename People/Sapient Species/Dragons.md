@@ -25,7 +25,7 @@ In [[Eotal]], the dragons have many different forms and hordes, often aligning w
 **Metallic** - Intuitive people, whatever strikes their fancy is "divinely calling them"
 **Crystalline** - Lives in collective unconscious/dream world, hordes dreams, kinda haunting the ones they fancy
 
-## [[Tos|Light]]
+## [[Magic/Elements/Primary/Tos|Light]]
 
 **Chromatic** - A lot like a big, scaly crow, hordes shiny and bright objects, often kidnaps people on accident
 **Metallic** - Most are leaders of some sort thriving on intelligent civilization, their hordes consist of cities and leaders of all kinds
@@ -37,13 +37,13 @@ In [[Eotal]], the dragons have many different forms and hordes, often aligning w
 **Metallic** - Engineering types, they make exquisite, complex, large-scale contraptions. Their hordes consist of artificers, engineers, and their creations, and are filled with complex traps
 **Crystalline** - Keepers of law and order, thought to descend from the heavens. Hordes consist of those who devote themselves to enforcing law. Some prefer operating in mortal society, acting as order keepers
 
-## [[Brio|Life]]
+## [[Magic/Elements/Primary/Brio|Life]]
 
 **Chromatic** - Collectors of plants and animals. Often own ethical zoos and botanical gardens
 **Metallic** - Protectors of nature and arbiters of its order. Often recruits druids to their horde
 **Crystalline** - Fascinated by nature spirits, travels through [[Faelryn]], [[Realm of Champions]], and [[Aun Materia|The Material]] to find spirits for their horde
 
-## [[Aer]]
+## [[Magic/Elements/Primary/Aer]]
 
 **Chromatic** - Thieves, criminals, and deceivers by nature, their horde consists of stolen/ilicit goods, thieves guilds, criminal syndicates, etc.
 **Metallic** - Communicators and fine ones at that, tend to own merchant guilds, some prefer diplomats or journalists

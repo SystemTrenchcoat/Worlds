@@ -1,0 +1,2 @@
+
+Your body chemistry has changed somewhat, allowing you to create odd and sometimes dangerous pigments. ==You can change the color of your skin and hair as through makeup and dyes as part of your **[[Beauty Rest]]**. Furthermore, your skin secretes a mild toxin that activates through touch. It can do one or two of the following determined when obtaining this ability: deal the "Poisoned" **[[Harm|Minor Physical Harm]]**, put others to sleep, or even act like a narcotic or aphrodisiac. Specifics and alterations should be discussed with the **[[Narrator]]**==.

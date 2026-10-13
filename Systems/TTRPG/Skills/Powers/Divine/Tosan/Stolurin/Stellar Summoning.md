@@ -1,0 +1,2 @@
+
+The stars smile down on those around you as well. ==When you use **[[Stellar Transformation]]**, you may grant creatures of your choice a d4 that can be used as your d6 would be. Additionally, you may all utilize an action (or response action) to make a combined action that makes sense for the constellation you are utilizing. It gains 1 die size and pool per person contributing==

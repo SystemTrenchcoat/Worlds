@@ -1,0 +1,2 @@
+
+==At least once per session, you recieve a vision of something yet to come. This occurs at the **[[Narrator|Narrator's]]** disgression, so communicate with them prior to taking this skill. Alt: Gain +1d8 on a roll once a day==

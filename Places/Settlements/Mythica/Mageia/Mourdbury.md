@@ -13,4 +13,4 @@ A moderately sized town in the middle of the [[Mageia|ever-changing lands]] famo
 - Festival Grounds
 - Charming Changeling Tavern
 - Mourbury Distillery
-- [[Fruila]]/[[Aproveleous]] Temple
+- [[Religion/Deities/Brioan Deities/Fruilia]]/[[Aproveleous]] Temple

@@ -11,7 +11,7 @@ tags: [excalidraw]
 
 # Glyph Basics
 
-[[Glyph Basics]]
+[[Linguistic Basics]]
 
 # Linguistic Origins
 
@@ -19,7 +19,7 @@ tags: [excalidraw]
 
 # Creation Glyphs
 
-[[Creation Glyphs]]
+[[Linguistic Applications]]
 
 # Excalidraw Data
 

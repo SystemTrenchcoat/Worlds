@@ -14,220 +14,220 @@ tags:
 
 ### Primary
 
-* [[Magic/Elements/Primary/Eo]] - Deconstruction, Reconstruction (can be used to transmute), Restraining, [[Magic/Elements/Primary/Eo]] Manipulation
+* [[Magic/Elements/Primary/Eo|Eo]] - Deconstruction, Reconstruction (can be used to transmute), Restraining, [[Magic/Elements/Primary/Eo|Eo]] Manipulation
 
-* [[Aer]] - Communication, Illusion, Transitional, [[Aer]] Manipulation
+* [[Magic/Elements/Primary/Aer|Aer]] - Communication, Illusion, Transitional, [[Magic/Elements/Primary/Aer|Aer]] Manipulation
 
-* [[Magic/Elements/Primary/Ner]] - Energy Manipulation, Intuition, Energetic, [[Magic/Elements/Primary/Ner]] Manipulation
+* [[Magic/Elements/Primary/Ner|Ner]] - Energy Manipulation, Intuition, Energetic, [[Magic/Elements/Primary/Ner|Ner]] Manipulation
 
-* [[Magic/Elements/Primary/Pyr]] - Will Interference, Expression, Strength Enhancement, [[Magic/Elements/Primary/Pyr]] Manipulation
+* [[Magic/Elements/Primary/Pyr|Pyr]] - Will Interference, Expression, Strength Enhancement, [[Magic/Elements/Primary/Pyr|Pyr]] Manipulation
 
-* [[Tos]] - Leading Aura, Mental Healing, Anti-Illusion/True Sight, [[Tos]] Manipulation
+* [[Magic/Elements/Primary/Tos|Tos]] - Leading Aura, Mental Healing, Anti-Illusion/True Sight, [[Magic/Elements/Primary/Tos|Tos]] Manipulation
 
-* [[Brio]] - Plant Growth, Nature Communication, Life Alchemy (used in [[Bio Engineering]]), [[Brio]] Manipulation
+* [[Magic/Elements/Primary/Brio|Brio]] - Plant Growth, Nature Communication, Life Alchemy (used in [[Bio Engineering]]), [[Magic/Elements/Primary/Brio|Brio]] Manipulation
 
-* [[Ani]] - Telepathy, Astral Projection, Soul-Level Communication, [[Ani]] Manipulation
+* [[Ani|Ani]] - Telepathy, Astral Projection, Soul-Level Communication, [[Ani|Ani]] Manipulation
 
-* [[Gia]] - Utilizing creative potential to make something corporeal, but not physical
+* [[Gia|Gia]] - Utilizing creative potential to make something corporeal, but not physical
 
 ### Secondary
 
-* [[Magic/Elements/Secondary/Order]] - *Arbitrating (Interpreting)* and **Enforcing** Law, Command/Control
+* [[Magic/Elements/Secondary/Order|Order]] - *Arbitrating (Interpreting)* and **Enforcing** Law, Command/Control
 
-* [[Magic/Elements/Secondary/Chaos]] - Inconsistency (Unpredictable Effect), Change (What changes, not how it changes)
+* [[Magic/Elements/Secondary/Chaos|Chaos]] - Inconsistency (Unpredictable Effect), Change (What changes, not how it changes)
 
-* [[Magma]] - Land Control, Foundation ==*Influence*==/==**Manipulation**==
+* [[Magic/Elements/Secondary/Magma|Magma]] - Land Control, Foundation ==*Influence*==/==**Manipulation**==
 
-- [[Magic/Elements/Secondary/Mineral]] - Solidifying Magic/Energy, Mineral Alchemy
+- [[Magic/Elements/Secondary/Mineral|Mineral]] - Solidifying Magic/Energy, Mineral Alchemy
 
-* [[Magic/Elements/Secondary/Ooze]] - Liquid Manipulation (Specifically of properties), Alchemy
+* [[Magic/Elements/Secondary/Ooze|Ooze]] - Liquid Manipulation (Specifically of properties), Alchemy
 
-* [[Emotion]] - Empathy, Emotional Manipulation
+* [[Magic/Elements/Secondary/Emotion|Emotion]] - Empathy, Emotional Manipulation
 
-* [[Lightning]] - Destruction, Transmitting Information
+* [[Magic/Elements/Secondary/Lightning|Lightning]] - Destruction, Transmitting Information
 
-* [[Temperature]] - Passion Manipulation, Temperature Manipulation
+* [[Temperature|Temperature]] - Passion Manipulation, Temperature Manipulation
 
-* [[Sound]] - Enhancement/Mind Control, Resonance
+* [[Magic/Elements/Secondary/Sound|Sound]] - Enhancement/Mind Control, Resonance
 
-* [[Flesh]] - Body ==**Creation**==, ==*Mutation*==
+* [[Magic/Elements/Secondary/Flesh|Flesh]] - Body ==**Creation**==, ==*Mutation*==
 
-* [[Blood]] - ==**Lineage**== and ==*Soul*== *Magic*/**Curses**
+* [[Blood|Blood]] - ==**Lineage**== and ==*Soul*== *Magic*/**Curses**
 
-* [[Dream]] - Inspiration, Dream *Interpretation*/**Manipulation**
+* [[Dream|Dream]] - Inspiration, Dream *Interpretation*/**Manipulation**
 
 #### Planary
 
-* [[Magic/Elements/Secondary/Planary/Aether]] - Focus/Disorientation, Creation
+* [[Magic/Elements/Secondary/Planary/Aether|Aether]] - Focus/Disorientation, Creation
 
-- [[Plasma]] - Artificial Will, Overload
+- [[Plasma|Plasma]] - Artificial Will, Overload
 
-- [[Magic/Elements/Secondary/Planary/Glyph]] - Complex Spellcraft, Knowledge Encryption
+- [[Magic/Elements/Secondary/Planary/Glyph|Glyph]] - Complex Spellcraft, Knowledge Encryption
 
-- [[Spore]] - Mysterious Helpers, Decomposition, Propagation
+- [[Magic/Elements/Secondary/Planary/Spore|Spore]] - Mysterious Helpers, Decomposition, Propagation
 
 ## Planar
 ### [Voidal](The%20Void.md)
 
-- [[Places/Planes/Borderlands/Iyon Trey/Mynixaceli]] - Mental Energy Manipulation, Reality Manipulation
+- [[Places/Planes/Borderlands/Iyon Trey/Mynixaceli|Mynixaceli]] - Mental Energy Manipulation, Reality Manipulation
 
-- [[Places/Planes/Outerlands/The Void/Realm of Emptiness]] - Dissolution, Imposing Nothingness
+- [[Places/Planes/Outerlands/The Void/Realm of Emptiness|Realm of Emptiness]] - Dissolution, Imposing Nothingness
 
-- [[Places/Planes/Outerlands/The Void/Pandemonium]] - Unpredictable Transmutation, Incredible Disruption
+- [[Places/Planes/Outerlands/The Void/Pandemonium|Pandemonium]] - Unpredictable Transmutation, Incredible Disruption
 
-- [[Limbo]] - Mental Fortification, Crippling Uncertainty
+- [[Places/Planes/Outerlands/The Void/Limbo|Limbo]] - Mental Fortification, Crippling Uncertainty
 
-- [[Realm of Imprisonment]] - Binding, Torment
+- [[Realm of Imprisonment|Realm of Imprisonment]] - Binding, Torment
 
 ### [Infernal](Infernis.md)
 
-- [[Tyorsel]] - *Emotion*/**Impulse** ==**Creation**==/==*Summoning*==
+- [[Tyorsel|Tyorsel]] - *Emotion*/**Impulse** ==**Creation**==/==*Summoning*==
 
-- [[Realm of Greed]] - Power/Ability Stealing, Wish Fulfillment
+- [[Places/Planes/Outerlands/Infernis/Realm of Greed|Realm of Greed]] - Power/Ability Stealing, Wish Fulfillment
 
-- [[Realm of Devils]] - Contracts, Devil Summoning
+- [[Realm of Devils|Realm of Devils]] - Contracts, Devil Summoning
 
-- [[Realm of Demons]] - Abrupt Energy Embodiment (Possession), Demon Summoning
+- [[Realm of Demons|Realm of Demons]] - Abrupt Energy Embodiment (Possession), Demon Summoning
 
-- [[Realm of Storms]] - *Weather*/**Storm** ==*Control*==/==**Embodiment**==
+- [[Places/Planes/Outerlands/Infernis/Realm of Storms|Realm of Storms]] - *Weather*/**Storm** ==*Control*==/==**Embodiment**==
 
 ### [Celestial](Ceylium.md)
 
-- [[Faelryn]] - Natural Chaos, Fae Summoning
+- [[Faelryn|Faelryn]] - Natural Chaos, Fae Summoning
 
-- [[Realm of Law]] - Creation and Knowledge of Law
+- [[Places/Planes/Outerlands/Ceylium/Realm of Law|Realm of Law]] - Creation and Knowledge of Law
 
-- [[Realm of Structure]] - Divine *Proportion*/**Organization**
+- [[Places/Planes/Outerlands/Ceylium/Realm of Structure|Realm of Structure]] - Divine *Proportion*/**Organization**
 
-- [[Realm of Champions]] - Protection, Tulpa ==**Creation**== and ==*Summoning*==
+- [[Realm of Champions|Realm of Champions]] - Protection, Tulpa ==**Creation**== and ==*Summoning*==
 
-- [[Realm of Exaltation]] Power of Ideals (Belief and Code), Philosophical Magic
+- [[Realm of Exaltation|Realm of Exaltation]] Power of Ideals (Belief and Code), Philosophical Magic
 
 ### [Material](Aun%20Materia.md)
 
-- [[Places/Planes/Borderlands/Realm of the Stars]] - Planar Transport, Balance
+- [[Places/Planes/Borderlands/Realm of the Stars|Realm of the Stars]] - Planar Transport, Balance
 
-- [[The True Wilds]] - Feral Aura, Plant/Animal ==*Summoning*==/==**Creation**==
+- [[Places/Planes/Outerlands/Aun Materia/The True Wilds|The True Wilds]] - Feral Aura, Plant/Animal ==*Summoning*==/==**Creation**==
 
-- [[Places/Planes/Outerlands/Aun Materia/Realm of Machines]] - Technomancy, Machine Summoning
+- [[Places/Planes/Outerlands/Aun Materia/Realm of Machines|Realm of Machines]] - Technomancy, Machine Summoning
 
-- [[Realm of Warriors]] - Bloodlust Aura, Undying Battle
+- [[Places/Planes/Outerlands/Aun Materia/Realm of Warriors|Realm of Warriors]] - Bloodlust Aura, Undying Battle
 
-- [[Places/Planes/Outerlands/Aun Materia/Realm of Kindness]] - Purification, Benevolence
+- [[Places/Planes/Outerlands/Aun Materia/Realm of Kindness|Realm of Kindness]] - Purification, Benevolence
 
 ## Divine
 
-### [Anian Deities](Ani)
+### [Anian Deities](Aosgos)
 
-- [[Eido]] - Carrying Souls to the Afterlife, Revival
+- [[Religion/Deities/Anian Deities/Eido|Eido]] - Carrying Souls to the Afterlife, Revival
 
-- [[Animus]] - Memory Restoration, Communing with Dead
+- [[Animus|Animus]] - Memory Restoration, Communing with Dead
 
-- [[Anio]] - Inner Calm, Extended Self (Sensory Enhancement and more)
+- [[Religion/Deities/Anian Deities/Anio|Anio]] - Inner Calm, Extended Self (Sensory Enhancement and more)
 
-- [[Hemerrah]] - ==**Lineage**== and ==*Soul*== Knowledge, Blood Purification
+- [[Religion/Deities/Anian Deities/Hemarrah|Hemerrah]] - ==**Lineage**== and ==*Soul*== Knowledge, Blood Purification
 
-- [[Religion/Deities/Anian Deities/Metageasi]] - Adaptations, Reincarnation, Potential Transcendence
+- [[Religion/Deities/Anian Deities/Metageasi|Metageasi]] - Adaptations, Reincarnation, Potential Transcendence
 
-- [[Necrotori]] - Necromancy, Vengeance Mindset
-
-
+- [[Religion/Deities/Anian Deities/Necrotori|Necrotori]] - Necromancy, Vengeance Mindset
 
 
-### [Gian Deities](Gia.md)
 
-- [[Religion/Deities/Gian Deities/Arias]] - Bardic Magic, Creative Inspiration
 
-- [[Religion/Deities/Gian Deities/Pelarius]] - Science (Applied - Known Study Manipulation/Theoretical - Experimental Research Execution)
+### [Gian Deities](Arcaos)
 
-- [[Zendiceo]] - Primordial Magic, Temporal Manipulation
+- [[Religion/Deities/Gian Deities/Arias|Arias]] - Bardic Magic, Creative Inspiration
 
-- [[Giah]] - ==**Innovation**==/==*Evolution*== of **Life**/*Tech*
+- [[Religion/Deities/Gian Deities/Pelarius|Pelarius]] - Science (Applied - Known Study Manipulation/Theoretical - Experimental Research Execution)
 
-- [[Moira]] - Divination (Simple and Short Term)/Prophecy (Complex, Vague, and Long Term) *Acquisition*/**Manipulation**
+- [[Zendiceo|Zendiceo]] - Primordial Magic, Temporal Manipulation
 
-- [[Religion/Deities/Gian Deities/Tylea]] - Random Effects (Like crazy slots), Gambling Magic
+- [[Giah|Giah]] - ==**Innovation**==/==*Evolution*== of **Life**/*Tech*
 
-### [Pyran Deities](Magic/Elements/Primary/Pyr.md)
+- [[Religion/Deities/Gian Deities/Moira|Moira]] - Divination (Simple and Short Term)/Prophecy (Complex, Vague, and Long Term) *Acquisition*/**Manipulation**
 
-- [[Mensecara]] - Fertility/Pregnancy and Birthing, Childcare
+- [[Religion/Deities/Gian Deities/Tylea|Tylea]] - Random Effects (Like crazy slots), Gambling Magic
 
-- [[Loresemei]] - Easing Pain, Hospitality/Comfort
+### [Pyran Deities](Ikarnis)
 
-- [[Religion/Deities/Pyran Deities/Pyra]] - Invigoration, Indomitable Magic
+- [[Religion/Deities/Pyran Deities/Mensecara|Mensecara]] - Fertility/Pregnancy and Birthing, Childcare
 
-- [[Aproveleous]] - Party Magic, Recreational "Creation"
+- [[Loresemei|Loresemei]] - Easing Pain, Hospitality/Comfort
 
-- [[Sapienta]] - Strategy Magic, Magic Tactics
+- [[Religion/Deities/Pyran Deities/Pyra|Pyra]] - Invigoration, Indomitable Magic
 
-- [[Pagamarous]] - Destruction (Especially Battle Magic), Storm Magic - Bringer of destruction and storm, his powers bring just that, almost exclusively in the name of war and battle.
+- [[Aproveleous|Aproveleous]] - Party Magic, Recreational "Creation"
 
-### [Neran Deities](Magic/Elements/Primary/Ner.md)
+- [[Religion/Deities/Pyran Deities/Sapienta|Sapienta]] - Strategy Magic, Magic Tactics
 
-- [[Religion/Deities/Neran Deities/Viernei]] - Flow Magic (Choosing a path), Neutralization
+- [[Religion/Deities/Pyran Deities/Pagamarous|Pagamarous]] - Destruction (Especially Battle Magic), Storm Magic - Bringer of destruction and storm, his powers bring just that, almost exclusively in the name of war and battle.
 
-- [[Trisella]] - **Dredge up/Heal Heartache**, *Share/Neutralize Misery*
+### [Neran Deities](Elfuelo)
 
-- [[Nera]] - Flow Magic (Choosing a path), Releasing Magic - The bearer of the primordial [[Magic/Elements/Primary/Ner]], her ability draws souls inward, blocking out the world until only their own emotion remains.
+- [[Religion/Deities/Neran Deities/Viernei|Viernei]] - Flow Magic (Choosing a path), Neutralization
 
-- [[Aeoqor]] - Detecting Waterways, Tidal Magic
+- [[Religion/Deities/Neran Deities/Trisella|Trisella]] - **Dredge up/Heal Heartache**, *Share/Neutralize Misery*
 
-- [[Somera]] - Creating Silence, Guiding Spells
+- [[Religion/Deities/Neran Deities/Nera|Nera]] - Flow Magic (Choosing a path), Releasing Magic - The bearer of the primordial [[Magic/Elements/Primary/Ner|Ner]], her ability draws souls inward, blocking out the world until only their own emotion remains.
 
-- [[Nyct]] - Disruptive/Surrender Magic, Artificial Night
+- [[Religion/Deities/Neran Deities/Aeoqor|Aeoqor]] - Detecting Waterways, Tidal Magic
 
-### [Eoan Deities](Magic/Elements/Primary/Eo.md)
+- [[Religion/Deities/Neran Deities/Somera|Somera]] - Creating Silence, Guiding Spells
 
-- [[Divini]] - Understanding and Upholding Divine Law
+- [[Religion/Deities/Neran Deities/Nyct|Nyct]] - Disruptive/Surrender Magic, Artificial Night
 
-- [[Torshana]] - Judge, Jury, Executioner of Established Law
+### [Eoan Deities](Eraterra)
 
-- [[Eoterra]] - Ore Finding, Excavation, and Refinement, Mining Protection
+- [[Divini|Divini]] - Understanding and Upholding Divine Law
 
-- [[Kyasonri]] - Restoration, ==**Enhancement**==/==*Stabilization*==
+- [[Religion/Deities/Eoan Deities/Torshana|Torshana]] - Judge, Jury, Executioner of Established Law
 
-- [[Religion/Deities/Eoan Deities/Tisactor]] - Smithing Magic, Crafting/Construction - The master smith and father of crafts grants the ability to craft with ease and magically alter completed works already touched by one's own power.
+- [[Eoterra|Eoterra]] - Ore Finding, Excavation, and Refinement, Mining Protection
 
-- [[Volcune]] - Natural ==**Disaster**==/==*Formation*== *Warning* and **Manipulation**
+- [[Kyasonri|Kyasonri]] - Restoration, ==**Enhancement**==/==*Stabilization*==
 
-### [Tosan Deities](Tos)
+- [[Religion/Deities/Eoan Deities/Tisactor|Tisactor]] - Smithing Magic, Crafting/Construction - The master smith and father of crafts grants the ability to craft with ease and magically alter completed works already touched by one's own power.
 
-- [[Eirini]] - Healing, Warmth, Rejuvenation
+- [[Religion/Deities/Eoan Deities/Volcune|Volcune]] - Natural ==**Disaster**==/==*Formation*== *Warning* and **Manipulation**
 
-- [[Stolurin]] - Stellar Divination and Storytelling
+### [Tosan Deities](Tomeria)
 
-- [[Religion/Deities/Tosan Deities/Tosera]] - Truth Detection, Promoting Agency
+- [[Religion/Deities/Tosan Deities/Eirini|Eirini]] - Healing, Warmth, Rejuvenation
 
-- [[Selpida]] - Calming/Neutralization, Inspiration/Hope
+- [[Religion/Deities/Tosan Deities/Stolurin|Stolurin]] - Stellar Divination and Storytelling
 
-- [[Religion/Deities/Tosan Deities/Melas]] - ==**Unstable**==/==*Selfish*== Power, *Darkness*/**Light Absorption**
+- [[Religion/Deities/Tosan Deities/Tosera|Tosera]] - Truth Detection, Promoting Agency
 
-- [[Religion/Deities/Tosan Deities/Skotadi]] - Obsession/Insanity Magic, Forbidden Knowledge Acquisition
+- [[Selpida|Selpida]] - Calming/Neutralization, Inspiration/Hope
 
-### [Aeran Deities](Aer)
+- [[Religion/Deities/Tosan Deities/Melas|Melas]] - ==**Unstable**==/==*Selfish*== Power, *Darkness*/**Light Absorption**
 
-- [[Tazo]] - Deal Magic, Protection Magic
+- [[Religion/Deities/Tosan Deities/Skotadi|Skotadi]] - Obsession/Insanity Magic, Forbidden Knowledge Acquisition
 
-- [[Religion/Deities/Aeran Deities/Isagrei]] - Bureaucratic Magic, Guidance Magic
+### [Aeran Deities](Mesaiga)
 
-- [[Aeris]] - Idea, Conveying, Thought Manipulation - The bearer of the element of [[Aer]], her power grants thought communication and even memory alteration
+- [[Religion/Deities/Aeran Deities/Tazo|Tazo]] - Deal Magic, Protection Magic
 
-- [[Mercantur]] - Travel Magic, Trade/Economic Magic
+- [[Religion/Deities/Aeran Deities/Isagrei|Isagrei]] - Bureaucratic Magic, Guidance Magic
 
-- [[Erimos]] - Stealth Magic, Strength in Numbers
+- [[Religion/Deities/Aeran Deities/Aeris|Aeris]] - Idea, Conveying, Thought Manipulation - The bearer of the element of [[Magic/Elements/Primary/Aer|Aer]], her power grants thought communication and even memory alteration
 
-- [[Caliel]] - Subterfuge Magic, Deceit Magic
+- [[Mercantur|Mercantur]] - Travel Magic, Trade/Economic Magic
 
-### [Brioan Deities](Brio)
+- [[Religion/Deities/Aeran Deities/Erimos|Erimos]] - Stealth Magic, Strength in Numbers
 
-- [[Fiersa]] - ==**Plant Growth**==, ==*Foraging*== - As the grower of all plants, her power has the ability to find and grow plants, even controlling them somewhat.
+- [[Religion/Deities/Aeran Deities/Caliel|Caliel]] - Subterfuge Magic, Deceit Magic
 
-- [[Diasi]] - Animal Communication, Hunting and Taming Magic - Her power allows those with it to track and connect with them, for whatever purpose they should so desire.
+### [Brioan Deities](Bemoscas)
 
-- [[Briosa]] - Seasonal Magic, Minor Nature ==**Control**==/==*Influence*==
+- [[Religion/Deities/Brioan Deities/Fiersa|Fiersa]] - ==**Plant Growth**==, ==*Foraging*== - As the grower of all plants, her power has the ability to find and grow plants, even controlling them somewhat.
 
-- [[Fruila]] - Weather Magic, Agricultural Magic
+- [[Religion/Deities/Brioan Deities/Diasi|Diasi]] - Animal Communication, Hunting and Taming Magic - Her power allows those with it to track and connect with them, for whatever purpose they should so desire.
 
-- [[Corrapo]] - Decay Magic, Spore Host/Minor Control
+- [[Briosa|Briosa]] - Seasonal Magic, Minor Nature ==**Control**==/==*Influence*==
 
-- [[Dilitrio]] - Plague Magic, Disease Host/Control
+- [[Religion/Deities/Brioan Deities/Fruilia|Fruilia]] - Weather Magic, Agricultural Magic
+
+- [[Corrapo|Corrapo]] - Decay Magic, Spore Host/Minor Control
+
+- [[Dilitrio|Dilitrio]] - Plague Magic, Disease Host/Control

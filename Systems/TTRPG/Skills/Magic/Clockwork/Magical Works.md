@@ -1,2 +1,2 @@
 
-Your machines' magic shows through even when they are not activated. ==When you create a clockwork machine, choose a passive ability. It may only effect you or the machine. This effect is active as long as the machine is. Additionally, the number of machines you can operate increases to half of your **Spellcraft [[Die Max]]**==
+Your machines' magic shows through as long as it remains operable. ==When you create a clockwork machine, choose a passive ability. It may only effect you or the machine. This effect is active as long as the machine is. Additionally, the number of machines you can operate increases to half of your **Spellcraft [[Die Max]]**==

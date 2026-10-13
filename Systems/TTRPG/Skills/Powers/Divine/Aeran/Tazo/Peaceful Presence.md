@@ -1,0 +1,2 @@
+
+==Those you designate must roll against you to attack unprovoked (being attacked first). You may also roll a **Will** check against any creature who is preparing an attack to prevent them from doing so==

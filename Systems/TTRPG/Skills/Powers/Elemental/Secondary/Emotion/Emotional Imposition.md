@@ -1,0 +1,2 @@
+
+You can convey your emotions without words. ==You may **Convey Emotion** without words through limitted telepathy. Furthermore, when you do, you may roll a **Will** or **Spellcraft** check to overwhelm the target with emotion, dealing the "Enervated" **[[Harm|Minor Mental/Emotional Harm]]**==

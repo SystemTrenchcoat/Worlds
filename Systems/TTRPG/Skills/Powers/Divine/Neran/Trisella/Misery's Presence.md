@@ -1,0 +1,2 @@
+
+==You may choose to lock away **[[Harm|Mental/Emotional Harm]]**, preventing it from being invoked or healed until this effect is removed by you or some cleansing magic. Alternatively, you may distribute the harm between at least 1 person per level of harm, dealing the same **[[Harm|Minor Mental/Emotional Harm]]** to each that is healed after a rest==

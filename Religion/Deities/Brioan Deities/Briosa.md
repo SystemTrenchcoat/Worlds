@@ -4,7 +4,7 @@ tags:
   - divine
 ---
 
-**Epithet**: Goddess of Nature, [[Brio|Life]], and The Natural Order
+**Epithet**: Goddess of Nature, [[Magic/Elements/Primary/Brio|Life]], and The Natural Order
 **Symbol**: A Tall Luscious
 
 ## Worshipers

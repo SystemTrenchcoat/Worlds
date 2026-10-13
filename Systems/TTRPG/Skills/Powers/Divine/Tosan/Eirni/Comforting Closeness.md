@@ -1,0 +1,2 @@
+
+Your healing aura grows further, putting people at ease in your presence. ==Creatures around you suffer no non-physical ailments while in your presence. Additionally, you may treat **[[Harm|Moderate Harm]]** with a single **[[Heal]]** action==

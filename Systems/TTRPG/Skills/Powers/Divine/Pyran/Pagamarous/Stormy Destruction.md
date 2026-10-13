@@ -1,0 +1,2 @@
+
+Your aura has grown even more dangerous. ==You may destroy mundane objects within your wingspan or less that you can see. Magical items are damaged, but not destroyed outright (suffering -1 die to use) and creatures suffer the "Ravage" **[[Harm|Moderate Physical Harm]]**==

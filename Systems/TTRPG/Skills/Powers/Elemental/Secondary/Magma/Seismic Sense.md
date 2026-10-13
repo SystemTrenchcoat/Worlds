@@ -1,0 +1,2 @@
+
+You have a sense of what is around you through the ground itself. ==Gain **[[Systems/TTRPG/Skills/Adaptation/Sensory/Vibratory Sense|Vibratory Sense]]** out 10'. If you already had it, it extends by an extra 10'==

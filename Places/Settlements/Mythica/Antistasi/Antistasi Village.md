@@ -21,7 +21,7 @@ tags:
 
 - [[Faedira]] - Local Alchemist, Healer, and Nature Lover (Female [[Gnome]])
 
-- [[Heryarus]] - Priest of the local Forest Temple (Primarily worships [[Briosa]], [[Diasi]], and [[Fruila]]) (Male [[Elf]])
+- [[Heryarus]] - Priest of the local Forest Temple (Primarily worships [[Briosa]], [[Religion/Deities/Brioan Deities/Diasi]], and [[Religion/Deities/Brioan Deities/Fruilia]]) (Male [[Elf]])
 
 - [[Leomyar]] - A hunter of beasts and monstrosities, always after the next big foe (Male [[Elf]])
 

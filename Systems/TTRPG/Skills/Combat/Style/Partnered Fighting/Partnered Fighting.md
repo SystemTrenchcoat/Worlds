@@ -1,0 +1,2 @@
+
+Whether a beloved pet, a summoned spirit, or a friend, you have a powerful bond with another that makes you both formidable in battle. ==You and your partner may both act when you do. When either of you **[[Attack]]**, the other gains +1 die per pip in this ability==

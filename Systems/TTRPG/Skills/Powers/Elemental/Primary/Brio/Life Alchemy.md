@@ -1,0 +1,2 @@
+
+You have learned the secrets of fusing traits and creatures to make chimeral beings. ==You may attempt to fuse differing lifeforms or add traits that don't belong. You must succeed a **Spellcraft** check, **Minor**/**Disadvantageous** at base, but can be made harder if it is particularly ambitious/difficult==

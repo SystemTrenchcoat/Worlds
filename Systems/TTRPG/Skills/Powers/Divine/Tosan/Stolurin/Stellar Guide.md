@@ -1,0 +1,2 @@
+
+You are guided by the stars. ==When you are beneath a night sky, you are perfectly aware of where you are. Furthermore, the stars may occasionally grant you omens that the **[[Narrator]]** specifies==

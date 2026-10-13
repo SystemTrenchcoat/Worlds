@@ -3,7 +3,7 @@ In simple terms, how much damage you can take before you incur lasting effects. 
 
 | Harm      | Example                  |
 | --------- | ------------------------ |
-| Long Term | A Lost Limit             |
+| Long Term | A Lost Limb              |
 | Major     | A Series of Broken Bones |
 | Moderate  | A Sprain                 |
 | Minor     | A Bruise                 |
@@ -11,4 +11,4 @@ In simple terms, how much damage you can take before you incur lasting effects. 
 
 Additionally, there are 3 different varieties of harm: physical, mental/emotional, and metaphysical. **Physical Harm** is what it sounds like, harm that impacts your physical body, often incurred through combat. **Mental/Emotional Harm** is harm most often exhaustion of some sort, incurred from strenuous social activity. **Metaphysical Harm** is a unique kind of damage dealt to the soul, most often incurred through strenuous uses of magic.
 
-Long Term Harm takes on the variety of the last harm, taking on one of 3 forms: **Scars**, **Traumas**, and **Gates**. Scars prevent you from undertaking specific actions because of a physical pain, loss, or other ailment. Traumas render you powerless in certain scenarios, your thoughts and emotions drawn back to that moment of truest pain. Gates locks away certain abilities, the damage to your very soul rendering even the thought nearly impossible. A character can only suffer 3 Long Term before being too adled to continue adventuring.
+Long Term Harm takes on the variety of the last harm, taking on one of 3 forms: **Scars**, **Traumas**, and **Gates**. Scars prevent you from undertaking specific actions because of a physical pain, loss, or other ailment. Traumas render you powerless in certain scenarios, your thoughts and emotions drawn back to that moment of truest pain. Gates locks away certain abilities, the damage to your very soul rendering even the thought nearly impossible. A character can only suffer 3 Long Term Harms before being too adled to continue adventuring.

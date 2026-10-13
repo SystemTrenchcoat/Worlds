@@ -1,0 +1,2 @@
+
+Like a plant, you create food from little more than sunlight and water. ==You must spend at least 4 hours a day in the sun==. Are there other ingredients required to you to photosythesize? Are there ingredients to make it more efficient? What are they? Does your skin take on a green hue? Why or why not?

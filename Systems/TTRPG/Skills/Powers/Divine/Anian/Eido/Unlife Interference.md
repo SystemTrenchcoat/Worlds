@@ -1,0 +1,2 @@
+
+Your presence weakens undead around you, disrupting their connection to the physical world. ==All allies gain +1d6 against undead creatures within your **[[Undead Sense]]**. Additionally, undead can not be created in this area. Those that die in it are under the protection of [[Religion/Deities/Anian Deities/Eido]]==

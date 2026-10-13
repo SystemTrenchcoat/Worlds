@@ -16,13 +16,13 @@ The domain of light, love, and healing, it is represented by the sun (star) [[Eo
 
 The face of [[Tomeria]] in the skies, encompassing not only the sun (tomeir), but also the stars (tomas).
 
-#### [[Eirini]]
+#### [[Religion/Deities/Tosan Deities/Eirini|Eirini]]
 
-Lamaria brings about peace and healing in the daytime, illuminating the path to common ground in the night. Her daytime form is [[Eirini]], Goddess of the Sun, Healing, and Peace. Her followers are mostly those that wish to have a positive impact on the world in one way or another. As such, she is worshiped most by diplomats, healers, and those seeking peace in the world.
+Lamaria brings about peace and healing in the daytime, illuminating the path to common ground in the night. Her daytime form is [[Religion/Deities/Tosan Deities/Eirini]], Goddess of the Sun, Healing, and Peace. Her followers are mostly those that wish to have a positive impact on the world in one way or another. As such, she is worshiped most by diplomats, healers, and those seeking peace in the world.
 
-#### [[Stolurin]]
+#### [[Religion/Deities/Tosan Deities/Stolurin|Stolurin]]
 
-At nighttime on the other hand, her stars guide the explorers of the night, and the story tellers with the shapes they make. This starry form is known as [[Stolurin]], Goddess of Constellations, Guidance, and Storytelling. Her followers are often guides, helping others through the darkness, often with the stars as their aid. As such, she is most worshiped by storytellers, navigators and those who study the tomas.
+At nighttime on the other hand, her stars guide the explorers of the night, and the story tellers with the shapes they make. This starry form is known as [[Religion/Deities/Tosan Deities/Stolurin|Stolurin]], Goddess of Constellations, Guidance, and Storytelling. Her followers are often guides, helping others through the darkness, often with the stars as their aid. As such, she is most worshiped by storytellers, navigators and those who study the tomas.
 
 ### Permecia
 
@@ -31,13 +31,13 @@ At nighttime on the other hand, her stars guide the explorers of the night, and 
 
 The aspect of [[Tomeria]] that exists throughout the minds and hearts of most [[Eotal]]'s  inhabitants, the positivity, hope, and inner light of the world. Permecia is the embodiment of the energies of kindness, mercy, and positivity. Her energies are an unseen one, but they hold much of the aspects most associated with light as element. Permescia may have less consistent followers than Lamaria, but her influence is felt by many and her essence is inboked in every wishful thought and positive moment.
 
-#### [[Religion/Deities/Tosan Deities/Tosera]]
+#### [[Religion/Deities/Tosan Deities/Tosera|Tosera]]
 
-The embodiment of her this light is [[Religion/Deities/Tosan Deities/Tosera]], Goddess of [[Tos|Light]], Truth and Presence. Her followers tend to have a strong [[Tos|light]] element as she is the holder of it. She is often called on to use this power to illuminate a truth or lighten a situation. She is most worshiped by truth-tellers, beloved leaders, and those with a strong force of personality.
+The embodiment of her this light is [[Religion/Deities/Tosan Deities/Tosera|Tosera]], Goddess of [[Magic/Elements/Primary/Tos|Light]], Truth and Presence. Her followers tend to have a strong [[Magic/Elements/Primary/Tos|light]] element as she is the holder of it. She is often called on to use this power to illuminate a truth or lighten a situation. She is most worshiped by truth-tellers, beloved leaders, and those with a strong force of personality.
 
-#### [[Selpida]]
+#### [[Selpida|Selpida]]
 
-Permercia's other aspect is known as [[Selpida]], Goddess of Postivity, Hope and Mercy. Her domain is that sought most often to those in dire situations or those who are almost childishly hopeful. She is most worshiped by diplmats, those falling on hard times, and wishful thinkers.
+Permercia's other aspect is known as [[Selpida|Selpida]], Goddess of Postivity, Hope and Mercy. Her domain is that sought most often to those in dire situations or those who are almost childishly hopeful. She is most worshiped by diplmats, those falling on hard times, and wishful thinkers.
 
 ### Tyosera
 
@@ -46,13 +46,13 @@ Permercia's other aspect is known as [[Selpida]], Goddess of Postivity, Hope and
 
 There can be no light without darkness and Tyosera encompasses this darkest form. Without the light of positivity, the shadows and darkness can drive one to insanity and fanatic obsession. Tyosera has two faces to encompass the more physical aspect and the more psychological affects.
 
-#### [[Religion/Deities/Tosan Deities/Melas]]
+#### [[Religion/Deities/Tosan Deities/Melas|Melas]]
 
-[[Religion/Deities/Tosan Deities/Melas]] is the face of the former embodying darkness, shadow, and absorption. This embraces both the physical absence of light as well as the obscuring of truth, the domination or decouring of a place or thing, and the  darkest parts of one's self. She brings power to the powerless, thrown to the shadows of society, those seeking strength through the darkness, and those looking to absorb light in any form, making themselves the only thing of attention. [[Religion/Deities/Tosan Deities/Melas]] is followed by the self-centered, discarded, and power-hungry, at least those relatively in control of themselves.
+[[Religion/Deities/Tosan Deities/Melas|Melas]] is the face of the former embodying darkness, shadow, and absorption. This embraces both the physical absence of light as well as the obscuring of truth, the domination or decouring of a place or thing, and the  darkest parts of one's self. She brings power to the powerless, thrown to the shadows of society, those seeking strength through the darkness, and those looking to absorb light in any form, making themselves the only thing of attention. [[Religion/Deities/Tosan Deities/Melas|Melas]] is followed by the self-centered, discarded, and power-hungry, at least those relatively in control of themselves.
 
-#### [[Religion/Deities/Tosan Deities/Skotadi]]
+#### [[Religion/Deities/Tosan Deities/Skotadi|Skotadi]]
 
-[[Religion/Deities/Tosan Deities/Skotadi]] is the psychological aspect embracing darkness, embodying insanity, obsessesion, and negativity. Those who seek [[Religion/Deities/Tosan Deities/Skotadi]] tend to be seekers of forbidden truths, fantics, and purbeyors of darkness, dread, and fear. [[Religion/Deities/Tosan Deities/Skotadi]] is the darkness's affect on the psyche made manifest, driving people to insanity, to obsession, to chasing what they ought not, purveying all manor of negativity. Her beguiling influence is rarely sought out by the "civilized", but those who are all alone or unhealthily driven completely consumed by darkness and dread.
+[[Religion/Deities/Tosan Deities/Skotadi|Skotadi]] is the psychological aspect embracing darkness, embodying insanity, obsessesion, and negativity. Those who seek [[Religion/Deities/Tosan Deities/Skotadi|Skotadi]] tend to be seekers of forbidden truths, fantics, and purbeyors of darkness, dread, and fear. [[Religion/Deities/Tosan Deities/Skotadi|Skotadi]] is the darkness's affect on the psyche made manifest, driving people to insanity, to obsession, to chasing what they ought not, purveying all manor of negativity. Her beguiling influence is rarely sought out by the "civilized", but those who are all alone or unhealthily driven completely consumed by darkness and dread.
 
 ### [[Amaorel]]
 

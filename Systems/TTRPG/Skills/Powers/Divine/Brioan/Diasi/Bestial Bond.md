@@ -1,0 +1,2 @@
+
+You can bond with creatures with an amount of ease. ==You can forge a bond with a creature with a successful **Difficulty** 7 **Will**, **Convey**, or **Spellcraft** check. You may go beyond this by succeeding making a new check with a **Difficulty** that increases by 7 each time, or, by taking the "Drained" **[[Harm|Minor Metaphysical Harm]]**==.

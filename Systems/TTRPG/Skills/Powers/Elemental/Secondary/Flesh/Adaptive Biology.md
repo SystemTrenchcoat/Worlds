@@ -1,0 +1,2 @@
+
+Your body manipulation ability has grown, allowing you further control of your physiology. ==You may gain the benefits of an ability from under the **Adaptations** tree and can change it once a day. Additionally, you may change your sizes.==

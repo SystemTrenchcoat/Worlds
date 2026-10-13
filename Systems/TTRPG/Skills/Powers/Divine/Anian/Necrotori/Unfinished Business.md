@@ -1,0 +1,2 @@
+
+Something has been eating at you since your rebirth, something you can not ignore. ==You have a goal that consumes your every thought. Gain +1d to checks involving this task, but suffer a cumulative -1 penalty every week (or other **[[Narrator]]** approved increment of time) that you are not engaging this task==

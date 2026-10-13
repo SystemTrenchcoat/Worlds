@@ -1,0 +1,2 @@
+
+You are bound by a set of laws, be they from civilization or elsewhere. ==While in accordance with this creed, gain a bonus. If you break this creed, suffer a penalty. These both should relate to the creed in question (You may choose from the **Torshana Creeds** table or create your own with your **[[Narrator]]**)==.

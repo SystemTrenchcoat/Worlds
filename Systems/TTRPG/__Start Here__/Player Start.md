@@ -10,7 +10,7 @@ Now, I am gonna ask you all a bunch of questions that you can dm to me or post a
 1. Who is your character? As much detail as you want, but a bit of info for what their deal is, and for later playtest things, what the player fantasy/build is will be helpful
 2. What does their story look like to you? I wanna practice writing campaigns and stories more generally around the characters.
 3. Is there anything in particular you want to see in the campaign? Could be a theme, a monster, a place, whatever
-4. Is there any questions you wanna ask me, both as the GM and worldbuilder?
+4. Is there any questions you wanna ask me, both as the **[[Narrator]]** and worldbuilder?
 5. What kind of quests would you/your character enjoy
 6. Are there any skills/abilities you are interested in? I will be using this as a playtest campaign, so please lemme know if there are any skills that you'd want for
 
@@ -32,7 +32,7 @@ If you are using Spellcraft, you will also need to answer these questions:
     * It must make sense within the cannon time
     * It must realistically work with your answer to question 3
     
-    If the GM asks "why can you cast this spell", you should be able to reasonably tie the response back to this one word. Choose it wisely
+    If the **[[Narrator]]** asks "why can you cast this spell", you should be able to reasonably tie the response back to this one word. Choose it wisely
 
 3. Where does your magic come from??? How did you learn it? Does it come from a different being? Maybe multiple?? You have mostly full reign over your answer, but i will hit you with the limitations gun if it isn't sensible with the time/world, or if you're clearly trying to fuck with me ||~~probably~~||. Here are a few examples of where magic can come from!!!
     * Connection to the natural world (works well with elemental magic and such)

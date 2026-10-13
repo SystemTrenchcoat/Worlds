@@ -1,2 +1,2 @@
 
-==You are able to combine minerals into unique composites. Additionally, you may change minerals into another of the same element==
+==You are able to combine minerals into unique composites. Additionally, you may change a mineral into another of the same element==

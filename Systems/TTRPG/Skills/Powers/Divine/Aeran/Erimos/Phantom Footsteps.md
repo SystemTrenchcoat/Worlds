@@ -1,0 +1,2 @@
+
+You are unnaturally silent, leaving others struggling to detect your presence. ==Gain +1 Result to any rolls relating to being undetected. Additionally, you leave no trace of your existence after you leave a location==

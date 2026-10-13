@@ -43,7 +43,7 @@
 		{"id":"18f7e13c0b2e74e5","type":"text","text":"[[Claws]]","x":-634,"y":-20,"width":96,"height":60},
 		{"id":"7f9aa65158ee5d73","type":"text","text":"[[Talons]]","x":-685,"y":60,"width":102,"height":60},
 		{"id":"d3ecec112c3e97c9","type":"text","text":"[[Beak]]","x":-749,"y":150,"width":91,"height":60},
-		{"id":"e762a4b0264d6163","type":"text","text":"A note (mostly for Ooze):\nThis is a narrative system, you have the freedom to do something special with your poison if you desire, just discuss with your GM","x":377,"y":481,"width":327,"height":149},
+		{"id":"e762a4b0264d6163","type":"text","text":"A note (mostly for Ooze):\nThis is a narrative system, you have the freedom to do something special with your poison if you desire, just discuss with your Narrator","x":377,"y":481,"width":327,"height":149},
 		{"id":"62aed5806e6e3cc3","type":"text","text":"[[Pheromones]]","x":180,"y":200,"width":150,"height":60},
 		{"id":"403856b422acfceb","type":"text","text":"[[Threads]]","x":371,"y":280,"width":113,"height":60},
 		{"id":"a44d1ef68583b1db","type":"text","text":"When choosing these, decide if it is production or perception. You can get both, but you have to buy them individually","x":-871,"y":-760,"width":374,"height":96},

@@ -1,0 +1,2 @@
+
+You have the natural ability to feel as others do. ==Gain +1d6 per node in **[[Systems/TTRPG/Skill Trees/Powers/Elemental/Secondary/Emotion|Emotion]]** to rolls relating to emotions. If you fail, the emotional intake may overwhelm you==

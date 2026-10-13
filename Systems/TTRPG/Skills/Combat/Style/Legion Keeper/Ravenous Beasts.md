@@ -1,0 +1,2 @@
+
+==Your horde can deal the "Bitten" **[[Harm|Minor Physical Harm]]** when they first [[Infest]] a creature and any time the creature starts its turn within the swarm==

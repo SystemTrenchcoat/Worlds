@@ -16,13 +16,13 @@ What is magic but the truest creation? Be it through the arcane arts, performanc
 
 The aspect of all manor of creation common to the people, of Eotal, and of our world. He heralds art and science alike, teaching that they are merely two sides of the same coin.
 
-#### [[Religion/Deities/Gian Deities/Arias]]
+#### [[Religion/Deities/Gian Deities/Arias|Arias]]
 
-The former is represented by [[Religion/Deities/Gian Deities/Arias]], Goddess of Creativity, Music, and the Arts. She brings forth creativity, blessing some of the most famous creators with beautiful ideas. She is petitioned most by artists, musicians, etc. for inspiration, recognition, and simply as a courtesy, a thank you for their talent.
+The former is represented by [[Religion/Deities/Gian Deities/Arias|Arias]], Goddess of Creativity, Music, and the Arts. She brings forth creativity, blessing some of the most famous creators with beautiful ideas. She is petitioned most by artists, musicians, etc. for inspiration, recognition, and simply as a courtesy, a thank you for their talent.
 
-#### [[Religion/Deities/Gian Deities/Pelarius]]
+#### [[Religion/Deities/Gian Deities/Pelarius|Pelarius]]
 
-Her logical brained counterpart and the opposite side of this coin is [[Religion/Deities/Gian Deities/Pelarius]], God of Science, Medicine, and Research. [[Religion/Deities/Gian Deities/Pelarius]] is rooted in logic and exploration. He teaches the most skilled surgeons, scientists, researchers, and doctors how to best do whatever they seek. He is often worshiped by researchers, scientists, and medical practitioners, most often for luck in a project or for insight on a matter causing them confusion.
+Her logical brained counterpart and the opposite side of this coin is [[Religion/Deities/Gian Deities/Pelarius|Pelarius]], God of Science, Medicine, and Research. [[Religion/Deities/Gian Deities/Pelarius|Pelarius]] is rooted in logic and exploration. He teaches the most skilled surgeons, scientists, researchers, and doctors how to best do whatever they seek. He is often worshiped by researchers, scientists, and medical practitioners, most often for luck in a project or for insight on a matter causing them confusion.
 
 ### Mynicend
 
@@ -31,13 +31,13 @@ Her logical brained counterpart and the opposite side of this coin is [[Religion
 
 Ruler of the more esoteric nature of the universe, Mynicend is a being, a domain that rules over the arcane. This includes magic in all its forms, time, and innovation.
 
-#### [[Zendiceo]]
+#### [[Zendiceo|Zendiceo]]
 
-The former is ruled by an aspect of Mynicend long believed to be dead, if believed to exist at all, [[Zendiceo]], Deity of the Mystic Arts, Time, and Arcane Knowledge. Believed to be the first of the gods, he is thought to have overseen creation with [[Kyarus]]. He is not known by most mortals, or even by many intelligent beasts as he is said to have disappeared when creation was done. He is believed to be in a demiplane away from creation, to have transformed into the goddess [[Giah]], or to be the magical grid itself, there's no one who knows for sure.
+The former is ruled by an aspect of Mynicend long believed to be dead, if believed to exist at all, [[Zendiceo|Zendiceo]], Deity of the Mystic Arts, Time, and Arcane Knowledge. Believed to be the first of the gods, he is thought to have overseen creation with [[Kyarus]]. He is not known by most mortals, or even by many intelligent beasts as he is said to have disappeared when creation was done. He is believed to be in a demiplane away from creation, to have transformed into the goddess [[Giah|Giah]], or to be the magical grid itself, there's no one who knows for sure.
 
-#### [[Giah]]
+#### [[Giah|Giah]]
 
-[[Giah]] is the Goddess of Innovation, Progress, and the [[Gia|Arcane]]. She is who powerful mages, artificers, and scientists turn to for inspiration to make something new, that pushes the boundaries of all that was done before. She is most worshiped by these powerful thinkers, but also by those looking to create something new or innovate with something old.
+[[Giah|Giah]] is the Goddess of Innovation, Progress, and the [[Gia|Arcane]]. She is who powerful mages, artificers, and scientists turn to for inspiration to make something new, that pushes the boundaries of all that was done before. She is most worshiped by these powerful thinkers, but also by those looking to create something new or innovate with something old.
 
 ### Risophero
 
@@ -46,17 +46,17 @@ The former is ruled by an aspect of Mynicend long believed to be dead, if believ
 
 Domain of all things luck, fortune, and fate, Risophero has a wide variety of desperate souls praying to it in both of his forms. He heralds all that can not be foreseen or guessed without divine or magical assistance. 
 
-#### [[Moira]]
+#### [[Religion/Deities/Gian Deities/Moira|Moira]]
 
-The aspect of key events would be [[Moira]], Goddess of Fate, Foresight, and Calamity. She rules over that over that which is "set in stone", though even destiny can be rewritten with guidance and skill. She is not always able to prevent the calamities that can befall the land. She is worshiped by fortune tellers, divination wizards, and those seeking to escape a tragic fate (to varying avail).
+The aspect of key events would be [[Religion/Deities/Gian Deities/Moira|Moira]], Goddess of Fate, Foresight, and Calamity. She rules over that over that which is "set in stone", though even destiny can be rewritten with guidance and skill. She is not always able to prevent the calamities that can befall the land. She is worshiped by fortune tellers, divination wizards, and those seeking to escape a tragic fate (to varying avail).
 
-#### [[Religion/Deities/Gian Deities/Tylea]]
+#### [[Religion/Deities/Gian Deities/Tylea|Tylea]]
 
-Her less intense counterpart is [[Religion/Deities/Gian Deities/Tylea]], Goddess of Luck, Gambling, and Fortune. She loves a good game and treats life like one. She is worshiped by gamblers and game masters alike, as well as the occasional person seeking luck in a certain event, most often sports and games.
+Her less intense counterpart is [[Religion/Deities/Gian Deities/Tylea|Tylea]], Goddess of Luck, Gambling, and Fortune. She loves a good game and treats life like one. She is worshiped by gamblers and game masters alike, as well as the occasional person seeking luck in a certain event, most often sports and games.
 
 ### [[Amaisis]]
 
 **Symbol**: A Crafted Idol with a Heart
 **Domains**: Love of Creators and Creations
 
-God of Idolistic, Information, and Creation Love. Amaisis watches most closely over idols, those creators that are so talented in their craft most closely over idols, those creators that are so talented in their craft that they attract worlds of love and attention to them.
+God of Idolistic, Information, and Creation Love. Amaisis watches most closely over idols, those creators that are so talented in their craft that they attract worlds of love and attention to them.

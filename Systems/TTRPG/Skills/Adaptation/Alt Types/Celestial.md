@@ -1,0 +1,2 @@
+
+You were created with an oath, laws or other purpose. ==You may cast magic relevant to this and always have a spell active that makes sense for this. If you break this oath, you fall. Lose all abilities gained from this ability and take on the [[Infernal]] alt type instead==. What is your oath? How do you feel about it? How do you feel about being on the material plane? Are you originally from [[Ceylium]] or somewhere else?

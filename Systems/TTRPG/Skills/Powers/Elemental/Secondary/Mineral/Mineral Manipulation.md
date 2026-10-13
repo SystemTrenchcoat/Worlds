@@ -1,2 +1,2 @@
 
-==You are able to magically maipulate the form of refined minerals==
+==You are able to magically manipulate the form of refined minerals==

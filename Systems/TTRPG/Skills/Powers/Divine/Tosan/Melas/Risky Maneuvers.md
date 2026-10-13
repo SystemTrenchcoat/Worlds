@@ -1,2 +1,2 @@
 
-==You may suffer -2 dice to gain +1 **[[Level of Success|Levels of Success]]**==
+==You may choose to suffer -1 **[[Level of Success]]** to gain 3 dice==

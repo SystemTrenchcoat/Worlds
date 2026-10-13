@@ -1,0 +1,2 @@
+
+The world itself tends to shift towards where your faith lies. ==Non-creature things move in accordance with your faith, sometimes, or even often, beyond the bounds of what could be considered natural==.

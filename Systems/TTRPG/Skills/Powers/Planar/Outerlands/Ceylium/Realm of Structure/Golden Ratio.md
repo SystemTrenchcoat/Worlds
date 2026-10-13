@@ -1,0 +1,2 @@
+
+You understand how the relationships between things can be altered. ==You may roll a **Will** or **Spellcraft** to alter the ratios between things to gain +1 **[[Level of Success]]** (practical), +1 die (foundational), or +1 die size (aesthetic). This effect lasts until you leave the presence of the affected==.

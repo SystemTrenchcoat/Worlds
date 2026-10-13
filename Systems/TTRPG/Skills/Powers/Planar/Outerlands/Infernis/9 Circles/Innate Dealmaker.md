@@ -1,0 +1,2 @@
+
+Through subconscious knowledge, hard experience, or a bit of both, you have noticed things go bad when someone breaks their word to you or vice versa. ==Some examples of what this looks like are listed in the **"Deal Consequences"** Table==.

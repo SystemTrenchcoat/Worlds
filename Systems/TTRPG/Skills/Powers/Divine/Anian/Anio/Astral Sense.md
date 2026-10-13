@@ -1,0 +1,2 @@
+
+You can experience life through a vessel, empty or willing. ==If you can sense a vessel in any way, you may enter it. When you do so, you perceive life through its senses and cease sensing through your own until you return==

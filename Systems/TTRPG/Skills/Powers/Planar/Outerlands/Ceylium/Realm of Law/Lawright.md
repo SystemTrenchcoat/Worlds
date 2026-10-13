@@ -1,0 +1,2 @@
+
+You understand the laws of reality to write new ones in their image. ==You can write 1 law per pip in [[Systems/TTRPG/Skill Trees/Powers/Planar/Outerlands/Ceylium/Realm of Law|Realm of Law]] that reality bends to in your presence. They may not contradict any known law of reality==.

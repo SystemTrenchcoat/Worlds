@@ -1,0 +1,2 @@
+
+You have knowledge of what will happen before it does. ==3 times a scene, you may force a creature to roll an additional d4 and either add or subtract the result, your choice. Explain how you used this knowledge to change the result (can be used after seeing the result)==

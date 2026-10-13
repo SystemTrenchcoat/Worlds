@@ -4,7 +4,7 @@ tags:
   - divine
 ---
 
-**Epithet**: Goddess of [[Tos|Light]], Truth and Leadership
+**Epithet**: Goddess of [[Magic/Elements/Primary/Tos|Light]], Truth and Leadership
 **Symbol**: Light Shining Through a Magnifying Glass
 
 ## Worshipers

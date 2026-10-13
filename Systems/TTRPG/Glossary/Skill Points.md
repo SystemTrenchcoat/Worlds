@@ -1,2 +1,2 @@
 
-Points gained by playing your character and progressing their story that can be exchanged for skills.
+Points gained by playing your character and progressing their story that can be exchanged for skills. They can be gained at the end of a session, as described in **[[Character Advancement]]**, or, occassionally, as a general reward.

@@ -11,15 +11,15 @@ tags: [excalidraw]
 
 # Transcendant Durability
 
-[[Transcendant Durability]]
+[[Transcendent Durability]]
 
 # Transcendant Archetype
 
-[[Transcendant Archetype]]
+[[Transcendent Archetype]]
 
 # Transcendant Ability
 
-[[Transcendant Ability]]
+[[Transcendent Ability]]
 
 # Excalidraw Data
 

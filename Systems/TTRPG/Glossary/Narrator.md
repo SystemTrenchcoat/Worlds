@@ -1,0 +1,2 @@
+
+The conductor of the story and the player's bridge to the greater world of Eotal. This player has the role of setting the scene and keeping the party going. They are the [[NPC|NPCs]] and the world itself. Talk with them about anything you would like to see in the campaign, and remember, the **Narrator** is a player too.

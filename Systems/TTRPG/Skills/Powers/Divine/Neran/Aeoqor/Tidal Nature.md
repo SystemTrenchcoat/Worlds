@@ -1,0 +1,2 @@
+
+Your presence ebbs and flows like the tide. ==During high tide, your pressence overtakes a room granting +1d6 bonus to rolls involving communicating with others. During low tide, your powers of thought and introspection are amplified, grantiny a +1d6 bonus to rolls involving either==

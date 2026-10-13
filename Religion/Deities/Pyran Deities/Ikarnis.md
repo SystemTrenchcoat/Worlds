@@ -16,13 +16,13 @@ The essence of flame, drive, and generally chaotic and passionate energy, Ikarni
 
 The hearth created the home and the flame is a necessity for such homey warmth. The hearth brought with it food, prosperity, and eventually, children and families. Hesararei is a symbol of fertility and prosperity as well, her flame bringing life, fortune, and cozy vibes. Her domain is separated between childbirth and home.
 
-#### [[Mensecara]]
+#### [[Religion/Deities/Pyran Deities/Mensecara|Mensecara]]
 
-The former is rules by [[Mensecara]], Goddess of Pregnancy, Childcare, and Fertility. She is besought all across [[Eotal]] to aid in all related to children. Whether it to be blessed with a child, to carry to term, to have the child, or even to care for them. She is most worshiped by mothers, midwives, and nannies.
+The former is rules by [[Religion/Deities/Pyran Deities/Mensecara|Mensecara]], Goddess of Pregnancy, Childcare, and Fertility. She is besought all across [[Eotal]] to aid in all related to children. Whether it to be blessed with a child, to carry to term, to have the child, or even to care for them. She is most worshiped by mothers, midwives, and nannies.
 
-#### [[Loresemei]]
+#### [[Loresemei|Loresemei]]
 
-The latter is ruled by [[Loresemei]], Goddess of Hearth, Home, and Prosperity. Her domain is that of comfort and all things home. The people called to her are those who are seeking to create a welcoming space or those looking for more. She is worshiped by innkeepers, homemakers, and those in the hospitality or prosperity seekers.
+The latter is ruled by [[Loresemei|Loresemei]], Goddess of Hearth, Home, and Prosperity. Her domain is that of comfort and all things home. The people called to her are those who are seeking to create a welcoming space or those looking for more. She is worshiped by innkeepers, homemakers, and those in the hospitality or prosperity seekers.
 
 ### Eosimei
 
@@ -31,13 +31,13 @@ The latter is ruled by [[Loresemei]], Goddess of Hearth, Home, and Prosperity. H
 
 Passion, chaos, strength, revelry, the finest things the domain of fire has to offer encompass Eosimei. Her warmth fuels and excites the souls of [[Aun Materia|The Material Plane]].
 
-#### [[Religion/Deities/Pyran Deities/Pyra]]
+#### [[Religion/Deities/Pyran Deities/Pyra|Pyra]]
 
-The aspect of organized will is [[Religion/Deities/Pyran Deities/Pyra]], Goddess of [[Magic/Elements/Primary/Pyr|Fire]], Strength, and Passion. She encompasses all that one can do with dedication and passion, the power of discipline, and the power of the element of fire. She is worshiped by those seeking strength, and those seeking the light and warmth of flame to fuel them.
+The aspect of organized will is [[Religion/Deities/Pyran Deities/Pyra|Pyra]], Goddess of [[Magic/Elements/Primary/Pyr|Fire]], Strength, and Passion. She encompasses all that one can do with dedication and passion, the power of discipline, and the power of the element of fire. She is worshiped by those seeking strength, and those seeking the light and warmth of flame to fuel them.
 
-#### [[Aproveleous]]
+#### [[Aproveleous|Aproveleous]]
 
-Her less organized counterpart is [[Aproveleous]], God of Desire, Chaos, and Revelry. He watches over the hedons, chaos bringers and partiers of the world. [[Aproveleous]] is fueled by the best time and the best vibes, always seeking and fueling the excitement and good times with a bit of chaos to spice things up. He is worshiped by the hedons, merry-makers, tricksters, and those looking for that twinge of excitement.
+Her less organized counterpart is [[Aproveleous|Aproveleous]], God of Desire, Chaos, and Revelry. He watches over the hedons, chaos bringers and partiers of the world. [[Aproveleous|Aproveleous]] is fueled by the best time and the best vibes, always seeking and fueling the excitement and good times with a bit of chaos to spice things up. He is worshiped by the hedons, merry-makers, tricksters, and those looking for that twinge of excitement.
 
 ### Kyano
 
@@ -46,13 +46,13 @@ Her less organized counterpart is [[Aproveleous]], God of Desire, Chaos, and Rev
 
 Battle exists in many forms, from hunting to war. While uncommon, battles and war between intelligent creatures have been waged and fought, other than the most significant two. Destruction, Reason, Strategy, all facts of battle and war.
 
-#### [[Sapienta]]
+#### [[Religion/Deities/Pyran Deities/Sapienta|Sapienta]]
 
-The tame end of this spectrum is [[Sapienta]], Goddess of Reason, Strategy, and Battle. She rules over disputes, strategy and diplomatic efforts, both in and out of war. She is worshiped by tacticians, diplomats, and those fighting with reason and purpose.
+The tame end of this spectrum is [[Religion/Deities/Pyran Deities/Sapienta|Sapienta]], Goddess of Reason, Strategy, and Battle. She rules over disputes, strategy and diplomatic efforts, both in and out of war. She is worshiped by tacticians, diplomats, and those fighting with reason and purpose.
 
-#### [[Pagamarous]]
+#### [[Religion/Deities/Pyran Deities/Pagamarous|Pagamarous]]
 
-Her abrasive counterpart is [[Pagamarous]], God of War, Storms, and Destruction. War is an art to  [[Pagamarous]] and he needs little reason to engage in it. He revels in the destruction, the death and chaos it brings. He also rules over storm for the storm brings about just as much destruction as war. Some might say it is like the sky going to war with the land. He is almost exclusively worshiped by war-mongers and brutes.
+Her abrasive counterpart is [[Religion/Deities/Pyran Deities/Pagamarous|Pagamarous]], God of War, Storms, and Destruction. War is an art to  [[Religion/Deities/Pyran Deities/Pagamarous|Pagamarous]] and he needs little reason to engage in it. He revels in the destruction, the death and chaos it brings. He also rules over storm for the storm brings about just as much destruction as war. Some might say it is like the sky going to war with the land. He is almost exclusively worshiped by war-mongers and brutes.
 
 ### [[Amatis]]
 

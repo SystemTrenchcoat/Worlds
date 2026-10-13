@@ -3,8 +3,8 @@ Roll (probably) **Fortitude** or **Diligence** to recover from the effects of ha
 
 ## Quick
 
-The harm being healed can not be invoked and will decrease by 1 level after a rest
+==The harm being healed can not be invoked and will decrease by 1 level after a rest==
 
 ## Long
 
-The harm being healed decreases by 1 level upon completion
+==The harm being healed decreases by 1 level upon completion==

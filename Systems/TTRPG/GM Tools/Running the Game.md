@@ -1,9 +1,9 @@
 Generally, the structure of StS should go in this rough pattern:
 
-1. GM lays out the scenario for the players
+1. **[[Narrator]]** lays out the scenario for the players
 2. Players respond to the scenario with roleplay or moves
 	* 
-3. GM responds to players using moves as appropriate (as deemed by the GM)
+3. **[[Narrator]]** responds to players using moves as appropriate (as deemed by the GM)
 	* Request a roll (this should always further the story in some way, success or fail)
 	* 
 
@@ -23,7 +23,15 @@ Moves should usually be accompanied by a roll
 LoST - Level of Success Threshold
 Formula - Avg * Difficulty Threshold (number of dice) rounded down when applicable
 
-## 
+## Interparty Conflict and Mediation
+
+Sometimes, your players' characters may naturally oppose each other. Sometimes, it may be the players themselves that have a problem. Regardless, it should be addressed during session 0 what is and is not ok to occur in-game, especially in reference to PvP and the like. That said, sometimes, a player might have an issue with something that happened during a session and it should be your job as **[[Narrator]]** to address this. 
+
+If it has to do with the story or certain themes, be it because it wasn't covered during session 0 or some other reason, then you should aim to be as accomadting as possible. This is a collaborative storytelling game, so while you have a lot of power as **[[Narrator]]**, remember, both you *and* the players are creating the story together.
+
+If it has to do with another player or interplayer dynamics, that can be trickier. First and foremost, let them say their piece. Listen and be respectful. Second, ask what they want (if they don't tell you before you can ask). Sometimes that might mean having a talk with another player on their behalf, sometimes it might mean taking time out before a session to have a conversation about the concern. Regardless, unless otherwise asked by the player, just leave them anonymous. Keep things respectful, and remember to ask for help if you need it.  
+
+If your party does decide to have any amount of PvP or try to roll against each other, rules on how to run this can be found [[Playing the Game#Contested Rolls|here]].
 
 ## Combat
 

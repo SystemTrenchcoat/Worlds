@@ -1,1 +1,2 @@
 
+You long for knowledge that most would rather keep buried. ==Choose the topic of your curiosity from the "Forbidden Knowledge" table. Gain +2d4 on rolls relating to this topic, but remember, many would grow weary of you if they learned of it==.

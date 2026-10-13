@@ -1,2 +1,2 @@
 
-Your familiarity with glyphs allows further insight when reading. ==You can determine scripts at a glance and may roll a **Recall**, **Diligence**, **Discern** or **Will** roll to determine more info on the writer. Additionally, you may read planar languages' intention with **[[Glyph Basics]]**==.
+Your familiarity with glyphs reveals strange symbols on objects all around you. ==You may alter the symbol of an object to turn it into something else. To do so, roll a **Spellcraft** or **Will** check, **Difficulty** increasing with size, complexity, and how  different it is from the original object. Additionally, you may read planar languages' intention with **[[Linguistic Basics]]**==.

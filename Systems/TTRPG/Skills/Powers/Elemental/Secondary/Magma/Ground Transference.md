@@ -1,0 +1,2 @@
+
+You have gained the ability to send your energy through the ground. =="Touch" is anywhere within your **[[Systems/TTRPG/Skills/Adaptation/Sensory/Vibratory Sense|Vibratory Sense]]**. Your **[[Systems/TTRPG/Skills/Adaptation/Sensory/Vibratory Sense]]** increases by 10'==

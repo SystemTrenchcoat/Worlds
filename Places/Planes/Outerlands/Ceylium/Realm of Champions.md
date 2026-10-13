@@ -4,6 +4,8 @@ tags:
   - celestial
   - infernal
   - outer
+aliases:
+  - Realm of Guardians
 ---
 
 The angelic [[Realm of Champions]] overlaps with [[Infernis|The Hells]] most directly, but it also extends to the [[Faelryn]] and [[Aun Materia|The Material Plane]]. It is the home of guardian spirits, natural spirits, and the like. The lands itself are quite simple, the landscape resembles the biomes of the pane it intersects with. The primary difference being many distinct landmasses or landmarks are replaced with spirits. Same thing with creatures, most are just look alikes, but others, especially spirits of natural formations and the like are more abstract

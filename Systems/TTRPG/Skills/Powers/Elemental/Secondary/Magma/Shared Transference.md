@@ -1,0 +1,2 @@
+
+Those you trust can affect creatures through the Eo as you can. ==You may allow creatures to use your **[[Ground Transference]]**. Your **[[Systems/TTRPG/Skills/Adaptation/Sensory/Vibratory Sense|Vibratory Sense]]** increases by 10'==

@@ -1,0 +1,2 @@
+
+There is some energy, some aesthetic, some spark that fuels your very being. ==Those around you are subconsciously influenced by you, making them more and more like your energy in some way. You also feed on another energy, opposite or complimentary. When you do, gain +1 die==. What are the energies you are associated with? What do you usually do to feed? How are you seen by others? Are you originally from [[Infernis]] or were you somehow made elsewhere?

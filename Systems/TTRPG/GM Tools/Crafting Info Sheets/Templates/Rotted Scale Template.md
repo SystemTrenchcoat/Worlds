@@ -28,7 +28,7 @@
 
 ## Ability
 
-**Networking**: ==The scales can release a cloud of spores. Those caught in the cloud must make a **Fortitude** or **Will** check that they can choose to fail. On a failure, the affected creatures share a telepathic link== (**GM Specific Info**: //Add info here :3)
+**Networking**: ==The scales can release a cloud of spores. Those caught in the cloud must make a **Fortitude** or **Will** check that they can choose to fail. On a failure, the affected creatures share a telepathic link== (**[[Narrator]] Specific Info**: //Add info here :3)
 
 ### Key
 

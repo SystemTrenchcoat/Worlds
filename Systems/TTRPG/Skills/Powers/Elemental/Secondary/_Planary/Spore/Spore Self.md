@@ -1,0 +1,2 @@
+
+==You may spread a cloud of spores of your own in a sphere of 5'. They contain a piece of you and can be used to influence others. When you do this, suffer -1 to rolls relating to your body, but gain +1 to rolls involving controlling those hosting your spores. A creature can be affected by these spores multiple times==.

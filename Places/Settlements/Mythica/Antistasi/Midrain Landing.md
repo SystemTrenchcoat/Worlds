@@ -19,4 +19,4 @@ A quiet town in Southwest [[Antistasi]], nearing both the [Syngrou] and [[Rathei
 - [[Rathei Mountains|Rathei]] Caverns
 - Myca't a Good Kill (Hunting Store)
 - Soft Tempest Tavern
-- [[Pagamarous]] Shrine
+- [[Religion/Deities/Pyran Deities/Pagamarous]] Shrine

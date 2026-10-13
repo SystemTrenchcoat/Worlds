@@ -1,2 +1,2 @@
 
-You have found the height of the knowledge you sought, but it changed you. ==Gain the "secret" under your "forbidden knowledge", and suffer -1 **[[Stance]]** in Social interactions as the effects of your research is written across your body==
+You have found the height of the knowledge you sought, but it changed you. ==Gain the "secret" under your "forbidden knowledge", however, most creatures are naturally suspicious of you. Suffer -2 die in Social interactions as the effects of your research is written across your body==

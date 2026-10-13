@@ -11,7 +11,7 @@ A small village on the outskirts of [Antistasi's Forest](Antistasi.md) approachi
 
 - Mountain Farms
 - The Spiral (center of town, like the town square)
-- [[Fruila]]/[[Briosa]] Temple
+- [[Religion/Deities/Brioan Deities/Fruilia]]/[[Briosa]] Temple
 - Wiggling Worm Tavern (very small)
 
 ## Times of Note
