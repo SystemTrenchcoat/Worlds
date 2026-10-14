@@ -1,5 +1,5 @@
 
-Be it through specific words, notes, or ungodly eldritch screeching, you can use sound to effect the world around you. ==You may produce the following affects with sound alone (only one can be active at once)==
+Be it through specific words, notes, or ungodly eldritch screeching, you can use sound to effect the world around you. ==You may produce the following affects with sound alone (you may only activate one at once)==
    - Shatter glass
    - Cause headaches
    - Move objects less than or equal to 10 pounds
