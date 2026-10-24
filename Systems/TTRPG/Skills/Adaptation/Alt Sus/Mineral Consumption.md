@@ -1,0 +1,2 @@
+
+You are able to consume rocks, metals, and other minerals. 1. ==Gain +1 **[[Level of Success]]** on rolls relating to determining the appropriate age and quality of minerals you are consuming. However, when you eat something particularly hard, your jaw gets stiff for a while, suffering the "Stiff" **[[Harm|Minor Physical Harm]]** that heals on its own in a few hours==. What minerals taste the best? Have you ever consumed magic infused ones? Do you consume food other than minerals?

@@ -1,2 +1,2 @@
 
-==You may alter a memory you were present for. Roll a **Difficulty** 22 **Will** or **Spellcraft** check. On a success, this affect occurs and can not be used again for the duration of the session. On a fail, nothing happens==
+==You may alter a memory you were present for. Take a **Difficulty** 22 **[[Harness]]** action. On a success, this affect occurs and can not be used again for the duration of the session. On a fail, nothing happens==

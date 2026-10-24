@@ -1,2 +1,2 @@
 
-Be it a swarm of drones or a menagerie of pets, you have a pack of combatants under your control. ==You may attack with up to 2 of these creatures per pip on this ability like normal, but further attacks suffer a cumulative -2 dice to attacks beyond that.==
+Be it a swarm of drones or a menagerie of pets, you have a pack of combatants under your control. ==You may attack with up to 2 of these creatures per **[[Systems/TTRPG/Skills/Combat/Style/Pack Leader/Pack Leader|Pack Leader]] [[Skill Level]]** like normal, but further attacks suffer a cumulative -2 dice to attacks beyond that.==

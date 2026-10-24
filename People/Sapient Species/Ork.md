@@ -2,5 +2,4 @@
 tags:
   - sapient
 aliases:
-  - orcs
 ---

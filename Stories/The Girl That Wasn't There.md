@@ -1,7 +1,7 @@
 
-It was a brisk autumn noon in the mountains. A cool breeze swept through the warm colored trees as the [[Iosa Tribe]] fanned out in search of food. Young [[Gyir]]'s parents had been teaching them what to forage for and what to avoid, so with a small spear and a basket, the young [[ion-kin]] set off for his first solo forage.
+It was a brisk autumn noon in the mountains. A cool breeze swept through the warm colored trees as the [[Iosa Tribe]] fanned out in search of food. Young [[Gyir]]'s parents had been teaching them what to forage for and what to avoid, so with a small spear and a basket, the young [[People/Sapient Species/Ion-kin]] set off for his first solo forage.
 
-Young [[Ion-kin|jorgen-kin]] are taught weapon use shortly after walking and foraging around that same time. While children this young aren't brought to hunts, they are taught basic combat for emergency scenarios when foraging. [[Gyir]] was no different, and was eager to explore the mountain's forests alone for the first time, so with starry eyes, they set out into the wilderness. 
+Young [[People/Sapient Species/Ion-kin|jorgen-kin]] are taught weapon use shortly after walking and foraging around that same time. While children this young aren't brought to hunts, they are taught basic combat for emergency scenarios when foraging. [[Gyir]] was no different, and was eager to explore the mountain's forests alone for the first time, so with starry eyes, they set out into the wilderness. 
 
 He walked the paths his parents showed him a dozen times now with ease and confidence, collecting berries, herbs, nuts, and even mushrooms as they had been since autumn began, until he found something strange: A stone path leading deep into the forest.
 

@@ -1,0 +1,2 @@
+
+This is a placeholder ability for any alternative consumption not included. You may have a static bonus (+1d6, **[[Level of Success]]**, or +1 die) to a somewhat niche ability and an equal detriment that is thematically (if perhaps jokingly) related (-1d6, **[[Harm|Temporary Minor Harm]]**, or -1 die)

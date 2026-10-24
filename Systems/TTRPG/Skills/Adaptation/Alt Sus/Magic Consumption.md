@@ -1,0 +1,2 @@
+
+You can consume the ambient magic that exists around you. ==When consuming magic, you gain +1 **[[Level of Success]]** to checks involving determining its type. If you are stuck in a place somehow free of magic, you tend to suffer headaches and fatigue, suffering the "Famished" **[[Harm|Minor Physical Harm]]** until you leave==. What do the different elements taste like to you? What does it look like when you're consuming magic? How do you view the energy of the divine?

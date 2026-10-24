@@ -1,2 +1,2 @@
 
-Your connection to [[Magic/Elements/Primary/Ner|Ner]] grows stronger, granting you significant control of it. ==You can control up to 200 liters of water. You may attempt to surpass this limit with a **Spellcraft** or **Will** roll==.
+Your connection to [[Magic/Elements/Primary/Ner|Ner]] grows stronger, granting you significant control of it. ==You can control up to 200 liters of water. You may attempt to surpass this limit with a **[[Harness]]** action==.

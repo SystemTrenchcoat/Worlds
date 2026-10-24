@@ -1,0 +1,2 @@
+
+You be it chemicals near a thermal vent or some other traditionally inedible consumable substances. ==You can not be harmed by consuming whatever substance(s) you consume. When you go a prolonged time without eating these substances, you tend to get sluggish==. Do you consume things outside of these chemicals? What do you consume? Does consuming this/these substance(s) produce a unique effect? If so, what is it??

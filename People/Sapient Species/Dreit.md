@@ -1,0 +1,6 @@
+---
+aliases:
+  - lizardfolk
+  - lizardkin
+---
+

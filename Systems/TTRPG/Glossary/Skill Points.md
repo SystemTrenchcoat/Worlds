@@ -1,2 +1,2 @@
 
-Points gained by playing your character and progressing their story that can be exchanged for skills. They can be gained at the end of a session, as described in **[[Character Advancement]]**, or, occassionally, as a general reward.
+Points gained by playing your character and progressing their story that can be exchanged for skills. They can be gained at the end of a session, as described in **[[Character Advancement]]**, or, occasionally, as a general reward. Most skills should be bought outside of game, however, there may be times when it is more thematic to learn a skill in the heat of the moment; buying skills during a session should be reserved for times such as these.

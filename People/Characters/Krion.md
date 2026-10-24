@@ -7,7 +7,7 @@ tags:
 ## Traits
 * Arrogant
 * Driven
-* [[Ion-kin]]
+* [[People/Sapient Species/Ion-kin]]
 * Talented
 
 ## The Lone Hunter

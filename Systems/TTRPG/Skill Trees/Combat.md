@@ -179,13 +179,13 @@ xBGPP2Ir: [[Combat#Fire]]
 
 LdBp49OV: [[Combat#Grapple]]
 
-gk4ybc0W: [[Systems/TTRPG/Skill Trees/Combat/Combat.md#Shove]]
+gk4ybc0W: [[Combat#Shove]]
 
 hD0S1jGf: [[Combat#Parry]]
 
 ux8YTlFH: [[Combat#Block]]
 
-LgPn0jku: [[Systems/TTRPG/Skill Trees/Combat/Combat.md#Dodge]]
+LgPn0jku: [[Combat#Dodge]]
 
 TRKxbufM: [[Combat#Unarmored]]
 

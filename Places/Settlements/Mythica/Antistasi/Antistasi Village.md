@@ -13,33 +13,33 @@ tags:
 
 - [[Chiron]] - Owner and weapon smith of the Weapon Shop, Husband of [[Nifra]] (Male [[Centaur]])
 
-- [[Enkrana]] - Local archdruid, Wife of [[Heryarus]] (female [[Ion-kin]] (firbolg) )
+- [[Enkrana]] - Local archdruid, Wife of [[Heryarus]] (female [[People/Sapient Species/Ion-kin]] (firbolg) )
 
 - [[Pasht]] - Local poisoner. Supplies the general shop ([[Veɳyos]])
 
-- [[Bharbarnum]] - Known as "the pudding [[Dragonkin]]" for the pudding potions he brews (Male [[Dragonkin]])
+- [[Bharbarnum]] - Known as "the pudding [[Dracokin]]" for the pudding potions he brews (Male [[Dracokin]])
 
-- [[Faedira]] - Local Alchemist, Healer, and Nature Lover (Female [[Gnome]])
+- [[Faedira]] - Local Alchemist, Healer, and Nature Lover (Female [[People/Sapient Species/Gnome]])
 
-- [[Heryarus]] - Priest of the local Forest Temple (Primarily worships [[Briosa]], [[Religion/Deities/Brioan Deities/Diasi]], and [[Religion/Deities/Brioan Deities/Fruilia]]) (Male [[Elf]])
+- [[Heryarus]] - Priest of the local Forest Temple (Primarily worships [[Briosa]], [[Religion/Deities/Brioan Deities/Diasi]], and [[Religion/Deities/Brioan Deities/Fruilia]]) (Male [[People/Sapient Species/Elf]])
 
-- [[Leomyar]] - A hunter of beasts and monstrosities, always after the next big foe (Male [[Elf]])
+- [[Leomyar]] - A hunter of beasts and monstrosities, always after the next big foe (Male [[People/Sapient Species/Elf]])
 
-- [[Aluwyn]] - A lover of small animals and a hunter a hunter of those that defy nature (Female [[Gnome]])
+- [[Aluwyn]] - A lover of small animals and a hunter a hunter of those that defy nature (Female [[People/Sapient Species/Gnome]])
 
 - [[Malachite]] - A warrior and defender of the forest (Male [[Magic/Elements/Primary/Eo]] [[Eleokara]])
 
-- [[Aleel]] - The single best archer in the land (Male [[Birdfolk]])
+- [[Aleel]] - The single best archer in the land (Male [[People/Sapient Species/Biir]])
 
-- [[Oriphyra]] - An archer that weaves magic into every shot (Female [[Elf]])
+- [[Oriphyra]] - An archer that weaves magic into every shot (Female [[People/Sapient Species/Elf]])
 
 - [[Nifra]] - A monster slayer and defender of the village, wife of [[Chiron]] (Female [[Centaur]])
 
-- [[Briar Rose]] - A monster slayer and defender of the village and a close friend of [[Nifra]] (Female [[Beastfolk]])
+- [[Briar Rose]] - A monster slayer and defender of the village and a close friend of [[Nifra]] (Female [[People/Sapient Species/Beao]])
 
-- [[Bramble]] - A fierce protector of the forest (Male [[Beastfolk]])
+- [[Bramble]] - A fierce protector of the forest (Male [[People/Sapient Species/Beao]])
 
-- [[Akorov]] - A fierce protector of the forest (Male [[Beastfolk]])
+- [[Akorov]] - A fierce protector of the forest (Male [[People/Sapient Species/Beao]])
 
 - [[Irevyre]] - Protector against dangerous [[fae]] (Female [[Faeling]])
 

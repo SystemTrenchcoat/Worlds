@@ -1,2 +1,2 @@
 
-==Gain +3 on proportion based rolls==
+You may make alterations to build a specific strength or weakness into something. ==You may use **[[Golden Ratio]]** gain +1 **[[Level of Success]]** to rolls revolving around a strength or weakness your alterations created. You must describe what this strength/weakness is to utilize it (ex. I made the hinges of the made the middle of the door thinner, but the edges thicker. I would like to break a hole in the door)==

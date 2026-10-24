@@ -1,2 +1,2 @@
 
-As your connection to the [[Places/Planes/Borderlands/Realm of the Stars|World Between]] grows stronger, the weaknesses between them grows starker to you. ==You can **[[Search]]** for such weaknesses. At such weaknesses, you, and any others whom are aware of their presence, may roll a **Will** or **Spellcraft** check to traverse to the realm on the other side==
+As your connection to the [[Places/Planes/Borderlands/Realm of the Stars|World Between]] grows stronger, the weaknesses between them grows starker to you. ==You can **[[Search]]** for such weaknesses. At such weaknesses, you, and any others whom are aware of their presence, may take a **[[Harness]]** action to traverse to the realm on the other side==

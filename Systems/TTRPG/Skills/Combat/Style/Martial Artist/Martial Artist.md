@@ -1,2 +1,2 @@
 
-==You may attempt to deflect projectiles as a part of a sucessful **Parry**. Use the number of pips on this ability to determine your dice pool==
+==You may attempt to deflect projectiles as a part of a successful **Parry**. Your dice pool is equal to your **[[Systems/TTRPG/Skills/Combat/Style/Martial Artist/Martial Artist|Martial Artist]] [[Skill Level]]**==

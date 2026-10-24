@@ -47,7 +47,7 @@ Casarvae Giants are able to taste much more than their environment. Thoughts, em
 
 ## Meizakal Giants
 
-Crafted with the ability to hear between worlds, able to tune into any frequency and hear only from there until it changes its mind. Talented ones can focus on multiple frequencies at once and some ver practiced ones can plane shift on demand with it. They have a deep understanding of language and can hear the root of most sound to determine meaning. They are skilled diplomats, negotiators, and merchants. Very good at hearing what on wants or needs so they can get what they want or need.
+Crafted with the ability to hear between worlds, able to tune into any frequency and hear only from there until it changes its mind. Talented ones can focus on multiple frequencies at once and some very practiced ones can plane shift on demand with it. They have a deep understanding of language and can hear the root of most sound to determine meaning. They are skilled diplomats, negotiators, and merchants. Very good at hearing what on wants or needs so they can get what they want or need.
 
 Incredibly powerful ones could hear their way into demiplanes and things like that.
 

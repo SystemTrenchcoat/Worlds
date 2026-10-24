@@ -1,2 +1,2 @@
 
-Rituals increase by an additional **Spellcraft Die** for each point in **Spellcraft**
+Rituals increase by an additional **Spellcraft Die** **[[Spellcraft]] [[Skill Level]]**

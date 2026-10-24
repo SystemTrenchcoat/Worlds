@@ -1,2 +1,2 @@
 
-Your destructive impulse manifests as a physical aura around you. ==Gain +1 **[[Level of Success]]** when your **[[Stormy Disposition]]** is active. Discuss the nature and appearance of the physical aura that accompanies this ability with your **[[Narrator]]**==
+Your destructive impulse manifests as a physical aura around you. ==Gain +1 **[[Level of Success]]** to disrupting and destroying when your **[[Stormy Disposition]]** is active. Discuss the nature and appearance of the physical aura that accompanies this ability with your **[[Narrator]]**==

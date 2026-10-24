@@ -24,6 +24,6 @@ The main skill trees are:
 
 The remaining skill trees each correspond to a power that makes up the world of Eotal. They will be listed in the [[Full Powers List]].
 
-If you need or want some more guidance on what specifically to spend your points on, reference [[Character Seeds]].
+If you need or want some more guidance on what specifically to spend your points on, reference [[Origins]] and [[Character Seeds]].
 
 Congratulations on making a character! Now, if you haven't read through [[Playing the Game]], read through that, otherwise, just wait for your session 0! Communication is vital in a system like STStm, so make sure to communicate with your Narrator and fellow players
