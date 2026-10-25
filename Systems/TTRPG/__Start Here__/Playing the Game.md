@@ -30,4 +30,4 @@ Combat is run similarly to the rest of the game, if with more action.
 3. The **[[Narrator]]** will narrate the actions of the enemies and NPCs, giving any applicable players the opportunity to respond
 4. Repeat
 
-The biggest way this differs from the rest of the game is with **Responses**. The first time a player responds to an action, nothing changes. However, each subsequent time they respond, they suffer -1 die from their dice pool (minimum of 1).
+The biggest way this differs from the rest of the game is with **Responses**. The first time a player responds to an action, nothing changes. However, each subsequent time they respond, they suffer -1 die from their **[[Dice Pool]]** (minimum of 1).

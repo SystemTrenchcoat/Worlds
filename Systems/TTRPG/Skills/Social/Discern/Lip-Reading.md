@@ -1,0 +1,2 @@
+
+The ability to read one's words by watching their mouth. ==When you can see someone's lips move and they are speaking a language you can understand, gain +1 die per **[[Lip-Reading]] [[Level]]** on rolls to absorb information from their words==

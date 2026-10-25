@@ -1,2 +1,2 @@
 
-You are practiced in moving others around the battlefield as you see fit. ==You may move an opponent while you are attacking. They will not knowingly move into an apparent hazard==
+You are practiced in moving others around the battlefield as you see fit. ==Gain +1 die per **[[Shepard]] [[Level]]** to move an opponent while you are attacking without their noticing. They will not knowingly move into an apparent hazard==

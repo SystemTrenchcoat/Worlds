@@ -1,2 +1,2 @@
 
-==Gain +2 dice on called shots==
+==Gain +2 dice per **[[Sharpshooter]] [[Level]]** on called shots==

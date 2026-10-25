@@ -1,1 +1,2 @@
 
+You attempt to parry an incoming attack. ==Succeed on a **[[Maneuver]] Action** to decrease one incoming attack by 1 level of **[[Harm]]**. Additionally, gain +1 die to your next roll against the target per level of success==

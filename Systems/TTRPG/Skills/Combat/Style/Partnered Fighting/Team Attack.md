@@ -1,2 +1,2 @@
 
-You and your partner work together to perform a team attack. ==Combine both of your **[[Attack]]** dice pools for a single attack that does either two instances of **[[Harm|Moderate Physical Harm]]** or one instance of **[[Harm|Major Physical Harm]]**==
+You and your partner work together to perform a team attack. ==Combine both of your **[[Attack]]** **[[Dice Pool|Dice Pools]]** for a single attack that does either two instances of **[[Harm|Moderate Physical Harm]]** or one instance of **[[Harm|Major Physical Harm]]**. Gain +1 die each per **[[Team Attack]] [[Level]]**==

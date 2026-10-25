@@ -1,0 +1,2 @@
+
+The ability to convey one's lived experiences and utilize them to understand those of another. ==When you would use the **[[Socialize]] Action** for this aim, your **[[Dice Pool]]** is equal to your **[[Experience]] [[Level]]**==.

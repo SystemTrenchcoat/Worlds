@@ -1,7 +1,7 @@
 
 You can enchant items with your magic.
 
-==You can make temporary magic items. These items have 1 charge and have **Spellcraft** dice equal to your **[[Systems/TTRPG/Skills/Magic/Enchantment/Enchantment|Enchantment]] [[Skill Level]]**. You may make 1 of these at a time==.
+==You can make temporary magic items. These items have 1 charge and have **Spellcraft** dice equal to your **[[Systems/TTRPG/Skills/Magic/Enchantment/Enchantment|Enchantment]] [[Level]]**. You may make 1 of these at a time==.
 
 ## Removing Enchantments
 

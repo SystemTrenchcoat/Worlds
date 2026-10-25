@@ -1,0 +1,2 @@
+
+The ability to know what plants are medicinal. ==When you use a **[[Search]] Action** to **[[Foraging|Forage]]** for medicinal flora, gain +1 die per **[[Medicinal]] [[Level]]**. Additionally, you know some information on its medicinal uses==

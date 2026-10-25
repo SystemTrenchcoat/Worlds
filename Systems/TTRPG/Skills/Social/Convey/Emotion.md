@@ -1,0 +1,2 @@
+
+The ability to convey and understand one's emotions. ==When you would use the **[[Socialize]] Action** for this aim, your **[[Dice Pool]]** is equal to your **[[Systems/TTRPG/Skills/Social/Convey/Emotion|Emotion]] [[Level]]**==.

@@ -1,2 +1,2 @@
 
-==Gain an additional die on defensive **Maneuvers**==
+==Gain an additional die per **[[Swirling Cloud]] [[Level]]** on defensive **Maneuvers**==

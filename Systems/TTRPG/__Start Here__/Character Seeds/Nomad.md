@@ -12,6 +12,6 @@ You live off the land, travelling place to place. Why do you travel? Where have 
 - [[Systems/TTRPG/Skill Trees/Powers/Planar/Outerlands/Aun Materia/The True Wilds|The True Wilds]]: If you are an animalistic type
 - [[Systems/TTRPG/Skill Trees/Combat/Styles/Pack Leader|Pack Leader]]: If you have a pet
 - [[Systems/TTRPG/Skill Trees/Combat/Styles/Pack Leader|Pack Leader]]: If you have many pets
-- [[Systems/TTRPG/Skill Trees/Combat/Styles/Horde Keeper|Horde Keeper]]: If you have a horde of tiny pets
+- [[Systems/TTRPG/Skill Trees/Combat/Styles/Horde Lord|Horde Lord]]: If you have a horde of tiny pets
 - [[Systems/TTRPG/Skill Trees/Powers/Divine/Anian/Anio|Anio]]: To enhance senses
 - [[Systems/TTRPG/Skill Trees/Powers/Planar/Borderlands/Realm of the Stars|Realm of the Stars]]: If you are a plane walking nomad

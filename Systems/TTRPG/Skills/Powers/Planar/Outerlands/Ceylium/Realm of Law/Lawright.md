@@ -1,2 +1,2 @@
 
-You understand the laws of reality enough to write new ones in their image. ==You can write 1 law per **[[Systems/TTRPG/Skill Trees/Powers/Planar/Outerlands/Ceylium/Realm of Law|Realm of Law]] [[Skill Level]]** that reality bends to in your presence. They may not contradict any known law of reality==.
+You understand the laws of reality enough to write new ones in their image. ==You can write 1 law per **[[Systems/TTRPG/Skill Trees/Powers/Planar/Outerlands/Ceylium/Realm of Law|Realm of Law]] [[Level]]** that reality bends to in your presence. They may not contradict any known law of reality==.

@@ -1,0 +1,2 @@
+
+The ability to find, kill, and process creatures. ==When you use the **[[Search]]**, **[[Tinker]]**, or **[[Socialize]]** actions for hunting, your **[[Dice Pool]]** is equal to your **[[Hunting]] [[Level]]**==.

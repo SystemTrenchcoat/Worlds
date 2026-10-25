@@ -1,2 +1,2 @@
 
-You utilize the length of your weapon to topple your opponent. ==The target is knocked over. All rolls against them are made with an additional die==
+You utilize the length of your weapon to topple your opponent. ==Succeed a **[[Maneuver]] Action** to knock a target over. All rolls against them are made with an additional die per **[[Sweep]] [[Level]]**==

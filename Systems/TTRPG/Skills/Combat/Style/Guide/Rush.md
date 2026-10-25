@@ -1,2 +1,2 @@
 
-==You may do two maneuvers during your turn instead of just one==
+==You may do one additional maneuver during your turn per **[[Rush]] [[Level]]** instead of just one==

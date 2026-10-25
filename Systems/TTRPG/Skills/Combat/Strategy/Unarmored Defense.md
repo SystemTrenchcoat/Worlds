@@ -1,0 +1,2 @@
+
+==Gain +1 die per **[[Unarmored Defense]] [[Level]]** to **[[Dodge]] [[Maneuver]] Actions**. These dice must be of a different stat than the normal, and you must be able to explain how you are using it to improve your dodge==

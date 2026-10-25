@@ -1,0 +1,2 @@
+
+You have a set of gills or similar to effectively live underwater. ==You have the ability to breathe underwater==. What does it feel like to be away from water for long periods of time? Do you have strong feelings about said feeling? Were you from an aquatic or coastal settlement originally? 

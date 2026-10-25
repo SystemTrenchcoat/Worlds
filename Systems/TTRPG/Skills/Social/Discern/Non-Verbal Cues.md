@@ -1,0 +1,2 @@
+
+The ability to pick up on actions one takes to determine their thoughts or mood. ==When you can see a creature you are communicating with, gain +1 die per **[[Non-Verbal Cues]] [[Level]]** to rolls based around understanding their mental/emotional state==

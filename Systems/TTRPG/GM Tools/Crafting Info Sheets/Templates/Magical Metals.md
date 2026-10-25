@@ -30,7 +30,7 @@
 
 ## Abilities
 
-**Magical Catalyst**. A skilled artisan can draw out the latent magic within these metals. ==If you succeed with at least 1 additional **[[Level of Success]]**, you may describe a simple ability the item contains. It has a 2d6 dice pool and increases by 1 for every **[[Level of Success]]**. This ability can be used once a day and recharges at dawn==
+**Magical Catalyst**. A skilled artisan can draw out the latent magic within these metals. ==If you succeed with at least 1 additional **[[Level of Success]]**, you may describe a simple ability the item contains. It has a 2d6 **[[Dice Pool]]** and increases by 1 for every **[[Level of Success]]**. This ability can be used once a day and recharges at dawn==
 
 ### Key
 

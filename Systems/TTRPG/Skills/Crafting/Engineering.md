@@ -1,0 +1,2 @@
+
+The ability to make contraptions with moving parts. ==When you take the **[[Tinker]] Action** to make this kind of object, your **[[Dice Pool]]** is equal to your **[[Engineering]] [[Level]]** plus any other bonuses affecting crafting==

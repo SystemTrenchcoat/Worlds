@@ -1,0 +1,2 @@
+
+The ability to grow crops and tend a plot of land. ==When you take the **[[Tinker]] Action** to take care of plants, your **[[Dice Pool]]** is equal to your **[[Gardening]] [[Level]]** plus any other bonuses affecting crafting==
