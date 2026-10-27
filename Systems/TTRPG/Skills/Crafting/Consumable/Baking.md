@@ -1,2 +1,2 @@
 
-The ability to bake baked goods. ==When you take the **[[Tinker]] Action** to make this kind of object, your **[[Dice Pool]]** is equal to your **[[Engineering]] [[Level]]** plus any other bonuses affecting crafting==
+The ability to bake baked goods. ==When you take the **[[Tinker]] [[Actions|Action]]** to make baked goods, your **[[Dice Pool]]** is equal to your **[[Engineering]] [[Level]]** plus any other bonuses affecting crafting==

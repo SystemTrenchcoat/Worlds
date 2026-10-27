@@ -1,2 +1,2 @@
 
-You are covered in a chitin exoskeleton. ==You have 1 [[armor]] that refills through the [[heal]] action. Additionally, you may use shed scales in Crafts (specifically alchemy)==. What does your carapace look like? What does it look like to repair it? Do you ever shed it?
+You are covered in a chitin exoskeleton. ==You have 1 [[armor]] that refills through the **[[Heal]] [[Actions|Action]]**. Additionally, you may use shed skin in Crafts (specifically alchemy)==. What does your carapace look like? What does it look like to repair it? Do you ever shed it?

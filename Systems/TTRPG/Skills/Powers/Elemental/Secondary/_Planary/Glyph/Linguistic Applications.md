@@ -1,2 +1,2 @@
 
-The symbols that once appeared only on objects have started to appear during actions as well. ==You may utilize your [[Linguistic Origins]] ability on actions as well, though the **Difficulty** will be higher==
+The symbols that once appeared only on objects have started to appear during actions as well. ==You may utilize your **[[Linguistic Origins]]** ability on actions as well, though the **Difficulty** will be higher==

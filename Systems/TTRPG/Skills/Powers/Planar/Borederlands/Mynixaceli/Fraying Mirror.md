@@ -1,2 +1,2 @@
 
-Your powers of distortion grow stronger. ==You can now center distortions on others. Additionally, you may take a **[[Harness]]** action to create an illusion that only one creature experiences. These illusions can only last 1 minute, but are so powerful that for the target it is indistinguishable from reality==.
+Your powers of distortion grow stronger. ==You can now center distortions on others. Additionally, you may take a **[[Harness]] [[Actions|Action]]** to create an illusion that only one creature experiences. These illusions can only last 1 minute, but are so powerful that for the target it is indistinguishable from reality==.

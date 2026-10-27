@@ -1,2 +1,2 @@
 
-Your familiarity with glyphs reveals strange symbols on objects all around you. ==You may alter the symbol of an object to turn it into something else. To do so, take a **[[Harness]]** action, **Difficulty** increasing with size, complexity, and how  different it is from the original object. Additionally, you may read planar languages' intention with **[[Linguistic Basics]]**==.
+Your familiarity with glyphs reveals strange symbols on objects all around you. ==You may alter the symbol of an object to turn it into something else. To do so, take a **[[Harness]] [[Actions|Action]]**, **Difficulty** increasing with size, complexity, and how  different it is from the original object. Additionally, you may read planar languages' intention with **[[Linguistic Basics]]**==.

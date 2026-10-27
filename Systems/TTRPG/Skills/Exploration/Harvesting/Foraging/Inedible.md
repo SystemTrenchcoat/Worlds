@@ -1,2 +1,2 @@
 
-The ability to know what plants are medicinal. ==When you use a **[[Search]] Action** to **[[Foraging|Forage]]** for inedible flora, gain +1 die per **[[Inedible]] [[Level]]**. Additionally, you know some information on its general uses and sometimes, what happens when it is consumed==
+The ability to know what plants are medicinal. ==When you use a **[[Search]] [[Actions|Action]]** to **[[Foraging|Forage]]** for inedible flora, gain +1 die per **[[Inedible]] [[Level]]**. Additionally, you know some information on its general uses and sometimes, what happens when it is consumed==

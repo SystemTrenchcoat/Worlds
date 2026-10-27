@@ -1,2 +1,2 @@
 
-You are practiced in the art of the bow. ==You may take a **[[Maneuver]] Action** to create your own ammunition, simple and unique. This goes for making arrows and any additional effects that go with them==
+You are practiced in the art of the bow. ==You may take a **[[Maneuver]] [[Actions|Action]]** to create your own ammunition, simple and unique. This goes for making arrows and any additional effects that go with them==

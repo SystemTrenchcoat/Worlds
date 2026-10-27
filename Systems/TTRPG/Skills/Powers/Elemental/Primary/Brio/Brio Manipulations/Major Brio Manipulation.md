@@ -1,2 +1,2 @@
 
-==You can transfer 1 instance of **[[Harm]]** from one creature to another once per rest. If you wish to push past this, you must succeed a **Difficulty** 22 **[[Harness]]** action, or take the "Drained" **[[Harm|Minor Metaphysical Harm]]**==
+==You can transfer 1 instance of **[[Harm]]** from one creature to another once per rest. If you wish to push past this, you must succeed a **Difficulty** 22 **[[Harness]] [[Actions|Action]]**, or take the "Drained" **[[Harm|Minor Metaphysical Harm]]**==

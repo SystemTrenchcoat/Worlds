@@ -13,6 +13,7 @@ Most actions have a **Quick** and **Long** version. A **Quick Action** takes min
 ### Quick
 
 - [[Harness]]
+- [[Spellcast]]
 - [[Maneuver]]
 - [[Help]]
 - [[Socialize]]

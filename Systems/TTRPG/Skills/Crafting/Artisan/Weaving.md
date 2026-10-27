@@ -1,2 +1,2 @@
 
-The ability to create textiles. ==When you take the **[[Tinker]] Action** to make this kind of object, your **[[Dice Pool]]** is equal to your **[[Weaving]] [[Level]]** plus any other bonuses affecting crafting==
+The ability to create textiles. ==When you take the **[[Tinker]] [[Actions|Action]]** to make textiles, your **[[Dice Pool]]** is equal to your **[[Weaving]] [[Level]]** plus any other bonuses affecting crafting==

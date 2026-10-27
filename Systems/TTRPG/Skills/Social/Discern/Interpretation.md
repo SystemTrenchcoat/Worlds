@@ -1,0 +1,2 @@
+
+The ability to decipher the meaning behind words, especially across different languages. ==When you take a **[[Socialize]] [[Actions|Action]]** to determine the meaning behind someone's words, gain +1 die per **[[Interpretation]] [[Level]]**==

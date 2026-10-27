@@ -1,2 +1,2 @@
 
-Your feathers are hardened for offense and defense. ==You may perform the **[[Fire]]**, **[[Attack]]**, and **[[Parry]]** **[[Maneuver]] Actions** with your wings. Gain +1 die per **[[Systems/TTRPG/Skills/Combat/Style/Winged Warrior/Winged Warrior|Winged Warrior]] [[Level]]** when you do so==.
+Your feathers are hardened for offense and defense. ==You may perform the **[[Fire]]**, **[[Attack]]**, and **[[Parry]]** **[[Maneuver]] [[Actions]]** with your wings. Gain +1 die per **[[Systems/TTRPG/Skills/Combat/Style/Winged Warrior/Winged Warrior|Winged Warrior]] [[Level]]** when you do so==.

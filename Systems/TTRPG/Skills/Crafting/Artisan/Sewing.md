@@ -1,2 +1,2 @@
 
-The ability to stitch things together. ==When you take the **[[Tinker]] Action** to make this kind of object, your **[[Dice Pool]]** is equal to your **[[Sewing]] [[Level]]** plus any other bonuses affecting crafting==
+The ability to stitch things together. ==When you take the **[[Tinker]] [[Actions|Action]]** to make an object stitched together, your **[[Dice Pool]]** is equal to your **[[Sewing]] [[Level]]** plus any other bonuses affecting crafting==

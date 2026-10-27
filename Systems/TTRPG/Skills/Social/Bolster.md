@@ -1,2 +1,2 @@
 
-You have a pool of 5d6s that can be used to enhance a roll. These dice are refilled after a rest.
+You have an almost supernatural ability to enhance the abilities of others. ==You have a pool of 5 dice that can be used to enhance a roll. When a creature in your presence is prompted with a roll, you may give them a up to all of these dice to a creature. When you do this, remove these dice from the pool. These dice are refilled after a rest. The die size changes with your **[[Bolster]] [[Level]]**; at 1, the dice are d6s, at 2, d8s, and at 3, d10s==.

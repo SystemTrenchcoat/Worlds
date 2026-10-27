@@ -1,2 +1,2 @@
 
-The ability to know what plants are edible. ==When you use a **[[Search]] Action** to **[[Foraging|Forage]]** for edible flora, gain +1 die per **[[Edible]] [[Level]]**. Additionally, you know some information about its culinary uses and sometimes flavor==
+The ability to know what plants are edible. ==When you use a **[[Search]] [[Actions|Action]]** to **[[Foraging|Forage]]** for edible flora, gain +1 die per **[[Edible]] [[Level]]**. Additionally, you know some information about its culinary uses and sometimes flavor==

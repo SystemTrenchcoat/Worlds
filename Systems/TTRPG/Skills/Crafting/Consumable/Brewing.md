@@ -1,2 +1,2 @@
 
-The ability to brew drinks and other alchemical concoctions. ==When you take the **[[Tinker]] Action** to make this kind of object, your **[[Dice Pool]]** is equal to your **[[Brewing]] [[Level]]** plus any other bonuses affecting crafting==
+The ability to brew drinks and other alchemical concoctions. ==When you take the **[[Tinker]] [[Actions|Action]]** to make fermented or alchemical concotions, your **[[Dice Pool]]** is equal to your **[[Brewing]] [[Level]]** plus any other bonuses affecting crafting==

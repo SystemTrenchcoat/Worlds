@@ -1,2 +1,2 @@
 
-The ability to create things out of clay. ==When you take the **[[Tinker]] Action** to make this kind of object, your **[[Dice Pool]]** is equal to your **[[Ceramics]] [[Level]]** plus any other bonuses affecting crafting==
+The ability to create things out of clay. ==When you take the **[[Tinker]] [[Actions|Action]]** to make clay objects, your **[[Dice Pool]]** is equal to your **[[Ceramics]] [[Level]]** plus any other bonuses affecting crafting==

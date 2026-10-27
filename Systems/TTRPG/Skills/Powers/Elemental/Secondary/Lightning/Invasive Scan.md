@@ -1,2 +1,2 @@
 
-You may choose to get more information about those in range of **[[Electric Mind]]**. ==Make a **[[Harness]]** action; On a success, you may learn an innate skill that the target has, but deal the **Minor Physical Harm** "shocked". On a fail, only deal "shocked". Each **Degree of Success** increases info learned by 1. For each **Degree of Failure**, take 1 "shocked"==
+You may choose to get more information about those in range of **[[Electric Mind]]**. ==Make a **[[Harness]] [[Actions|Action]]**; On a success, you may learn an innate skill that the target has, but deal the **Minor Physical Harm** "shocked". On a fail, only deal "shocked". Each **Degree of Success** increases info learned by 1. For each **Degree of Failure**, take 1 "shocked"==

@@ -1,3 +1,3 @@
 
 You can combine a variety of contraptions together, combining spell effects to create something new. ==Each part consumes a contraption slot. If the caster exceeds their alotted slots with this as the oldest, the caster can choose one part of this contraption to disable, spending time to remove it if they wish. 
-These contraptions can all connect to 1 base, or be multiple contraptions. The specific nature of your synergetic effect must be determined at creation or added via **[[Tinker]]** action==
+These contraptions can all connect to 1 base, or be multiple contraptions. The specific nature of your synergetic effect must be determined at creation or added via **[[Tinker]] [[Actions|Action]]**==

@@ -1,2 +1,2 @@
 
-The ability to prepare and cook food. ==When you take the **[[Tinker]] Action** to make this kind of object, your **[[Dice Pool]]** is equal to your **[[Cooking]] [[Level]]** plus any other bonuses affecting crafting==
+The ability to prepare and cook food. ==When you take the **[[Tinker]] Action** to prepare and cook food, your **[[Dice Pool]]** is equal to your **[[Cooking]] [[Level]]** plus any other bonuses affecting crafting==

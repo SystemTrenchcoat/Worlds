@@ -1,2 +1,2 @@
 
-You have a supernatural connection to mushrooms and spores of every variety. ==Gain +1d6 on **[[Search]]** actions related to finding a mushrooms and other spores. Additionally, when you see these spores, you immediately know the type and rough danger level==
+You have a supernatural connection to mushrooms and spores of every variety. ==Gain +1d6 on **[[Search]] [[Actions]]** related to finding a mushrooms and other spores. Additionally, when you see these spores, you immediately know the type and rough danger level==

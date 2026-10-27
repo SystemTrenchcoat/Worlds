@@ -1,2 +1,2 @@
 
-You direct your swarm to disorient a target making actions against them easier. ==Take a **[[Maneuver]] Action** using **Prowess** or **Convey**. On a success, gain +1 die per **[[Infest]] [[Level]]** against them as long as they remain in the swarm==.
+You direct your swarm to disorient a target making actions against them easier. ==Take a **[[Maneuver]] [[Actions|Action]]** using **Prowess** or **Convey**. On a success, gain +1 die per **[[Infest]] [[Level]]** against them as long as they remain in the swarm==.

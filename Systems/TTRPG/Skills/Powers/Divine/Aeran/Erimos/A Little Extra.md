@@ -1,2 +1,2 @@
 
-==When you do a Set Up action, add +1d6 to the roll==
+==When you do a **[[Setup]] [[Actions|Action]]**, add +1d6 to the roll==

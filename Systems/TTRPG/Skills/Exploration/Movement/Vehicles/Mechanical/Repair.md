@@ -1,2 +1,2 @@
 
-The ability to repair vehicles. ==You may use a **[[Tinker]] Action** to repair a vehicle. When you do so, your **[[Dice Pool]]** is equal to your **[[Repair]] [[Level]]** plus your **[[Engineering]] [[Level]]**==.
+The ability to repair vehicles. ==You may use a **[[Tinker]] [[Actions|Action]]** to repair a vehicle. When you do so, your **[[Dice Pool]]** is equal to your **[[Repair]] [[Level]]** plus your **[[Engineering]] [[Level]]**==.

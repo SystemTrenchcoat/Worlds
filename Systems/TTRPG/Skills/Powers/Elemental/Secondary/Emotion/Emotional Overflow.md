@@ -1,2 +1,2 @@
 
-Your connection with emotion is so potent that it affects your ability. ==You gain +1d6 per node in **[[Systems/TTRPG/Skill Trees/Powers/Elemental/Secondary/Emotion|Emotion]]**, to actions that align with your emotional state, but suffer -1d6 per node in **[[Systems/TTRPG/Skill Trees/Powers/Elemental/Secondary/Emotion|Emotion]]** to those that run counter to it==
+Your connection with emotion is so potent that it affects your ability. ==You gain +1d6 per node in **[[Systems/TTRPG/Skill Trees/Powers/Elemental/Secondary/Emotion|Emotion]]**, to **[[Actions]]** that align with your emotional state, but suffer -1d6 per node in **[[Systems/TTRPG/Skill Trees/Powers/Elemental/Secondary/Emotion|Emotion]]** to those that run counter to it==

@@ -1,2 +1,2 @@
 
-The ability to make items out of wood.
+The ability to make items out of wood. ==When you take the **[[Tinker]] [[Actions|Action]]** to make an object out of wood, your **[[Dice Pool]]** is equal to your **[[Ceramics]] [[Level]]** plus any other bonuses affecting crafting==

@@ -1,2 +1,2 @@
 
-You are covered in hardened scales. ==You have 1 [[armor]] that refills through the [[heal]] action. Additionally, you may use shed scales in Crafts (specifically alchemy)==. What do your scales look like? Do you shed? What do others think of your scales?
+You are covered in hardened scales. ==You have 1 [[armor]] that refills through the **[[Heal]] [[Actions|Action]]**. Additionally, you may use shed scales in Crafts (specifically alchemy)==. What do your scales look like? Do you shed? What do others think of your scales?

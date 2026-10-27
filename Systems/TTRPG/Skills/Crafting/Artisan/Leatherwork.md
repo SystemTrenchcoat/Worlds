@@ -1,2 +1,2 @@
 
-The ability to tan and work leather. ==When you take the **[[Tinker]] Action** to make this kind of object, your **[[Dice Pool]]** is equal to your **[[Leatherwork]] [[Level]]** plus any other bonuses affecting crafting==
+The ability to tan and work leather. ==When you take the **[[Tinker]] [[Actions|Action]]** to tan or work leather, your **[[Dice Pool]]** is equal to your **[[Leatherwork]] [[Level]]** plus any other bonuses affecting crafting==

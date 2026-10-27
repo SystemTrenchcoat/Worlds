@@ -23,6 +23,16 @@ Moves should usually be accompanied by a roll
 LoST - Level of Success Threshold
 Formula - Avg * Difficulty Threshold (number of dice) rounded down when applicable
 
+### Examples
+
+| Rank         | Simple (1)                 | Moderate (2)            | Challenging (4)              | Difficult (6)                            | Impossible (8+)                                        |
+| ------------ | -------------------------- | ----------------------- | ---------------------------- | ---------------------------------------- | ------------------------------------------------------ |
+| Leyperson    | Traversing a shallow river | Shooting a target       | 10                           | 15                                       | 20                                                     |
+| Novice       | Weaving a basket           | Traversing a calm river | Shooting a running target    | Shooting an erratically running target   | 28                                                     |
+| Intermediate | 4                          | 9                       | Traversing a tall rocky wall | 27                                       | 36                                                     |
+| Advanced     | 5                          | 11                      | 22                           | Traversing an upside-down cliff face     | Shooting an erratically running target in its vitals   |
+| Master       | 6                          | 13                      | 26                           | Making an life sized replica of a person | 52                                                     |
+| Sage         | 10                         | 21                      | 42                           | 63                                       | Traversing a tall mountain with no guide in a blizzard |
 ## Interparty Conflict and Mediation
 
 Sometimes, your players' characters may naturally oppose each other. Sometimes, it may be the players themselves that have a problem. Regardless, it should be addressed during session 0 what is and is not ok to occur in-game, especially in reference to PvP and the like. That said, sometimes, a player might have an issue with something that happened during a session and it should be your job as **[[Narrator]]** to address this. 

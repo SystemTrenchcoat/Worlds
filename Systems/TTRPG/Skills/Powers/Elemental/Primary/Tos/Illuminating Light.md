@@ -1,2 +1,2 @@
 
-The light of deception struggles to reach you. ==Gain **[[Fate's Favor]]** on rolls to see through deception. Additionally, you are aware of when an illusion is affecting you, but must take a **[[Search]]** action to do so==
+The light of deception struggles to reach you. ==Gain **[[Fate's Favor]]** on rolls to see through deception. Additionally, you are aware of when an illusion is affecting you, but must take a **[[Search]] [[Actions|Action]]** to do so==

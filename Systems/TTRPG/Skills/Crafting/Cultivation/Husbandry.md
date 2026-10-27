@@ -1,2 +1,2 @@
 
-The ability to raise animals. ==When you take the **[[Tinker]] Action** to tend to animals, your **[[Dice Pool]]** is equal to your **[[Husbandry]] [[Level]]** plus any other bonuses affecting crafting==
+The ability to raise animals. ==When you take the **[[Tinker]] [[Actions|Action]]** to tend to animals, your **[[Dice Pool]]** is equal to your **[[Husbandry]] [[Level]]** plus any other bonuses affecting crafting==

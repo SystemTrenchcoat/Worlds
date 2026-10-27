@@ -1,2 +1,2 @@
 
-==You may disrupt a spell/effect you have seen and make it into a new one you haven't. To do so, take a **Difficulty** 20 (or contested if it is being used on a **[[PC]]**) **[[Harness]]** action, or take the "Drained" **[[Harm|Moderate Metaphysical Harm]]**. If you have seen every spell, ability, and effect, create a new one==.
+==You may disrupt a spell/effect you have seen and make it into a new one you haven't. To do so, take a **Difficulty** 20 (or contested if it is being used on a **[[PC]]**) **[[Harness]] [[Actions|Action]]**, or take the "Drained" **[[Harm|Moderate Metaphysical Harm]]**. If you have seen every spell, ability, and effect, create a new one==.
