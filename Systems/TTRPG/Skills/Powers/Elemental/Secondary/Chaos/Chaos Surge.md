@@ -1,2 +1,2 @@
 
-==You may roll on one of the "chaos tables" at your disgression. The **[[Narrator]]** may force you to roll at theirs. If a roll occurs more than once in a row, a chaotic surge occurs setting off a **[[Narrator]]** determined effect and dealing the **[Minor Metaphysical Harm](Harm)** "Chaos-Touched"==.
+==You may roll on one of the "chaos tables" at your disgression. The **[[Narrator]]** may force you to roll at theirs. If a roll occurs more than once in a row, a chaotic surge occurs setting off a **[[Narrator]]** determined effect and dealing the **[[Harm|Minor Metaphysical Harm]]** "Chaos-Touched"==.

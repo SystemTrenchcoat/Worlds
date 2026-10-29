@@ -1,2 +1,2 @@
 
-Your connection to the [[Places/Planes/Borderlands/Realm of the Stars]] has evolved, making you more than a mere terrestrial traveller. ==You may make a **[[Harness]] [[Actions|Action]]** check to walk to adjacent realms you can see with or without a weak point==
+Your connection to the [[Places/Planes/Borderlands/Realm of the Stars|World Between]] has evolved, making you more than a mere terrestrial traveller. ==You may make a **[[Harness]] [[Actions|Action]]** to walk to adjacent realms you can see with or without a weak point==

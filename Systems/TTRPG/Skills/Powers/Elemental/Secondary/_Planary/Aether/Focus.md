@@ -1,2 +1,2 @@
 
-You may enter a state where the outside world seems to fade away. ==When you do so, gain **[[Fate's Favor]]** on **Diligence**, **Deftness**, **Will**, **Fortitude**, and **Recall** checks, but suffer **[[Fortune's Bane]]** on **Convey**, **Discern**, **Agility**, and any other checks that deal with your surroundings==
+You may enter a state where the outside world seems to fade away. ==When you do so, gain **[[Fate's Favor]]** on **[[Heal]]**, **[[Spellcast]]**, and **[[Tinker]] [[Actions]]**, as well as any checks that deal with your inner world, but suffer **[[Fortune's Bane]]** on **[[Socialize]]**, **[[Traverse]]**, and **[[Maneuver]] [[Actions]]**, and any other checks that deal with your surroundings==

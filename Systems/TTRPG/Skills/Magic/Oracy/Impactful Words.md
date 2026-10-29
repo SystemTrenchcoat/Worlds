@@ -1,2 +1,2 @@
 
-When a creature hears your words, add 1 die
+==When a creature hears your words, gain +1 die==

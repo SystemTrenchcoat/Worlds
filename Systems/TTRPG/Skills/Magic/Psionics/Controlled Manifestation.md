@@ -1,2 +1,2 @@
 
-==When you utilize **Dangerous Manifestation**, roll **Fortitude** or **Will**. On a success, you do not take harm. This must be rolled for each instance of harm. Additionally, the number of spells you can cast increases to twice your **Spellcraft [[Die Max]]**==
+==When you utilize **Dangerous Manifestation**, take a **[[Harness]] [[Actions|Action]]**. On a success, you do not take harm. This must be rolled for each instance of harm. Additionally, the number of spells you can cast increases to twice your **Spellcraft [[Die Max]]**==

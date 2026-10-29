@@ -1,2 +1,2 @@
 
-The avenues life takes and how to utilize it for your own gain. ==You may roll **Diligence**, **Will**, or **Discern** to learn the innate abilities of a creature and the abilities that can be gained using their parts. Additionally, if you have **[[Moderate Brio Manipulation]]**, you learn the adaptations that lay dormant within them==
+The avenues life takes and how to utilize it for your own gain. ==You may roll **[[Search]]** or **[[Harness]] [[Actions|Action]]** to learn the innate abilities of a creature and the abilities that can be gained using their parts. Additionally, if you have **[[Moderate Brio Manipulation]]**, you learn the adaptations that lay dormant within them==

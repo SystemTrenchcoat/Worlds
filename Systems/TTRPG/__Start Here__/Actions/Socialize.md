@@ -1,3 +1,3 @@
 
-Roll **Convey** to interact with other people
+Roll **Convey** or **Discern** to interact with other people
 

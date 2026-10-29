@@ -1,2 +1,2 @@
 
-You are able to navigate through vibrations all around you. ==You can navigate within a 10' radius sphere without sight so long as nothing is affecting your equalibrium. Additionally, you may roll a **Difficulty 22 Observation** check to discern notable energies in the area of your **[[Systems/TTRPG/Skills/Adaptation/Sensory/Vibratory Sense]]**==
+You are able to navigate through vibrations all around you. ==You can navigate within a 10' radius sphere without sight so long as nothing is affecting your equilibrium. Additionally, you may roll a **Difficulty 22 [[Search]] [[Actions|Action]]** check to discern notable energies in the area of your **[[Systems/TTRPG/Skills/Adaptation/Sensory/Vibratory Sense|Vibratory Sense]]**==

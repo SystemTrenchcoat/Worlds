@@ -1,0 +1,2 @@
+
+Roll **Will** or **Fortitude** to resist some negative effect. Your **[[Dice Pool]]** for this is equal to the **[[Level]]** of the **[[Abilities|Ability]]** you didn't use (i.e. if you roll **Will**, your **[[DIce Pool]]** would be equal to your **Fortitude [[Level]]**) )

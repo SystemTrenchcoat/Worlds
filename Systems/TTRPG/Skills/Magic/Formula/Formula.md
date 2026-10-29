@@ -1,2 +1,2 @@
 
-Be it an incantation, rune, movement, or collection of ingredients, your magic comes from a recipe. Choose the nature of your formula. ==You may cast magic using these formulas. Your formula pool is equal to half of your **Spellcraft [[Die Max]]**.==
+Be it an incantation, rune, movement, or collection of ingredients, your magic comes from a recipe. Choose the nature of your formula. ==You may cast magic using these formulas. You can cast a number of spells equal to half of your **Spellcraft [[Die Max]]**.==

@@ -11,6 +11,8 @@ Moves should usually be accompanied by a roll
 
 ## Rolls
 
+Rolls should be considered on two axioms: The level of complexity on a scale of 1 - 8+ and the level of familiarity on a scale of 1 - 6 (d4 - d20). A simple equation is to simply multiply the complexity scale by the die average, rounding down, however, there are some helpful benchmarks listed below. You may think about this from an "objective" view, or you can focus on how the player would view it.
+
 | Die | Rank         | Avg. | Simple (1) | Moderate (2) | Challenging (4) | Difficult (6) | Impossible (8+) | LoST (2) |
 | --- | ------------ | ---- | ---------- | ------------ | --------------- | ------------- | --------------- | -------- |
 | d4  | Leyperson    | 2.5  | 2          | 5            | 10              | 15            | 20              | 5        |
@@ -25,14 +27,14 @@ Formula - Avg * Difficulty Threshold (number of dice) rounded down when applicab
 
 ### Examples
 
-| Rank         | Simple (1)                 | Moderate (2)            | Challenging (4)              | Difficult (6)                            | Impossible (8+)                                        |
-| ------------ | -------------------------- | ----------------------- | ---------------------------- | ---------------------------------------- | ------------------------------------------------------ |
-| Leyperson    | Traversing a shallow river | Shooting a target       | 10                           | 15                                       | 20                                                     |
-| Novice       | Weaving a basket           | Traversing a calm river | Shooting a running target    | Shooting an erratically running target   | 28                                                     |
-| Intermediate | 4                          | 9                       | Traversing a tall rocky wall | 27                                       | 36                                                     |
-| Advanced     | 5                          | 11                      | 22                           | Traversing an upside-down cliff face     | Shooting an erratically running target in its vitals   |
-| Master       | 6                          | 13                      | 26                           | Making an life sized replica of a person | 52                                                     |
-| Sage         | 10                         | 21                      | 42                           | 63                                       | Traversing a tall mountain with no guide in a blizzard |
+| Rank         | Simple (1)                                    | Moderate (2)                                                    | Challenging (4)                                    | Difficult (6)                            | Impossible (8+)                                        |
+| ------------ | --------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------ |
+| Leyperson    | Traversing a shallow river                    | Shooting a target                                               | Deceiving a crowd                                  | Researching some obscure topic           | Deceiving a royal court                                |
+| Novice       | Weaving a basket                              | Traversing a calm river                                         | Shooting a running target                          | Treating a complex disease               | Curing an unfamiliar disease                           |
+| Intermediate | Making a blanket                              | Making a moving toy                                             | Traversing a tall rocky wall                       | Shooting an erratically running target   | Making a flying clockwork toy                          |
+| Advanced     | Improvising a song with a familiar instrument | Improvising with an instrument similar to a familiar instrument | Improvising with an unfamiliar instrument          | Traversing an upside-down cliff face     | Shooting an erratically running target in its eye      |
+| Master       | Enchanting a weapon in its creation           | Making a specialty weapon with simple blueprints                | Making a specialty weapon through only description | Making an life sized replica of a person | Making a nuclear bomb (intentionally)                  |
+| Sage         | Crushing a brick with bare hands/feet         | Making an elegant multi-course meal                             | Surviving a potent poison                          | Exactly imitating a person               | Traversing a tall mountain with no guide in a blizzard |
 ## Interparty Conflict and Mediation
 
 Sometimes, your players' characters may naturally oppose each other. Sometimes, it may be the players themselves that have a problem. Regardless, it should be addressed during session 0 what is and is not ok to occur in-game, especially in reference to PvP and the like. That said, sometimes, a player might have an issue with something that happened during a session and it should be your job as **[[Narrator]]** to address this. 

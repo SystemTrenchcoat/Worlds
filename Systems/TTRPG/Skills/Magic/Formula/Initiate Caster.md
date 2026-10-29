@@ -1,2 +1,2 @@
 
-==Your formula pool is equal to your **Spellcraft [[Die Max]]**==
+==You can cast a number of spells equal to your **Spellcraft [[Die Max]]**==

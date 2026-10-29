@@ -1,5 +1,5 @@
 
-Roll something applicable to the goal to decrease the result.
+Roll something applicable to a goal to decrease the result.
 
 ## Quick
 

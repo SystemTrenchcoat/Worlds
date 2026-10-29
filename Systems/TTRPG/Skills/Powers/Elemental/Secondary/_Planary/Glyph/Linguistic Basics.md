@@ -1,2 +1,2 @@
 
-==You can read the intention of any material written language. You may attempt to read planar languages with a **Recall**, **Diligence**, **Discern**, or **Will** roll. Additionally, you may take a **[[Search]] [[Actions|Action]]** to determine more info on the writer==
+==You can read the intention of any material written language. You may attempt to read planar languages with a **[[Search]]** or **[[Harness]] [[Actions|Action]]** roll. Additionally, you may take a **[[Search]] [[Actions|Action]]** to determine more info on the writer==

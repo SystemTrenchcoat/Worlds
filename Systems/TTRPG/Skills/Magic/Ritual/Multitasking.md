@@ -1,2 +1,2 @@
 
-Caster can take other actions while performing rituals.
+==You can take other **[[Actions]]** while performing rituals.==

@@ -1,2 +1,2 @@
 
-==Your enchantment slot capacity increases by double **Spellcraft** and **Enchantment** levels==
+==Your enchantment slot capacity increases by double **Spellcraft** and **Enchantment [[Level|Levels]]**==

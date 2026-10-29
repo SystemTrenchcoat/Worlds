@@ -1,2 +1,2 @@
 
-You can steal anything from anyone. ==Roll a **Will** check. On a success, keep the thing until the next dawn if it is not an object. If it is an object, keep it indefinitely. On a fail, the creature is immune to this until the next dawn==
+You can steal anything from anyone. ==Success a **[[Harness]] [[Actions|Action]]**, keep the thing until the next dawn if it is not an object. If it is an object, keep it indefinitely. On a fail, the creature is immune to this until the next dawn==
